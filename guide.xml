@@ -1,11 +1,1453 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Example">
-    <display-name lang="en">Example</display-name>
-    <url>http://www.dummy</url>
+  <channel id="AMC HD">
+    <display-name lang="pt">AMC HD</display-name>
+    <icon src="http://www.lineup.tv.br/canais/amc.gif" />
+    <url>http://www.lineup.net.br</url>
   </channel>
-  <programme start="20180606000000 +0100" stop="20180606235900 +0100" channel="Example">
-    <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber(n)</desc>
+  <channel id="AMC SD [Brazil]">
+    <display-name lang="pt">AMC SD [Brazil]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20180606001500 -0300" stop="20180606011000 -0300" channel="AMC HD">
+    <title lang="pt">Hap &amp; Leonard - S3E1</title>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180606011000 -0300" stop="20180606030000 -0300" channel="AMC HD">
+    <title lang="pt">Anjos da Noite - A Rebelião</title>
+    <desc lang="pt">O terceiro filme da épica saga Anjos da Noite retorna no tempo para contar as origens do conflito entre os aristocráticos vampiros conhecidos como Mercadores da Morte e os bárbaros lycans, uma linhagem de lobisomens selvagens(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA/Nova Zelândia</country>
+  </programme>
+  <programme start="20180606030000 -0300" stop="20180606050000 -0300" channel="AMC HD">
+    <title lang="pt">A Volta dos Bravos</title>
+    <desc lang="pt">O filme conta a história de três soldados americanos que voltam para casa após lutarem vários meses na guerra do Iraque. Eles precisam enfrentar o trauma pós-guerra e aceitar uma nova realidade(n)</desc>
+    <date>2006</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA/Marrocos</country>
+  </programme>
+  <programme start="20180606050000 -0300" stop="20180606070000 -0300" channel="AMC HD">
+    <title lang="pt">Um Plano Brilhante</title>
+    <desc lang="pt">Uma executiva dedidada, mas frustrada por seu sucesso profissional ser impedido pelo fato de ser mulher se une ao zelador para planejar um roubo na empresa de diamantes em que trabalham(n)</desc>
+    <date>2007</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>Reino Unido/Luxemburgo</country>
+  </programme>
+  <programme start="20180606070000 -0300" stop="20180606073000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180606073000 -0300" stop="20180606080000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180606080000 -0300" stop="20180606083000 -0300" channel="AMC HD">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180606083000 -0300" stop="20180606090000 -0300" channel="AMC HD">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180606090000 -0300" stop="20180606093000 -0300" channel="AMC HD">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180606093000 -0300" stop="20180606100000 -0300" channel="AMC HD">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180606100000 -0300" stop="20180606103000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180606103000 -0300" stop="20180606105500 -0300" channel="AMC HD">
+    <title lang="pt">Comic Book Men - S7E10</title>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180606105500 -0300" stop="20180606125500 -0300" channel="AMC HD">
+    <title lang="pt">O Exterminador do Futuro 3: Rebelião das Máquinas</title>
+    <desc lang="pt">Dez anos depois, uma sofisticada máquina vem do futuro para acabar com John e os líderes da resistência. E só outro Exterminador conseguirá detê-la(n)</desc>
+    <date>2003</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA/Alemanha/Inglaterra</country>
+  </programme>
+  <programme start="20180606125500 -0300" stop="20180606143000 -0300" channel="AMC HD">
+    <title lang="pt">Pequenos Espiões</title>
+    <desc lang="pt">Gregorio e Ingrid foram os maiores agentes secretos de seus países. Quando se apaixonam, deixam o mundo dos disfarces para ter uma família de verdade(n)</desc>
+    <date>2001</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180606143000 -0300" stop="20180606163000 -0300" channel="AMC HD">
+    <title lang="pt">O Exterminador do Futuro 3: Rebelião das Máquinas</title>
+    <desc lang="pt">Dez anos depois, uma sofisticada máquina vem do futuro para acabar com John e os líderes da resistência. E só outro Exterminador conseguirá detê-la(n)</desc>
+    <date>2003</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA/Alemanha/Inglaterra</country>
+  </programme>
+  <programme start="20180606163000 -0300" stop="20180606183000 -0300" channel="AMC HD">
+    <title lang="pt">Margin Call - O Dia Antes Do Fim</title>
+    <desc lang="pt">Vinte e quatro horas antes de o sistema financeiro americano explodir, um analista novato termina o trabalho de um colega e descobre, por meio de alguns cálculos, que o banco para o qual trabalha pode ir à falência(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>USA</country>
+  </programme>
+  <programme start="20180606183000 -0300" stop="20180606200000 -0300" channel="AMC HD">
+    <title lang="pt">O Preço do Prêmio</title>
+    <desc lang="pt">Cinco jovens se reúnem para tentar ganhar um prêmio de quinhentos mil dólares oferecido por um site internacional, para isso eles devem resolver uma série de enigmas(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20180606200000 -0300" stop="20180606205500 -0300" channel="AMC HD">
+    <title lang="pt">Fear The Walking Dead - S4E7</title>
+    <desc lang="pt">A decisão de Madison em ajudar um adversário tem consequências não inesperadas. Enquanto isso, a vida de John Dorie está por um fio(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Terror</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180606205500 -0300" stop="20180606223000 -0300" channel="AMC HD">
+    <title lang="pt">Vírus</title>
+    <desc lang="pt">Um vírus mortal se espalhou por todo o globo. Quatro jovens dirigem pelas estradas dos EUA com o objetivo de chegar ao Golfo do México, onde poderiam sobreviver à doença apocalíptica(n)</desc>
+    <date>2009</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180606223000 -0300" stop="20180607001000 -0300" channel="AMC HD">
+    <title lang="pt">A Morte do Demônio</title>
+    <desc lang="pt">Cinco amigos ficam presos em uma cabana. Ao descobrirem o "Livro da Morte", despertarão os demônios que habitam o bosque. Serão possuídos um a um até o último deles lutar para sobreviver(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180607001000 -0300" stop="20180607020000 -0300" channel="AMC HD">
+    <title lang="pt">A Haunting In Georgia</title>
+    <desc lang="pt">Documentaário que inspirou "Evocando Espíritos 2"(n)</desc>
+    <date>2002</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180607020000 -0300" stop="20180607034000 -0300" channel="AMC HD">
+    <title lang="pt">A Morte do Demônio</title>
+    <desc lang="pt">Cinco amigos ficam presos em uma cabana. Ao descobrirem o "Livro da Morte", despertarão os demônios que habitam o bosque. Serão possuídos um a um até o último deles lutar para sobreviver(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180607034000 -0300" stop="20180607060000 -0300" channel="AMC HD">
+    <title lang="pt">Os Piratas</title>
+    <desc lang="pt">Um bando de piratas e um grupo de bandidos que lutam para pegar a cauda da baleia cinzenta que engoliu o selo real(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>Coreia do Sul</country>
+  </programme>
+  <programme start="20180607060000 -0300" stop="20180607063000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180607063000 -0300" stop="20180607070000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180607070000 -0300" stop="20180607073000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180607073000 -0300" stop="20180607080000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180607080000 -0300" stop="20180607083000 -0300" channel="AMC HD">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180607083000 -0300" stop="20180607090000 -0300" channel="AMC HD">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180607090000 -0300" stop="20180607093000 -0300" channel="AMC HD">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180607093000 -0300" stop="20180607100000 -0300" channel="AMC HD">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180607100000 -0300" stop="20180607103000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180607103000 -0300" stop="20180607110000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180607110000 -0300" stop="20180607113000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180607113000 -0300" stop="20180607120000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180607120000 -0300" stop="20180607122500 -0300" channel="AMC HD">
+    <title lang="pt">Comic Book Men - S7E11</title>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180607122500 -0300" stop="20180607125500 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180607125500 -0300" stop="20180607143000 -0300" channel="AMC HD">
+    <title lang="pt">Pequenos Espiões</title>
+    <desc lang="pt">Gregorio e Ingrid foram os maiores agentes secretos de seus países. Quando se apaixonam, deixam o mundo dos disfarces para ter uma família de verdade(n)</desc>
+    <date>2001</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180607143000 -0300" stop="20180607162000 -0300" channel="AMC HD">
+    <title lang="pt">Pequenos Espiões 2 - A Ilha dos Sonhos Perdidos</title>
+    <desc lang="pt">Desta vez, os irmãos Cortez têm missão de espionar o Dr. Romero, cientista maluco que vive em misteriosa ilha com seres estranhos criados por ele(n)</desc>
+    <date>2002</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180607162000 -0300" stop="20180607165000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180607165000 -0300" stop="20180607185000 -0300" channel="AMC HD">
+    <title lang="pt">Margin Call - O Dia Antes Do Fim</title>
+    <desc lang="pt">Vinte e quatro horas antes de o sistema financeiro americano explodir, um analista novato termina o trabalho de um colega e descobre, por meio de alguns cálculos, que o banco para o qual trabalha pode ir à falência(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>USA</country>
+  </programme>
+  <programme start="20180607185000 -0300" stop="20180607204500 -0300" channel="AMC HD">
+    <title lang="pt">O Homem Mais Procurado do Mundo</title>
+    <desc lang="pt">Baseado em fatos reais, o filme relata uma ação conjunta da CIA com o exército americano para descobrir o esconderijo de Osama Bin Laden(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180607204500 -0300" stop="20180607223000 -0300" channel="AMC HD">
+    <title lang="pt">Salt</title>
+    <desc lang="pt">Antes de se tornar agente da CIA, Evelyn Salt prestou juramento de servir e honrar o seu país. Ela colocará o seu juramento em prática, quando um desertor russo a acusa de ser uma espiã russa. Salt foge, usando todas as sua habilidades(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180607223000 -0300" stop="20180608002500 -0300" channel="AMC HD">
+    <title lang="pt">Filha de Deus</title>
+    <desc lang="pt">Um detetive da polícia investiga a verdade por trás da morte de seu parceiro. O caso misterioso revela a corrupção policial perturbadora e um segredo perigoso que envolve uma jovem improvável(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180608002500 -0300" stop="20180608012500 -0300" channel="AMC HD">
+    <title lang="pt">Fear The Walking Dead - S4E7</title>
+    <desc lang="pt">A decisão de Madison em ajudar um adversário tem consequências não inesperadas. Enquanto isso, a vida de John Dorie está por um fio(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Terror</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180608012500 -0300" stop="20180608032500 -0300" channel="AMC HD">
+    <title lang="pt">Fé Demais não Cheira Bem</title>
+    <desc lang="pt">Um grupo de charlatões liderados por Steve Martin ganha dinheiro organizando um show da fé baseado em curas falsas e outras armações. Porém, quando param em uma cidade pequena eles terão que enfrentar uma rixa com o xerife local(n)</desc>
+    <date>1992</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180608032500 -0300" stop="20180608052000 -0300" channel="AMC HD">
+    <title lang="pt">Filha de Deus</title>
+    <desc lang="pt">Um detetive da polícia investiga a verdade por trás da morte de seu parceiro. O caso misterioso revela a corrupção policial perturbadora e um segredo perigoso que envolve uma jovem improvável(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180608052000 -0300" stop="20180608070000 -0300" channel="AMC HD">
+    <title lang="pt">Avenida</title>
+    <desc lang="pt">Nolan trabalha há quase 26 anos em um banco, ele e sua esposa, Joy, vivem um casamento de conveniência. Um dia, Nolan cruza com Leo, um jovem problemático. A partir desse encontro, Nolan rompe os limites de sua vida(n)</desc>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180608070000 -0300" stop="20180608073000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180608073000 -0300" stop="20180608080000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180608080000 -0300" stop="20180608083000 -0300" channel="AMC HD">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180608083000 -0300" stop="20180608090000 -0300" channel="AMC HD">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180608090000 -0300" stop="20180608093000 -0300" channel="AMC HD">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180608093000 -0300" stop="20180608100000 -0300" channel="AMC HD">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180608100000 -0300" stop="20180608103000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180608103000 -0300" stop="20180608110000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180608110000 -0300" stop="20180608113000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180608113000 -0300" stop="20180608131500 -0300" channel="AMC HD">
+    <title lang="pt">O Casamento do Ano</title>
+    <desc lang="pt">Missy e Al se conhecem desde crianças e estão prestes a se casar. Ele recebe a notícia de que sua mãe biológica, e muito religiosa, virá ao casamento, seus pais adotivos precisarão fingir que ainda são casados(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180608131500 -0300" stop="20180608150500 -0300" channel="AMC HD">
+    <title lang="pt">Salt</title>
+    <desc lang="pt">Antes de se tornar agente da CIA, Evelyn Salt prestou juramento de servir e honrar o seu país. Ela colocará o seu juramento em prática, quando um desertor russo a acusa de ser uma espiã russa. Salt foge, usando todas as sua habilidades(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180608150500 -0300" stop="20180608170000 -0300" channel="AMC HD">
+    <title lang="pt">O Homem Mais Procurado do Mundo</title>
+    <desc lang="pt">Baseado em fatos reais, o filme relata uma ação conjunta da CIA com o exército americano para descobrir o esconderijo de Osama Bin Laden(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180608170000 -0300" stop="20180608185500 -0300" channel="AMC HD">
+    <title lang="pt">A Bruxa do Cabelo Branco do Reino Lunar</title>
+    <desc lang="pt">No crepúsculo da Dinastia Ming, a corte Imperial é atormentada pela corrupção, enquanto os tiranos governam a terra. Com os Manchurianos presos em um império enfraquecido, a guerra é iminente(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ficção</category>
+    <country>China</country>
+  </programme>
+  <programme start="20180608185500 -0300" stop="20180608204000 -0300" channel="AMC HD">
+    <title lang="pt">Salt</title>
+    <desc lang="pt">Antes de se tornar agente da CIA, Evelyn Salt prestou juramento de servir e honrar o seu país. Ela colocará o seu juramento em prática, quando um desertor russo a acusa de ser uma espiã russa. Salt foge, usando todas as sua habilidades(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180608204000 -0300" stop="20180608213500 -0300" channel="AMC HD">
+    <title lang="pt">Humans - S1E7</title>
+    <desc lang="pt">Uma desesperada Karen caça Niska. Enquanto isso, os synths ficam com a família Hawkings, mas Hobb está perto(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <country>Reino Unido</country>
+  </programme>
+  <programme start="20180608213500 -0300" stop="20180608223000 -0300" channel="AMC HD">
+    <title lang="pt">Humans - S1E8</title>
+    <desc lang="pt">Os synths são capturados por Hobb e apenas a família Hawkings é capaz de salvá-los(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+    <country>Reino Unido</country>
+  </programme>
+  <programme start="20180608223000 -0300" stop="20180609002000 -0300" channel="AMC HD">
+    <title lang="pt">A Epidemia</title>
+    <desc lang="pt">Após a água de uma pequena cidade ser contaminada, os moradores começam a demonstrar comportamentos estranhos e violentos, tornando-se frios assassinos(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+    <country>EUA/União dos Emirados Ár</country>
+  </programme>
+  <programme start="20180609002000 -0300" stop="20180609023500 -0300" channel="AMC HD">
+    <title lang="pt">O Nevoeiro</title>
+    <desc lang="pt">Um estranho nevoeiro toma conta de uma cidade, deixando David e um grupo de pessoas presas no mercado. David logo descobre que o nevoeiro esconde algo sobrenatural e que sair do mercado pode ser fatal(n)</desc>
+    <date>2007</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180609023500 -0300" stop="20180609044500 -0300" channel="AMC HD">
+    <title lang="pt">Pergunte ao Pó</title>
+    <desc lang="pt">No auge da depressão americana, um aspirante a escritor se envolve com uma garçonete mexicana que sonha conseguir um bom marido e deixar o emprego. Juntos eles vivem uma relação conturbada, baseada em desejo, ciúmes e desprezo(n)</desc>
+    <date>2006</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180609044500 -0300" stop="20180609070000 -0300" channel="AMC HD">
+    <title lang="pt">O Nevoeiro</title>
+    <desc lang="pt">Um estranho nevoeiro toma conta de uma cidade, deixando David e um grupo de pessoas presas no mercado. David logo descobre que o nevoeiro esconde algo sobrenatural e que sair do mercado pode ser fatal(n)</desc>
+    <date>2007</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180609070000 -0300" stop="20180609073000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180609073000 -0300" stop="20180609080000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180609080000 -0300" stop="20180609083000 -0300" channel="AMC HD">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180609083000 -0300" stop="20180609090000 -0300" channel="AMC HD">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180609090000 -0300" stop="20180609093000 -0300" channel="AMC HD">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180609093000 -0300" stop="20180609100000 -0300" channel="AMC HD">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180609100000 -0300" stop="20180609103000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180609103000 -0300" stop="20180609110000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180609110000 -0300" stop="20180609130000 -0300" channel="AMC HD">
+    <title lang="pt">Um Plano Brilhante</title>
+    <desc lang="pt">Uma executiva dedidada, mas frustrada por seu sucesso profissional ser impedido pelo fato de ser mulher se une ao zelador para planejar um roubo na empresa de diamantes em que trabalham(n)</desc>
+    <date>2007</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>Reino Unido/Luxemburgo</country>
+  </programme>
+  <programme start="20180609130000 -0300" stop="20180609135500 -0300" channel="AMC HD">
+    <title lang="pt">Hap &amp; Leonard - S3E1</title>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180609135500 -0300" stop="20180609142000 -0300" channel="AMC HD">
+    <title lang="pt">Comic Book Men - S7E11</title>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180609142000 -0300" stop="20180609145000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180609145000 -0300" stop="20180609152000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180609152000 -0300" stop="20180609172000 -0300" channel="AMC HD">
+    <title lang="pt">Margin Call - O Dia Antes Do Fim</title>
+    <desc lang="pt">Vinte e quatro horas antes de o sistema financeiro americano explodir, um analista novato termina o trabalho de um colega e descobre, por meio de alguns cálculos, que o banco para o qual trabalha pode ir à falência(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>USA</country>
+  </programme>
+  <programme start="20180609172000 -0300" stop="20180609191000 -0300" channel="AMC HD">
+    <title lang="pt">Acorrentados</title>
+    <desc lang="pt">Sarah e seu filho Tim estão saindo do cinema e chamam um taxi para voltarem para casa. Mas o motorista, Bob, é um famoso assassino em série, que tranca os dois no carro e os leva para um local isolado(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180609191000 -0300" stop="20180609210000 -0300" channel="AMC HD">
+    <title lang="pt">Sequestro no Espaço</title>
+    <desc lang="pt">No espaço existe uma prisão de segurança máxima, com os criminosos mais perigosos do planeta. Lá está a filha do Presidente dos EUA, mas sua vida estará em perigo quando começa um motim, e só um homem poderá salvá-la(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>França</country>
+  </programme>
+  <programme start="20180609210000 -0300" stop="20180609223000 -0300" channel="AMC HD">
+    <title lang="pt">Com as Próprias Mãos</title>
+    <desc lang="pt">Soldado aposentado das Forças Especiais do exército americano retorna para sua cidade natal com a intenção de reatar antigos laços e iniciar uma nova vida, porém a cidade não é mais a mesma, pois é controlada pelo crime(n)</desc>
+    <date>2004</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180609223000 -0300" stop="20180610002500 -0300" channel="AMC HD">
+    <title lang="pt">Ladrões</title>
+    <desc lang="pt">Uma quadrilha de roubo a bancos, especializada em operações espetaculares, deve realizar um último trabalho oferecido por um cúmplice em liberdade condicional. Porém, um detetive durão e seu parceiro planejam interceptar o roubo(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180610002500 -0300" stop="20180610021500 -0300" channel="AMC HD">
+    <title lang="pt">Sequestro no Espaço</title>
+    <desc lang="pt">No espaço existe uma prisão de segurança máxima, com os criminosos mais perigosos do planeta. Lá está a filha do Presidente dos EUA, mas sua vida estará em perigo quando começa um motim, e só um homem poderá salvá-la(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>França</country>
+  </programme>
+  <programme start="20180610021500 -0300" stop="20180610042000 -0300" channel="AMC HD">
+    <title lang="pt">Um Toque de Infidelidade</title>
+    <desc lang="pt">Casal se conhece numa recepção de casamento, onde seus respectivos cônjuges começam a ter um caso, e acabam ficando muito amigos(n)</desc>
+    <date>1989</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180610042000 -0300" stop="20180610063000 -0300" channel="AMC HD">
+    <title lang="pt">Tempos de Violência</title>
+    <desc lang="pt">Jim é um ex-fuzileiro que não consegue esquecer os terríveis momentos que presenciou na guerra. Enquanto possui dificuldade para arranjar um emprego na polícia ele acaba caindo na vida criminosa das drogas e da violência(n)</desc>
+    <date>2005</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Policial</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180610063000 -0300" stop="20180610070000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180610070000 -0300" stop="20180610073000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180610073000 -0300" stop="20180610080000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180610080000 -0300" stop="20180610083000 -0300" channel="AMC HD">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180610083000 -0300" stop="20180610090000 -0300" channel="AMC HD">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180610090000 -0300" stop="20180610093000 -0300" channel="AMC HD">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180610093000 -0300" stop="20180610100000 -0300" channel="AMC HD">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180610100000 -0300" stop="20180610115500 -0300" channel="AMC HD">
+    <title lang="pt">Ladrões</title>
+    <desc lang="pt">Uma quadrilha de roubo a bancos, especializada em operações espetaculares, deve realizar um último trabalho oferecido por um cúmplice em liberdade condicional. Porém, um detetive durão e seu parceiro planejam interceptar o roubo(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180610115500 -0300" stop="20180610125000 -0300" channel="AMC HD">
+    <title lang="pt">James Cameron's Story Of Science Fiction E4</title>
+    <desc lang="pt">Steven Spielberg, Christopher Nolan, Robert Kirkman e outros analisam como vamos sobreviver quando o mundo acabar(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180610125000 -0300" stop="20180610131500 -0300" channel="AMC HD">
+    <title lang="pt">Comic Book Men - S7E10</title>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180610131500 -0300" stop="20180610134000 -0300" channel="AMC HD">
+    <title lang="pt">Comic Book Men - S7E11</title>
+    <date>2017</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180610134000 -0300" stop="20180610144000 -0300" channel="AMC HD">
+    <title lang="pt">Fear The Walking Dead - S4E1</title>
+    <desc lang="pt">Os fãs observarão o mundo de Madison Clark e sua família através de novos olhos: os de Morgan Jones, juntando se à história mundial de The Walking Dead. Uma estação em que o passado imediato dos personagens é misturado com um presente incerto(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Terror</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180610144000 -0300" stop="20180610154000 -0300" channel="AMC HD">
+    <title lang="pt">Fear The Walking Dead - S4E2</title>
+    <desc lang="pt">Os fãs observarão o mundo de Madison Clark e sua família através de novos olhos: os de Morgan Jones, juntando se à história mundial de The Walking Dead. Uma estação em que o passado imediato dos personagens é misturado com um presente incerto(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Terror</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180610154000 -0300" stop="20180610164000 -0300" channel="AMC HD">
+    <title lang="pt">Fear The Walking Dead - S4E3</title>
+    <desc lang="pt">Os fãs observarão o mundo de Madison Clark e sua família através de novos olhos: os de Morgan Jones, juntando se à história mundial de The Walking Dead. Uma estação em que o passado imediato dos personagens é misturado com um presente incerto(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Terror</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180610164000 -0300" stop="20180610174000 -0300" channel="AMC HD">
+    <title lang="pt">Fear The Walking Dead - S4E4</title>
+    <desc lang="pt">As perguntas de Al revelam algumas verdades surpreendentes sobre o passado do grupo. John Dorie recebe notícias inesperadas(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Terror</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180610174000 -0300" stop="20180610184000 -0300" channel="AMC HD">
+    <title lang="pt">Fear The Walking Dead - S4E5</title>
+    <desc lang="pt">A chegada de um visitante ferido na vida de John Dorie o obriga a mudar seus modos(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Terror</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180610184000 -0300" stop="20180610194000 -0300" channel="AMC HD">
+    <title lang="pt">Fear The Walking Dead - S4E6</title>
+    <desc lang="pt">Strand não concorda com as decisões de Madison. Enquanto isso, as coisas no estádio tomam um rumo inesperado(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Terror</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180610194000 -0300" stop="20180610204000 -0300" channel="AMC HD">
+    <title lang="pt">Fear The Walking Dead - S4E7</title>
+    <desc lang="pt">A decisão de Madison em ajudar um adversário tem consequências não inesperadas. Enquanto isso, a vida de John Dorie está por um fio(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Terror</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180610204000 -0300" stop="20180610223000 -0300" channel="AMC HD">
+    <title lang="pt">Frankenstein: Entre Anjos e Demônios</title>
+    <desc lang="pt">O monstro criado pelo Dr. Frankenstein é atacado por demônios, mas é salvo por um grupo de gárgulas. Duzentos anos após esse episódio, o monstro descobre o motivo do interesse dos demônios(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>Austrália/EUA</country>
+  </programme>
+  <programme start="20180610223000 -0300" stop="20180610233000 -0300" channel="AMC HD">
+    <title lang="pt">Fear The Walking Dead - S4E8</title>
+    <desc lang="pt">Madison luta para preservar a vida que ela batalhou tanto para construir. Morgan tenta fazer a coisa certa(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Terror</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180610233000 -0300" stop="20180611023000 -0300" channel="AMC HD">
+    <title lang="pt">Gangues de Nova York</title>
+    <desc lang="pt">Conflito de gangues de nativos anglo-saxões e irlandeses nas ruas de Nova Iorque de 1846 a 1863. No meio disso, jovem deseja vingar seu pai(n)</desc>
+    <date>2002</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180611023000 -0300" stop="20180611053000 -0300" channel="AMC HD">
+    <title lang="pt">Gangues de Nova York</title>
+    <desc lang="pt">Conflito de gangues de nativos anglo-saxões e irlandeses nas ruas de Nova Iorque de 1846 a 1863. No meio disso, jovem deseja vingar seu pai(n)</desc>
+    <date>2002</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180611053000 -0300" stop="20180611060000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180611060000 -0300" stop="20180611063000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180611063000 -0300" stop="20180611070000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180611070000 -0300" stop="20180611073000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180611073000 -0300" stop="20180611080000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180611080000 -0300" stop="20180611083000 -0300" channel="AMC HD">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180611083000 -0300" stop="20180611090000 -0300" channel="AMC HD">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180611090000 -0300" stop="20180611093000 -0300" channel="AMC HD">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180611093000 -0300" stop="20180611100000 -0300" channel="AMC HD">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180611100000 -0300" stop="20180611103000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180611103000 -0300" stop="20180611110000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180611110000 -0300" stop="20180611113000 -0300" channel="AMC HD">
+    <title lang="pt">Action Zone</title>
+    <desc lang="pt">Programa de 30 minutos que tem quase tudo que você deseja saber sobre os filmes de ação que estão chegando aos cinemas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180611113000 -0300" stop="20180611133000 -0300" channel="AMC HD">
+    <title lang="pt">O Ilusionista</title>
+    <desc lang="pt">Quando Eisenheim começa a apresentar seu show de magia, seus poderes chegam aos ouvidos do príncipe Leopold, que vai ao espetáculo com sua namorada Sophie. Convencido de que ele é uma fraude, Leopold quer desmascará-lo(n)</desc>
+    <date>2006</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>República Tcheca/EUA</country>
+  </programme>
+  <programme start="20180611133000 -0300" stop="20180611154500 -0300" channel="AMC HD">
+    <title lang="pt">O Grande Desafio</title>
+    <desc lang="pt">O arrojado empresário C.N. (Jackie Chan) enfrenta seu maior desafio quando conhece Bu (Qi Shu), uma bela garota do campo, e por ela se apaixona(n)</desc>
+    <date>2001</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>Hong Kong</country>
+  </programme>
+  <programme start="20180611154500 -0300" stop="20180611173500 -0300" channel="AMC HD">
+    <title lang="pt">O Julgamento</title>
+    <desc lang="pt">Kent McClain perdeu sua esposa e os dois filhos em um terrível acidente. Advogado, McClain é incapaz de voltar a trabalhar e seguir adiante. Mas ele recebe um caso o que fará rever o valor da vida(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180611173500 -0300" stop="20180611193000 -0300" channel="AMC HD">
+    <title lang="pt">O Amor dos Outros</title>
+    <desc lang="pt">O amor dura o tempo que precisar (...) o amor dos outros nunca vai ser menor que o nosso. A comédia romântica "O Amor dos Outros", conta a história de Junior, um jovem de 30 anos que está estagnado e sem perspectiva de futuro(n)</desc>
+    <date>2015</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180611193000 -0300" stop="20180611214000 -0300" channel="AMC HD">
+    <title lang="pt">O Besouro Verde</title>
+    <desc lang="pt">Britt e Kato veem a chance de fazer algo significativo pela primeira vez em suas vidas: combater o crime. Mas para fazer isso, decidem se tornar foras da lei. Britt se transforma no vigilante Besouro Verde(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180611214000 -0300" stop="20180611233000 -0300" channel="AMC HD">
+    <title lang="pt">A Epidemia</title>
+    <desc lang="pt">Após a água de uma pequena cidade ser contaminada, os moradores começam a demonstrar comportamentos estranhos e violentos, tornando-se frios assassinos(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+    <country>EUA/União dos Emirados Ár</country>
+  </programme>
+  <programme start="20180611233000 -0300" stop="20180612003000 -0300" channel="AMC HD">
+    <title lang="pt">Fear The Walking Dead - S4E8</title>
+    <desc lang="pt">Madison luta para preservar a vida que ela batalhou tanto para construir. Morgan tenta fazer a coisa certa(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Terror</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180606143000 -0300" stop="20180606163000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">O Exterminador do Futuro 3: Rebelião das Máquinas</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180606163000 -0300" stop="20180606183000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Margin Call - O Dia Antes Do Fim</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180606183000 -0300" stop="20180606200000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">O Preço do Prêmio</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180606200000 -0300" stop="20180606205500 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Fear The Walking Dead</title>
+    <category lang="pt">Séries/Terror</category>
+  </programme>
+  <programme start="20180606205500 -0300" stop="20180606223000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Vírus</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20180606223000 -0300" stop="20180607001000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">A Morte do Demônio</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20180607001000 -0300" stop="20180607020000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">A Haunting In Georgia</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20180607020000 -0300" stop="20180607034000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">A Morte do Demônio</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20180607034000 -0300" stop="20180607060000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Os Piratas</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180607060000 -0300" stop="20180607063000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180607063000 -0300" stop="20180607070000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180607070000 -0300" stop="20180607073000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180607073000 -0300" stop="20180607080000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180607080000 -0300" stop="20180607083000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180607083000 -0300" stop="20180607090000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180607090000 -0300" stop="20180607093000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180607093000 -0300" stop="20180607100000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180607100000 -0300" stop="20180607103000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180607103000 -0300" stop="20180607110000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180607110000 -0300" stop="20180607113000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180607113000 -0300" stop="20180607120000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180607120000 -0300" stop="20180607122500 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Comic Book Men</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20180607122500 -0300" stop="20180607125500 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180607125500 -0300" stop="20180607143000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Pequenos Espiões</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180607143000 -0300" stop="20180607162000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Pequenos Espiões 2 - A Ilha dos Sonhos Perdidos</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180607162000 -0300" stop="20180607165000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180607165000 -0300" stop="20180607185000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Margin Call - O Dia Antes Do Fim</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180607185000 -0300" stop="20180607204500 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">O Homem Mais Procurado do Mundo</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180607204500 -0300" stop="20180607223000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Salt</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180607223000 -0300" stop="20180608002500 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Filha de Deus</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180608002500 -0300" stop="20180608012500 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Fear The Walking Dead</title>
+    <category lang="pt">Séries/Terror</category>
+  </programme>
+  <programme start="20180608012500 -0300" stop="20180608032500 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Fé Demais não Cheira Bem</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180608032500 -0300" stop="20180608052000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Filha de Deus</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180608052000 -0300" stop="20180608070000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Avenida</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180608070000 -0300" stop="20180608073000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180608073000 -0300" stop="20180608080000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180608080000 -0300" stop="20180608083000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180608083000 -0300" stop="20180608090000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180608090000 -0300" stop="20180608093000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180608093000 -0300" stop="20180608100000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180608100000 -0300" stop="20180608103000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180608103000 -0300" stop="20180608110000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180608110000 -0300" stop="20180608113000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180608113000 -0300" stop="20180608131500 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">O Casamento do Ano</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180608131500 -0300" stop="20180608150500 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Salt</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180608150500 -0300" stop="20180608170000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">O Homem Mais Procurado do Mundo</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180608170000 -0300" stop="20180608185500 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">A Bruxa do Cabelo Branco do Reino Lunar</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20180608185500 -0300" stop="20180608204000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Salt</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180608204000 -0300" stop="20180608213500 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Humans</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20180608213500 -0300" stop="20180608223000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Humans</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20180608223000 -0300" stop="20180609002000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">A Epidemia</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20180609002000 -0300" stop="20180609023500 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">O Nevoeiro</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20180609023500 -0300" stop="20180609044500 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Pergunte ao Pó</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180609044500 -0300" stop="20180609070000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">O Nevoeiro</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20180609070000 -0300" stop="20180609073000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180609073000 -0300" stop="20180609080000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180609080000 -0300" stop="20180609083000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180609083000 -0300" stop="20180609090000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180609090000 -0300" stop="20180609093000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180609093000 -0300" stop="20180609100000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180609100000 -0300" stop="20180609103000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180609103000 -0300" stop="20180609110000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180609110000 -0300" stop="20180609130000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Um Plano Brilhante</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180609130000 -0300" stop="20180609135500 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Hap &amp; Leonard</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20180609135500 -0300" stop="20180609142000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Comic Book Men</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20180609142000 -0300" stop="20180609145000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180609145000 -0300" stop="20180609152000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180609152000 -0300" stop="20180609172000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Margin Call - O Dia Antes Do Fim</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180609172000 -0300" stop="20180609191000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Acorrentados</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20180609191000 -0300" stop="20180609210000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Sequestro no Espaço</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180609210000 -0300" stop="20180609223000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Com as Próprias Mãos</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180609223000 -0300" stop="20180610002500 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Ladrões</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180610002500 -0300" stop="20180610021500 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Sequestro no Espaço</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180610021500 -0300" stop="20180610042000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Um Toque de Infidelidade</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180610042000 -0300" stop="20180610063000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Tempos de Violência</title>
+    <category lang="pt">Filme/Policial</category>
+  </programme>
+  <programme start="20180610063000 -0300" stop="20180610070000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180610070000 -0300" stop="20180610073000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180610073000 -0300" stop="20180610080000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180610080000 -0300" stop="20180610083000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180610083000 -0300" stop="20180610090000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180610090000 -0300" stop="20180610093000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180610093000 -0300" stop="20180610100000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180610100000 -0300" stop="20180610115500 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Ladrões</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180610115500 -0300" stop="20180610125000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">James Cameron's Story Of Science Fiction</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180610125000 -0300" stop="20180610131500 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Comic Book Men</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20180610131500 -0300" stop="20180610134000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Comic Book Men</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20180610134000 -0300" stop="20180610144000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Fear The Walking Dead</title>
+    <category lang="pt">Séries/Terror</category>
+  </programme>
+  <programme start="20180610144000 -0300" stop="20180610154000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Fear The Walking Dead</title>
+    <category lang="pt">Séries/Terror</category>
+  </programme>
+  <programme start="20180610154000 -0300" stop="20180610164000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Fear The Walking Dead</title>
+    <category lang="pt">Séries/Terror</category>
+  </programme>
+  <programme start="20180610164000 -0300" stop="20180610174000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Fear The Walking Dead</title>
+    <category lang="pt">Séries/Terror</category>
+  </programme>
+  <programme start="20180610174000 -0300" stop="20180610184000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Fear The Walking Dead</title>
+    <category lang="pt">Séries/Terror</category>
+  </programme>
+  <programme start="20180610184000 -0300" stop="20180610194000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Fear The Walking Dead</title>
+    <category lang="pt">Séries/Terror</category>
+  </programme>
+  <programme start="20180610194000 -0300" stop="20180610204000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Fear The Walking Dead</title>
+    <category lang="pt">Séries/Terror</category>
+  </programme>
+  <programme start="20180610204000 -0300" stop="20180610223000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Frankenstein: Entre Anjos e Demônios</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180610223000 -0300" stop="20180610233000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Fear The Walking Dead</title>
+    <category lang="pt">Séries/Terror</category>
+  </programme>
+  <programme start="20180610233000 -0300" stop="20180611023000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Gangues de Nova York</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180611023000 -0300" stop="20180611053000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Gangues de Nova York</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180611053000 -0300" stop="20180611060000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180611060000 -0300" stop="20180611063000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180611063000 -0300" stop="20180611070000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180611070000 -0300" stop="20180611073000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180611073000 -0300" stop="20180611080000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180611080000 -0300" stop="20180611083000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180611083000 -0300" stop="20180611090000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180611090000 -0300" stop="20180611093000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180611093000 -0300" stop="20180611100000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180611100000 -0300" stop="20180611103000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180611103000 -0300" stop="20180611110000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180611110000 -0300" stop="20180611113000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180611113000 -0300" stop="20180611133000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">O Ilusionista</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180611133000 -0300" stop="20180611154500 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">O Grande Desafio</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180611154500 -0300" stop="20180611173500 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">O Julgamento</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180611173500 -0300" stop="20180611193000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">O Amor dos Outros</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20180611193000 -0300" stop="20180611214000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">O Besouro Verde</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180611214000 -0300" stop="20180611233000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">A Epidemia</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20180611233000 -0300" stop="20180612003000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Fear The Walking Dead</title>
+    <category lang="pt">Séries/Terror</category>
+  </programme>
+  <programme start="20180612003000 -0300" stop="20180612023000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">O Besouro Verde</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180612023000 -0300" stop="20180612032000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Talking Dead - Fear Edition</title>
+    <category lang="pt">Séries/Diversos</category>
+  </programme>
+  <programme start="20180612032000 -0300" stop="20180612053000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Tempos de Violência</title>
+    <category lang="pt">Filme/Policial</category>
+  </programme>
+  <programme start="20180612053000 -0300" stop="20180612060000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180612060000 -0300" stop="20180612063000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180612063000 -0300" stop="20180612070000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180612070000 -0300" stop="20180612073000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180612073000 -0300" stop="20180612080000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180612080000 -0300" stop="20180612083000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180612083000 -0300" stop="20180612090000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180612090000 -0300" stop="20180612093000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180612093000 -0300" stop="20180612100000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Programação Paga</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180612100000 -0300" stop="20180612103000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180612103000 -0300" stop="20180612110000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180612110000 -0300" stop="20180612113000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Action Zone</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20180612113000 -0300" stop="20180612134500 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">O Grande Desafio</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20180612134500 -0300" stop="20180612155500 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">O Besouro Verde</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180612155500 -0300" stop="20180612174500 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">O Julgamento</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20180612174500 -0300" stop="20180612192500 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Belezas Seculares - Preservação e Restauro</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20180612192500 -0300" stop="20180612213000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Riddick 3</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20180612213000 -0300" stop="20180612223000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">James Cameron's Story Of Science Fiction</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20180612223000 -0300" stop="20180613002000 -0300" channel="AMC SD [Brazil]">
+    <title lang="pt">Timecop - O Guardião do Tempo</title>
+    <category lang="pt">Filme/Ficção</category>
   </programme>
 </tv>
