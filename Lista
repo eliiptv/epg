@@ -1,35 +1,4 @@
 #EXTM3U
-#PLAYLISTV: pltv-logo="http://goo.gl/vrZ3mg"
-
-
-
-#EXTINF:-1 tvg-id=""  tvg-logo="http://goo.gl/vrZ3mg?" group-title="INFORMACOES",Lista Feita por Igor Rangel
-rtmp://46.165.251.66/stream playpath=IGOR_RANGEL_LISTA2  swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf  pageUrl=http://www.liveflashplayer.net/embedplayer7/IGOR_RANGEL_LISTA2/1/500/400 Conn=S:OK –live
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/qnNoA0?" group-title="INFORMACOES",Atualizada 9/jun/2018 22:28
-http://www.tv-msn.com/player/player.swf
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="?" group-title="INFORMACOES",=======================
-rtmp://31.204.151.253/live/master17              
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="?" group-title="INFORMACOES",=======================
-https://DIVi11                   
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo=""  tvg-logo="?" group-title="INFORMACOES",=======================
-https://DIVi2                   
-
-
-
-
-
-
 
 
 #######################################################################################################################################################################
