@@ -70,9 +70,6 @@ http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/7890.ts?|User-Agent=iPhon
 #EXTINF:-1 tvg-logo="https://mitvstatic.com/channels/cl_boomerang-cartoon_m.png"group-title="VIP", Boomerang SD
 http://paraisotv.ddns.net/091/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Hits_TV_Asia_logo.jpg"group-title="VIP",Brits Hits
-http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/3064.m3u8?
-
 #EXTINF:-1 tvg-logo="http://goo.gl/oF6osu?"group-title="VIP", Cartoon Network HD
 http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/4165.m3u8?|User-Agent=iPhone
 
@@ -178,21 +175,6 @@ http://paraisotv.ddns.net/064/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/05/Fox-Life-e1505937657577.png"group-title="VIP", Fox Life HD
 http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/4119.m3u8?
 
-#EXTINF:-1 tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/05/Fox-Life-e1505937657577.png"group-title="VIP", Fox Life SD
-http://paraisotv.ddns.net/083/myStream/playlist.m3u8?
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-q2fHAQMuniU/WjWFxIRuevI/AAAAAAAAAq0/Lzl9Hq-KxvYxhA7S5tp6QBdz0VLZU5wWgCLcBGAs/w1200-h630-p-k-no-nu/assistir-fox-premium-1-online.png"group-title="VIP", Fox Premium 1 HD
-http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/4604.m3u8?
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-q2fHAQMuniU/WjWFxIRuevI/AAAAAAAAAq0/Lzl9Hq-KxvYxhA7S5tp6QBdz0VLZU5wWgCLcBGAs/w1200-h630-p-k-no-nu/assistir-fox-premium-1-online.png"group-title="VIP", Fox Premium 1 SD
-http://paraisotv.ddns.net/018/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-4kFua0_LmBQ/WjWHFt-XmeI/AAAAAAAAArA/ODlkDc0n_F4rF_H5OZL390eZKv7r-iEnQCLcBGAs/w1200-h630-p-k-no-nu/assistir-fox-premium-2-online.png"group-title="VIP", Fox Premium 2 HD
-http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/4118.playlist.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-4kFua0_LmBQ/WjWHFt-XmeI/AAAAAAAAArA/ODlkDc0n_F4rF_H5OZL390eZKv7r-iEnQCLcBGAs/w1200-h630-p-k-no-nu/assistir-fox-premium-2-online.png"group-title="VIP", Fox Premium 2 SD
-http://paraisotv.ddns.net/019/myStream/playlist.m3u8?
-
 #EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-8-canal-futura.png"group-title="VIP", Futura HD 
 http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
 
@@ -205,9 +187,6 @@ http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/4110.m3u8?
 #EXTINF:-1 tvg-logo="http://goo.gl/RnqXjY?"group-title="VIP", FX SD
 http://paraisotv.ddns.net/046/myStream/playlist.m3u8?
 
-#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Globo-HD.png"group-title="VIP",GLOBO AMAZÔNICA MANAUS SD
-http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/7705.m3u8?
-
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Globo-HD.png"group-title="VIP",Globo Bahia HD
 http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/7687.m3u8?
 
@@ -219,12 +198,6 @@ http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/7605.m3u8?
 
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Globo-HD.png"group-title="VIP",Globo Curitiba HD
 http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/10780.m3u8?
-
-#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Globo-HD.png"group-title="VIP",GLOBO INTER TV CABUGI SD
-http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/7706.m3u8?
-
-#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Globo-HD.png"group-title="VIP",Globo Internacional SD
-http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/7619.m3u8?
 
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Globo-HD.png"group-title="VIP",Globo Minas HD
 http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/4107.m3u8?
@@ -252,15 +225,6 @@ http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/4097.m3u8?
 
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Globo-HD.png"group-title="VIP",Globo SP SD
 http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/4098.m3u8?
-
-#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Globo-HD.png"group-title="VIP",GLOBO SÃO JOSÉ DOS CAMPOS SD
-http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/7708.m3u8?
-
-#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Globo-HD.png"group-title="VIP",Globo Paraná HD
-http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/7607.m3u8?
-
-#EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Globo-HD.png"group-title="VIP",Globo Premium
-http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/4612.m3u8?
 
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Gloob.png"group-title="VIP",Gloob HD
 http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/4094.playlist.m3u8?|User-Agent=iPhone
@@ -312,6 +276,12 @@ http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/4080.playlist.m3u8?|User-
 
 #EXTINF:-1 tvg-logo="http://goo.gl/pTRcv8?"group-title="VIP",HBO Signature SD
 http://paraisotv.ddns.net/071/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://goo.gl/5rr2ab?"group-title="VIP",History Channel HD
+http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/4077.m3u8?
+
+#EXTINF:-1 tvg-logo="http://goo.gl/5rr2ab?"group-title="VIP",History Channel SD
+http://paraisotv.ddns.net/024/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/cfDftL?"group-title="VIP",Mais Globosat HD
 http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/4067.playlist.m3u8?|User-Agent=iPhone
@@ -382,17 +352,17 @@ http://paraisotv.ddns.net/082/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/398_300.png"group-title="VIP",NHK World Premium
 http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/4045.playlist.m3u8?|User-Agent=iPhone
 
-#EXTINF:-1 tvg-logo="http://goo.gl/gZkEi0?"group-title="VIP",Nick Jr. HD
-http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/7880.playlist?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-logo="http://goo.gl/gZkEi0?"group-title="VIP",Nick Jr. SD
-http://paraisotv.ddns.net/052/myStream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://goo.gl/welGCW?"group-title="VIP",Nickelodeon HD
 http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/4044.m3u8?
 
 #EXTINF:-1 tvg-logo="http://goo.gl/welGCW?"group-title="VIP",Nickelodeon SD
 http://paraisotv.ddns.net/015/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://goo.gl/gZkEi0?"group-title="VIP",Nick Jr. HD
+http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/7880.playlist?|User-Agent=iPhone
+
+#EXTINF:-1 tvg-logo="http://goo.gl/gZkEi0?"group-title="VIP",Nick Jr. SD
+http://paraisotv.ddns.net/052/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/B5pwdb?"group-title="VIP",Off HD
 http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/13.m3u8?|User-Agent=iPhone
@@ -406,26 +376,14 @@ http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/4035.m3u8?
 #EXTINF:-1 tvg-logo="https://goo.gl/iwCiPM?"group-title="VIP",Paramount SD
 http://paraisotv.ddns.net/004/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/WGrgqIrkM-E/maxresdefault.jpg"group-title="VIP",Play HD
-http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/3066.m3u8?
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/WGrgqIrkM-E/maxresdefault.jpg"group-title="VIP",Play TV SD
-http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/4034.m3u8?
-
 #EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png"group-title="VIP",Record HD
 http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/4.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png"group-title="VIP",RECORD SD
 http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/5621.m3u8?
 
-#EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png"group-title="VIP",Record Nordeste HD
-http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/7684.m3u8?
-
-#EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png"group-title="VIP",RECORD SP Hd
+#EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png"group-title="VIP",RECORD SP HD
 http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/7639.m3u8?
-
-#EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png"group-title="VIP",Record Internacional
-http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/7641.m3u8?
 
 #EXTINF:-1 tvg-logo="http://goo.gl/dA26st?"group-title="VIP",Record News HD
 http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/4593.m3u8?
@@ -433,19 +391,10 @@ http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/4593.m3u8?
 #EXTINF:-1 tvg-logo="http://goo.gl/dA26st?"group-title="VIP",Record News SD
 http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/3935.m3u8?
 
-#EXTINF:-1 tvg-logo="http://goo.gl/dA26st?"group-title="VIP",Rede Família HD (Record News Campinas)
+#EXTINF:-1 tvg-logo="http://goo.gl/dA26st?"group-title="VIP",Rede Família HD
 http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/6928.m3u8?
 
-#EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png"group-title="VIP",TV Vitória (Record ES) SD
-http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/6891.m3u8?
-
-#EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png"group-title="VIP",RIC TV (Record Curitiba) SD
-http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/6894.m3u8?
-
-#EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png"group-title="VIP",RIC TV Maringá ( Record ) SD
-http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/6896.m3u8?
-
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-7EBxlNt9qig/UuEl723w8nI/AAAAAAAABy4/h0qXySCAyDY/s1600/LOGO+DA+RBC+TV.png"group-title="VIP",RBC - Rede Brasil de Comunicação
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-7EBxlNt9qig/UuEl723w8nI/AAAAAAAABy4/h0qXySCAyDY/s1600/LOGO+DA+RBC+TV.png"group-title="VIP",RBC - Rede Brasil
 http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/7685.m3u8?
 
 #EXTINF:-1 tvg-logo="http://goo.gl/A1WBTk?Rede-TV-HD.png"group-title="VIP",Rede TV HD
@@ -462,24 +411,6 @@ http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/7.m3u8?|User-Age
 
 #EXTINF:-1 tvg-logo="http://goo.gl/nVXYOf?SBT-HD.png?"group-title="VIP",SBT SD
 http://paraisotv.ddns.net/084/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://goo.gl/nVXYOf?SBT-HD.png?"group-title="VIP",SBT Recife HD
-http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/6890.m3u8?
-
-#EXTINF:-1 tvg-logo="http://goo.gl/nVXYOf?SBT-HD.png?"group-title="VIP",SBT Goiás HD
-http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/7690.m3u8?
-
-#EXTINF:-1 tvg-logo="http://goo.gl/nVXYOf?SBT-HD.png?"group-title="VIP",SBT GO
-http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/6921.m3u8?
-
-#EXTINF:-1 tvg-logo="http://goo.gl/nVXYOf?SBT-HD.png?"group-title="VIP",SBT Rondonia
-http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/3923.m3u8?
-
-#EXTINF:-1 tvg-logo="http://goo.gl/nVXYOf?SBT-HD.png?"group-title="VIP",SBT Piauí HD (TV Cidade Verde)
-http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/6895.m3u8?
-
-#EXTINF:-1 tvg-logo="http://goo.gl/nVXYOf?SBT-HD.png?"group-title="VIP",Tv Jornal HD (Filiada da SBT Pernambuco - Interior)
-http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/6919.m3u8?
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Canal_Sony_2014.png/revision/latest?cb=20140413032426"group-title="VIP", Sony HD
 http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/3917.playlist?|User-Agent=iPhone
@@ -553,18 +484,6 @@ http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/3890.playlist?|User-Agent
 #EXTINF:-1 tvg-logo="http://goo.gl/AfJkib?"group-title="VIP",Telecine Touch SD
 http://paraisotv.ddns.net/102/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://goo.gl/5rr2ab?"group-title="VIP",The History Channel HD
-http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/4077.m3u8?
-
-#EXTINF:-1 tvg-logo="http://goo.gl/5rr2ab?"group-title="VIP",The History Channel SD
-http://paraisotv.ddns.net/024/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://goo.gl/46JvTg?"group-title="VIP",TLC HD
-http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/3888.m3u8?
-
-#EXTINF:-1 tvg-logo="https://goo.gl/46JvTg?"group-title="VIP",TLC SD
-http://paraisotv.ddns.net/034/myStream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://goo.gl/vUl6oy?"group-title="VIP",TNT HD
 http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/3886.m3u8?
 
@@ -583,44 +502,11 @@ http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/3882.m3u8?
 #EXTINF:-1 tvg-logo="http://goo.gl/9ytu52?"group-title="VIP",Tooncast SD
 http://paraisotv.ddns.net/085/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/yxtrst1436898282.png"group-title="VIP",TV CINE 1 HD
-http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/7624.m3u8?
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/rpssrv1436898306.png"group-title="VIP",TV CINE 2 HD
-http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/7625.m3u8?
-
-#EXTINF:-1 tvg-logo="https://www.thelogodb.com/images/media/logo/tqtpqv1436896067.png"group-title="VIP",TV CINE  3 HD
-http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/7626.m3u8?
-
-#EXTINF:-1 tvg-logo="http://www.thelogodb.com/images/media/logo/qswqxx1436898355.png"group-title="VIP",TV CINE 4 HD
-http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/7627.m3u8?
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png"group-title="VIP",TV Canção Nova HD
-http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/7691.m3u8?
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3f/Logotipo_da_TV_Can%C3%A7%C3%A3o_Nova.png"group-title="VIP",TV Canção Nova SD
-http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/4167.m3u8?
-
-#EXTINF:-1 tvg-logo="http://telaviva.com.br/wp-content/uploads/2017/12/tv-brasil-360x235.jpg"group-title="VIP",TV Brasil SD
-http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/3878.m3u8?
-
-#EXTINF:-1 tvg-logo="http://goo.gl/jPGsEs?"group-title="VIP",Tv Escola
-http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/4621.m3u8?
-
-#EXTINF:-1 tvg-logo="http://imagem.natelinha.uol.com.br/grande/tvratimbum.jpg"group-title="VIP",TV Ra-tim-bum SD
-http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/4595.m3u8?
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/6/66/Tv_verdes_mares.png/revision/latest?cb=20140408150355"group-title="VIP",TV Verdes Mares (CE) SD
-http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/7689.m3u8?
-
 #EXTINF:-1 tvg-logo="http://goo.gl/K8V00r?"group-title="VIP",Universal Channel HD
 http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/3871.m3u8?
 
 #EXTINF:-1 tvg-logo="http://goo.gl/K8V00r?"group-title="VIP",Universal Channel SD
 http://paraisotv.ddns.net/067/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/402.png"group-title="VIP",VH1 HD
-http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/3870.m3u8?
 
 #EXTINF:-1 tvg-logo="https://mitvstatic.com/channels/co_vh1-mega-hits_m.png"group-title="VIP",VH1 Megahits HD
 http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/4610.m3u8?
@@ -631,7 +517,7 @@ http://paraisotv.ddns.net/040/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://goo.gl/TWuTpO?"group-title="VIP",Viva HD
 http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/3867.m3u8?
 
-#EXTINF:-1 tvg-logo="http://goo.gl/TWuTpO?"group-title="VIP",Viva
+#EXTINF:-1 tvg-logo="http://goo.gl/TWuTpO?"group-title="VIP",Viva SD
 http://paraisotv.ddns.net/001/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://goo.gl/u2Eh6h?"group-title="VIP",Warner Channel HD
@@ -643,9 +529,6 @@ http://paraisotv.ddns.net/080/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.kitesurfando.com.br/wp-content/uploads/2016/06/wohoo.png"group-title="VIP",Woohoo
 http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/3864.m3u8?
 
-#EXTINF:-1 tvg-logo="https://www.sheinthecle.com/wp-content/uploads/2017/08/90s.png"group-title="VIP",90s
-http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/3051.m3u8?
-
 #EXTINF:-1 tvg-logo="http://bravi.tv/wp-content/uploads/2016/12/zoomoo-250x214.png"group-title="VIP",Zoomoo
 http://paraisotv.ddns.net/006/myStream/playlist.m3u8
 
@@ -654,134 +537,3 @@ http://paraisotv.ddns.net/006/myStream/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="TcAction.igor"  tvg-logo="http://goo.gl/P79aKf?" group-title="Filmes FULL HD",band
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/6.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",space
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/26.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal100
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/28.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/32.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/33.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/34.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/35.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/36.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/37.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/38.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/39.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/40.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/41.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/42.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/43.m3u8?|User-Agent=iPhon
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/44.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/45.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/46.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/47.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/48.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/49.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/50.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/51.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/52.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/53.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/54.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/55.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/56.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/57.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/58.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/59.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/60.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/61.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/62.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/63.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/64.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/65.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/66.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/67.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/68.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/69.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/70.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/71.m3u8?|User-Agent=iPhone
-
-#EXTINF:-1 tvg-id="GloboNor.igor"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV Aberta FULL HD",animal
-http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/72.m3u8?|User-Agent=iPhone
