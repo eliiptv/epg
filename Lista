@@ -118,10 +118,10 @@ http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/4145.m3u8?|User-Agent=iPh
 #EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2016/05/e97f3-discovery2bworld2ben2bvivo.png"group-title="VIP", Discovery World SD
 http://paraisotv.ddns.net/094/myStream/playlist.m3u8?
 
-#EXTINF:-1 tvg-logo="http://goo.gl/aHrprS"group-title="VIP", Disney Channel HD 
+#EXTINF:-1 tvg-logo="http://goo.gl/aHrprS?"group-title="VIP", Disney Channel HD 
 http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/4143.m3u8?|User-Agent=iPhone
 
-#EXTINF:-1 tvg-logo="http://goo.gl/aHrprS"group-title="VIP", Disney Channel SD
+#EXTINF:-1 tvg-logo="http://goo.gl/aHrprS?"group-title="VIP", Disney Channel SD
 http://paraisotv.ddns.net/075/myStream/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="http://www.costadosol.tv.br/site/wp-content/uploads/2017/12/disney-junior.png"group-title="VIP", Disney Junior HD
@@ -247,10 +247,10 @@ http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/4080.playlist.m3u8?|User-
 #EXTINF:-1 tvg-logo="http://goo.gl/pTRcv8?"group-title="VIP",HBO Signature SD
 http://paraisotv.ddns.net/071/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://goo.gl/5rr2ab?"group-title="VIP",History Channel HD
+#EXTINF:-1 tvg-logo="http://goo.gl/5rr2ab?"group-title="VIP",History HD
 http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/4077.m3u8?
 
-#EXTINF:-1 tvg-logo="http://goo.gl/5rr2ab?"group-title="VIP",History Channel SD
+#EXTINF:-1 tvg-logo="http://goo.gl/5rr2ab?"group-title="VIP",History SD
 http://paraisotv.ddns.net/024/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/cfDftL?"group-title="VIP",Mais Globosat HD
