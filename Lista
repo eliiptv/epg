@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/qnNoA0?" group-title="INFORMACOES",Atualizada 11/jun/2018 18:28
+#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/qnNoA0?" group-title="INFORMACOES",Atualizada 13/jun/2018 09:58
 http://www.tv-msn.com/player/player.swf
 
 
@@ -35,7 +35,7 @@ http://paraisotv.ddns.net/078/myStream/playlist.m3u8
 http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/4174.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/naoseinada.com.br/wp-content/uploads/2017/10/canal-bis.png?resize=672%2C372&ssl=1" group-title="VIP", BIS SD
-http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/4175.m3u8?|User-Agent=iPhone
+http://paraisotv.ddns.net/061/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mitvstatic.com/channels/cl_boomerang-cartoon_m.png"group-title="VIP", Boomerang HD
 http://br1.e-tv.xyz:8081/live/like2js81bms1/RgZZ5E63Nm/7890.ts?|User-Agent=iPhone
