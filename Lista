@@ -8,298 +8,298 @@ http://www.tv-msn.com/player/player.swf
 #######################################################################################################################################################################
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/ios/1049692283/11cfbaffe8e3c19d84e4a406a629a79b?v=1"group-title="VIP",A&E HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4192.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4192.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/ios/1049692283/11cfbaffe8e3c19d84e4a406a629a79b?v=1"group-title="VIP",A&E SD
 http://paraisotv.ddns.net/031/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://dl.hiapphere.com/data/icon/201508/HiAppHere_com_com.amctve.amcfullepisodes.png"group-title="VIP", AMC HD 
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/7898.playlist.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7898.playlist.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="http://dl.hiapphere.com/data/icon/201508/HiAppHere_com_com.amctve.amcfullepisodes.png"group-title="VIP", AMC SD
 http://paraisotv.ddns.net/007/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.camartproductions.com/img/portfolios/animalplanet.png"group-title="VIP", Animal Planet HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4190.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4190.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="http://www.camartproductions.com/img/portfolios/animalplanet.png"group-title="VIP", Animal Planet SD
 http://paraisotv.ddns.net/017/myStream/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/te60JPO.png"group-title="VIP", AXN HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4185.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4185.m3u8?
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/te60JPO.png"group-title="VIP", AXN SD
 http://paraisotv.ddns.net/078/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/naoseinada.com.br/wp-content/uploads/2017/10/canal-bis.png?resize=672%2C372&ssl=1" group-title="VIP", BIS HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4174.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4174.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="https://i2.wp.com/naoseinada.com.br/wp-content/uploads/2017/10/canal-bis.png?resize=672%2C372&ssl=1" group-title="VIP", BIS SD
 http://paraisotv.ddns.net/061/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mitvstatic.com/channels/cl_boomerang-cartoon_m.png"group-title="VIP", Boomerang HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/7890.ts?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7890.ts?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="https://mitvstatic.com/channels/cl_boomerang-cartoon_m.png"group-title="VIP", Boomerang SD
 http://paraisotv.ddns.net/091/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://goo.gl/oF6osu?"group-title="VIP", Cartoon Network HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4165.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4165.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="http://goo.gl/oF6osu?"group-title="VIP", Cartoon Network SD
 http://paraisotv.ddns.net/027/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://cdn.mypanel.tv/picon/mx/Cinemax.mx.png"group-title="VIP", Cinemax HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4162.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4162.m3u8?
 
 #EXTINF:-1 tvg-logo="http://cdn.mypanel.tv/picon/mx/Cinemax.mx.png"group-title="VIP", Cinemax SD
 http://paraisotv.ddns.net/035/myStream/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="http://goo.gl/7GDv0O?"group-title="VIP", Comedy Central HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4603.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4603.m3u8?
 
 #EXTINF:-1 tvg-logo="http://goo.gl/7GDv0O?"group-title="VIP", Comedy Central SD
 http://paraisotv.ddns.net/030/myStream/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="http://goo.gl/qytiM2?"group-title="VIP", Cultura HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/7695.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7695.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.jpg"group-title="VIP", Discovery Channel HD 
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4153.ts?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4153.ts?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.jpg"group-title="VIP", Discovery Channel SD
 http://paraisotv.ddns.net/c011/myStream/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/397/F6D3A0C3E688D9072F58B0B9DBF4C190/Discovery_Civilization_Channel.png"group-title="VIP", Discovery Civilization HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4581.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4581.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="http://www.logotypes101.com/logos/397/F6D3A0C3E688D9072F58B0B9DBF4C190/Discovery_Civilization_Channel.png"group-title="VIP", Discovery Civilization SD
 http://paraisotv.ddns.net/050/myStream/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png"group-title="VIP", Discovery Home & Health HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/6612.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/6612.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-J72Tsxq1uWo/VG1hwAAg98I/AAAAAAAAkDs/CP1NNsI_Ayk/s1600/_0040_discovery_hh.png"group-title="VIP", Discovery Home & Health SD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4152.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4152.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/8/86/20120708204205%21Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png"group-title="VIP", Discovery ID HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4074.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4074.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/8/86/20120708204205%21Logotipo_Investiga%C3%A7%C3%A3o_Discovery.png"group-title="VIP", Discovery ID SD
 http://paraisotv.ddns.net/056/myStream/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-cX0An73B5U8/Ugvz2VU5WII/AAAAAAABLdQ/BAv4QTE2h0I/s1600/dk+logo.jpg"group-title="VIP", Discovery Kids HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4149.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4149.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-cX0An73B5U8/Ugvz2VU5WII/AAAAAAABLdQ/BAv4QTE2h0I/s1600/dk+logo.jpg"group-title="VIP", Discovery Kids SD
 http://paraisotv.ddns.net/c014/myStream/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="http://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_sci-490x490.png"group-title="VIP", Discovery Science HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/3135.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3135.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="http://www.bellmedia.ca/wp-content/uploads/2014/02/tv1_sci-490x490.png"group-title="VIP", Discovery Science SD
 http://paraisotv.ddns.net/074/myStream/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0012/1083/brand.gif?itok=AyjIcQMr"group-title="VIP", Discovery Theater HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4148.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4148.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/0012/1083/brand.gif?itok=AyjIcQMr"group-title="VIP", Discovery Theater SD
 http://paraisotv.ddns.net/028/myStream/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/624351457152794624/kMnbxbEN_400x400.png"group-title="VIP", Discovery Turbo HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4146.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4146.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/624351457152794624/kMnbxbEN_400x400.png"group-title="VIP", Discovery Turbo SD
 http://paraisotv.ddns.net/026/myStream/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2016/05/e97f3-discovery2bworld2ben2bvivo.png"group-title="VIP", Discovery World HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4145.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4145.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2016/05/e97f3-discovery2bworld2ben2bvivo.png"group-title="VIP", Discovery World SD
 http://paraisotv.ddns.net/094/myStream/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="http://goo.gl/aHrprS?"group-title="VIP", Disney Channel HD 
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4143.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4143.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="http://goo.gl/aHrprS?"group-title="VIP", Disney Channel SD
 http://paraisotv.ddns.net/075/myStream/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="http://www.costadosol.tv.br/site/wp-content/uploads/2017/12/disney-junior.png"group-title="VIP", Disney Junior HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/7891.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7891.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="http://www.costadosol.tv.br/site/wp-content/uploads/2017/12/disney-junior.png"group-title="VIP", Disney Junior SD
 http://paraisotv.ddns.net/087/myStream/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/Disney-XD-1504.jpg"group-title="VIP", Disney XD HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4141.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4141.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/Disney-XD-1504.jpg"group-title="VIP", Disney XD SD
 http://paraisotv.ddns.net/086/myStream/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="http://pixel.nymag.com/imgs/daily/vulture/2012/07/25/07_fox-logo.w529.h529.jpg"group-title="VIP", Fox HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4121.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4121.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="http://pixel.nymag.com/imgs/daily/vulture/2012/07/25/07_fox-logo.w529.h529.jpg"group-title="VIP", Fox SD
 http://paraisotv.ddns.net/064/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/05/Fox-Life-e1505937657577.png"group-title="VIP", Fox Life HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4119.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4119.m3u8?
 
 #EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-8-canal-futura.png"group-title="VIP", Futura HD 
 http://ynv2127uts35.nethorizontes.tv:1935/ynv2127uts35/tvunivates/manifest(format=m3u8-aapl).m3u8
 
 #EXTINF:-1 tvg-logo="https://skyassineonline.com.br/img/channels/lg-8-canal-futura.png"group-title="VIP", Futura SD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4112.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4112.m3u8?
 
 #EXTINF:-1 tvg-logo="http://goo.gl/RnqXjY?"group-title="VIP", FX HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4110.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4110.m3u8?
 
 #EXTINF:-1 tvg-logo="http://goo.gl/RnqXjY?"group-title="VIP", FX SD
 http://paraisotv.ddns.net/046/myStream/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Globo-HD.png"group-title="VIP",Globo Bahia HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/7687.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7687.m3u8?
 
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Globo-HD.png"group-title="VIP",Globo Brasilia HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/7606.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7606.m3u8?
 
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Globo-HD.png"group-title="VIP",Globo Brasilia SD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/7605.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7605.m3u8?
 
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Globo-HD.png"group-title="VIP",Globo Curitiba HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/10780.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/10780.m3u8?
 
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Globo-HD.png"group-title="VIP",Globo Minas HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4107.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4107.m3u8?
 
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Globo-HD.png"group-title="VIP",Globo Nordeste HD
 http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/8.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Globo-HD.png"group-title="VIP",Globo Nordeste SD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4103.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4103.m3u8?
 
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Globo-HD.png"group-title="VIP",Globo News HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4096.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4096.m3u8?
 
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Globo-HD.png"group-title="VIP",Globo News SD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4104.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4104.m3u8?
 
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Globo-HD.png"group-title="VIP",Globo Rio HD
 http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/8.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Globo-HD.png"group-title="VIP",Globo Rio SD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4101.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4101.m3u8?
 
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Globo-HD.png"group-title="VIP",Globo SP HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4097.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4097.m3u8?
 
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Globo-HD.png"group-title="VIP",Globo SP SD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4098.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4098.m3u8?
 
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Gloob.png"group-title="VIP",Gloob HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4094.playlist.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4094.playlist.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/Gloob.png"  group-title="VIP",Gloob SD
 http://paraisotv.ddns.net/089/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/GNT.png"group-title="VIP",GNT HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4092.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4092.m3u8?
 
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/GNT.png"group-title="VIP",GNT SD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4093.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4093.m3u8?
 
 #EXTINF:-1 tvg-logo="https://goo.gl/dzX1M2?"group-title="VIP",H2 HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4091.playlist.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4091.playlist.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="https://goo.gl/dzX1M2?"group-title="VIP",H2 SD
 http://paraisotv.ddns.net/054/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/HBO_1.png"group-title="VIP",HBO HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4085.playlist.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4085.playlist.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="http://logosc.ucoz.com/HBO_1.png"group-title="VIP",HBO SD
 http://paraisotv.ddns.net/053/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://goo.gl/yrDz67?"group-title="VIP",HBO 2 HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4088.playlist.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4088.playlist.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="http://goo.gl/yrDz67?"group-title="VIP",HBO 2 SD
 http://paraisotv.ddns.net/047/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://goo.gl/2BXhGr?"group-title="VIP",HBO Family HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4086.playlist.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4086.playlist.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="http://goo.gl/2BXhGr?"group-title="VIP",HBO Family SD
 http://paraisotv.ddns.net/047/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://goo.gl/ISXYSM?"group-title="VIP",HBO Plus HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4082.playlist.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4082.playlist.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="http://goo.gl/ISXYSM?"group-title="VIP",HBO Plus SD
 http://paraisotv.ddns.net/037/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112150128-canal-hbo-plus-e.png"group-title="VIP",HBO Plus E SD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4083.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4083.m3u8?
 
 #EXTINF:-1 tvg-logo="http://goo.gl/pTRcv8?"group-title="VIP",HBO Signature HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4080.playlist.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4080.playlist.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="http://goo.gl/pTRcv8?"group-title="VIP",HBO Signature SD
 http://paraisotv.ddns.net/071/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://goo.gl/5rr2ab?"group-title="VIP",History HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4077.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4077.m3u8?
 
 #EXTINF:-1 tvg-logo="http://goo.gl/5rr2ab?"group-title="VIP",History SD
 http://paraisotv.ddns.net/024/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/cfDftL?"group-title="VIP",Mais Globosat HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4067.playlist.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4067.playlist.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="https://goo.gl/cfDftL?"group-title="VIP",Mais Globosat SD
 http://paraisotv.ddns.net/073/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/db6g8k?"group-title="VIP",MAX HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4065.playlist.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4065.playlist.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="https://goo.gl/db6g8k?"group-title="VIP",MAX SD
 http://paraisotv.ddns.net/051/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://goo.gl/JG4dUv?"group-title="VIP",MAX Prime HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4062.playlist.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4062.playlist.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="http://goo.gl/JG4dUv?"group-title="VIP",Max Prime SD
 http://paraisotv.ddns.net/092/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://images-us.ott.kaltura.com/Service.svc/GetImage/p/313/entry_id/a2609203b4aa4a5a823bcc99487d71bc_1/version/12/width/282/height/158/quality/100"group-title="VIP",Max Prime E SD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4063.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4063.m3u8?
 
 #EXTINF:-1 tvg-logo="http://goo.gl/Hbr506?"group-title="VIP",Max UP HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4060.playlist.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4060.playlist.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="http://goo.gl/Hbr506?"group-title="VIP",Max UP SD
 http://paraisotv.ddns.net/045/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://goo.gl/qXR9CS?"group-title="VIP",Megapix HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4058.playlist.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4058.playlist.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="http://goo.gl/qXR9CS?"group-title="VIP",Megapix SD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4059.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4059.m3u8?
 
 #EXTINF:-1 tvg-logo="http://goo.gl/XQfSPS?"group-title="VIP",MTV HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4056.playlist.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4056.playlist.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="http://goo.gl/XQfSPS?"group-title="VIP",MTV SD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4057.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4057.m3u8?
 
 #EXTINF:-1 tvg-logo="http://goo.gl/7LIjII?"group-title="VIP",Multishow HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/7889.playlist.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7889.playlist.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="http://goo.gl/7LIjII?"group-title="VIP",Multishow SD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4055.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4055.m3u8?
 
 #EXTINF:-1 tvg-logo="https://goo.gl/zu7UD8?"group-title="VIP",Music Box Brasil SD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4607.playlist.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4607.playlist.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="http://goo.gl/INXrU0?"group-title="VIP",NatGeo HD
 http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/21.m3u8?|User-Agent=iPhone
@@ -308,28 +308,28 @@ http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/21.m3u8?|User-Ag
 http://paraisotv.ddns.net/101/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/B59eLy?"group-title="VIP",NatGeo Kids HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4053.playlist.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4053.playlist.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="https://goo.gl/B59eLy?"group-title="VIP",NatGeo Kids SD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4052.playlist.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4052.playlist.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="http://goo.gl/t0czad?"group-title="VIP",NatGeo Wild HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4049.playlist.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4049.playlist.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="http://goo.gl/t0czad?"group-title="VIP",NatGeo Wild SD
 http://paraisotv.ddns.net/082/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/398_300.png"group-title="VIP",NHK World Premium
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4045.playlist.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4045.playlist.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="http://goo.gl/welGCW?"group-title="VIP",Nickelodeon HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4044.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4044.m3u8?
 
 #EXTINF:-1 tvg-logo="http://goo.gl/welGCW?"group-title="VIP",Nickelodeon SD
 http://paraisotv.ddns.net/015/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://goo.gl/gZkEi0?"group-title="VIP",Nick Jr. HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/7880.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7880.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="http://goo.gl/gZkEi0?"group-title="VIP",Nick Jr. SD
 http://paraisotv.ddns.net/052/myStream/playlist.m3u8
@@ -338,10 +338,10 @@ http://paraisotv.ddns.net/052/myStream/playlist.m3u8
 http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/13.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="https://goo.gl/B5pwdb?"group-title="VIP",Off SD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4038.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4038.m3u8?
 
 #EXTINF:-1 tvg-logo="https://goo.gl/iwCiPM?"group-title="VIP",Paramount HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4035.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4035.m3u8?
 
 #EXTINF:-1 tvg-logo="https://goo.gl/iwCiPM?"group-title="VIP",Paramount SD
 http://paraisotv.ddns.net/004/myStream/playlist.m3u8
@@ -350,31 +350,31 @@ http://paraisotv.ddns.net/004/myStream/playlist.m3u8
 http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/4.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png"group-title="VIP",RECORD SD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/5621.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/5621.m3u8?
 
 #EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png"group-title="VIP",RECORD SP HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/7639.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7639.m3u8?
 
 #EXTINF:-1 tvg-logo="http://goo.gl/dA26st?"group-title="VIP",Record News HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4593.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4593.m3u8?
 
 #EXTINF:-1 tvg-logo="http://goo.gl/dA26st?"group-title="VIP",Record News SD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/3935.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3935.m3u8?
 
 #EXTINF:-1 tvg-logo="http://goo.gl/dA26st?"group-title="VIP",Rede Família HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/6928.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/6928.m3u8?
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-7EBxlNt9qig/UuEl723w8nI/AAAAAAAABy4/h0qXySCAyDY/s1600/LOGO+DA+RBC+TV.png"group-title="VIP",Rede Brasil
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/7685.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7685.m3u8?
 
 #EXTINF:-1 tvg-logo="http://goo.gl/A1WBTk?Rede-TV-HD.png"group-title="VIP",Rede TV HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/3929.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3929.m3u8?
 
 #EXTINF:-1 tvg-logo="http://goo.gl/A1WBTk?Rede-TV-HD.png"group-title="VIP",Rede TV SD
 http://paraisotv.ddns.net/063/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://goo.gl/9NZpPD?"group-title="VIP",Rede Vida SD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/3930.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3930.m3u8?
 
 #EXTINF:-1 tvg-logo="http://goo.gl/nVXYOf?SBT-HD.png?"group-title="VIP",SBT HD
 http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/7.m3u8?|User-Agent=iPhone
@@ -383,13 +383,13 @@ http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/7.m3u8?|User-Age
 http://paraisotv.ddns.net/084/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Canal_Sony_2014.png/revision/latest?cb=20140413032426"group-title="VIP", Sony HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/3917.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3917.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Canal_Sony_2014.png/revision/latest?cb=20140413032426"group-title="VIP", Sony SD
 http://paraisotv.ddns.net/003/myStream/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="http://goo.gl/GY0nyM?"group-title="VIP",Space HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/3915.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3915.m3u8?
 
 #EXTINF:-1 tvg-logo="http://goo.gl/GY0nyM?"group-title="VIP",Space SD
 http://paraisotv.ddns.net/029/myStream/playlist.m3u8
@@ -407,97 +407,97 @@ http://cdn.iptvbr.tv:8080/live/FULLHDHZLD8lxy1i/hGpd43yhUg4nBPN/9.m3u8?|User-Age
 http://paraisotv.ddns.net/093/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://goo.gl/6Y4LUI?"group-title="VIP",TBS HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/3903.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3903.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="http://goo.gl/6Y4LUI?"group-title="VIP",TBS SD
 http://paraisotv.ddns.net/038/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/MBRjjf?"group-title="VIP",TCM HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/3902.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3902.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="https://goo.gl/MBRjjf?"group-title="VIP",TCM SD
 http://paraisotv.ddns.net/039/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://goo.gl/P79aKf?"group-title="VIP",Telecine Action HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/3900.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3900.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="http://goo.gl/P79aKf?"group-title="VIP",Telecine Action SD
 http://paraisotv.ddns.net/068/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://goo.gl/fLmSUL?"group-title="VIP",Telecine Cult HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/7622.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/7622.m3u8?
 
 #EXTINF:-1 tvg-logo="http://goo.gl/fLmSUL?"group-title="VIP",Telecine Cult SD
 http://paraisotv.ddns.net/055/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://goo.gl/Dk6F7h?"group-title="VIP",Telecine Fun HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/3896.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3896.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="http://goo.gl/Dk6F7h?"group-title="VIP",Telecine Fun SD
 http://paraisotv.ddns.net/060/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://goo.gl/5IKysn?"group-title="VIP",Telecine Pipoca HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/3894.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3894.m3u8?
 
 #EXTINF:-1 tvg-logo="http://goo.gl/5IKysn?"group-title="VIP",Telecine Pipoca SD
 Http://paraisotv.ddns.net/065/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://goo.gl/XaOWO6?"group-title="VIP",Telecine Premium HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/3892.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3892.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="http://goo.gl/XaOWO6?"group-title="VIP",Telecine Premium SD
 http://paraisotv.ddns.net/069/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://goo.gl/AfJkib?"group-title="VIP",Telecine Touch HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/3890.m3u8?|User-Agent=iPhone
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3890.m3u8?|User-Agent=iPhone
 
 #EXTINF:-1 tvg-logo="http://goo.gl/AfJkib?"group-title="VIP",Telecine Touch SD
 http://paraisotv.ddns.net/102/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://goo.gl/vUl6oy?"group-title="VIP",TNT HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/3886.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3886.m3u8?
 
 #EXTINF:-1 tvg-logo="http://goo.gl/vUl6oy?"group-title="VIP",TNT SD
 http://paraisotv.ddns.net/009/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://goo.gl/2ZBWuk?"group-title="VIP",TNT Series HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/3884.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3884.m3u8?
 
 #EXTINF:-1 tvg-logo="https://goo.gl/2ZBWuk?"group-title="VIP",TNT Series SD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/3885.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3885.m3u8?
 
 #EXTINF:-1 tvg-logo="http://goo.gl/9ytu52?"group-title="VIP",Tooncast HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/3882.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3882.m3u8?
 
 #EXTINF:-1 tvg-logo="http://goo.gl/9ytu52?"group-title="VIP",Tooncast SD
 http://paraisotv.ddns.net/085/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://goo.gl/K8V00r?"group-title="VIP",Universal Channel HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/3871.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3871.m3u8?
 
 #EXTINF:-1 tvg-logo="http://goo.gl/K8V00r?"group-title="VIP",Universal Channel SD
 http://paraisotv.ddns.net/067/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mitvstatic.com/channels/co_vh1-mega-hits_m.png"group-title="VIP",VH1 MegaHits HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4610.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4610.m3u8?
 
 #EXTINF:-1 tvg-logo="https://mitvstatic.com/channels/co_vh1-mega-hits_m.png"group-title="VIP",VH1 MegaHits SD
 http://paraisotv.ddns.net/040/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://goo.gl/TWuTpO?"group-title="VIP",Viva HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/3867.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3867.m3u8?
 
 #EXTINF:-1 tvg-logo="http://goo.gl/TWuTpO?"group-title="VIP",Viva SD
 http://paraisotv.ddns.net/001/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://goo.gl/u2Eh6h?"group-title="VIP",Warner Channel HD
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/4617.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4617.m3u8?
 
 #EXTINF:-1 tvg-logo="http://goo.gl/u2Eh6h?"group-title="VIP",Warner Channel SD
 http://paraisotv.ddns.net/080/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.kitesurfando.com.br/wp-content/uploads/2016/06/wohoo.png"group-title="VIP",Woohoo
-http://br1.e-tv.xyz:8081/live/likeilimit73ad98o/IyueprGqz2/3864.m3u8?
+http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3864.m3u8?
 
 #EXTINF:-1 tvg-logo="http://bravi.tv/wp-content/uploads/2016/12/zoomoo-250x214.png"group-title="VIP",Zoomoo
 http://paraisotv.ddns.net/006/myStream/playlist.m3u8
