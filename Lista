@@ -473,6 +473,9 @@ http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3882.m3u8?
 #EXTINF:-1 tvg-logo="http://goo.gl/9ytu52?"group-title="VIP",Tooncast SD
 http://duocdn.ddns.net/085/myStream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-hqKfr2Zf0Xg/VPU0qfgRyFI/AAAAAAAAHHI/0JVyOcMJBhM/s1600/B9lgbd2IIAE0uzC.jpg"group-title="VIP",TV Diario
+http://23.237.22.190:8080/live/CanaisSDSmtpturbo/2PuLxCQEI3z77cgJkrxB/217.m3u8?play|User-Agent=iPhone
+
 #EXTINF:-1 tvg-logo="http://goo.gl/K8V00r?"group-title="VIP",Universal Channel HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/3871.m3u8?
 
