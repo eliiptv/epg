@@ -148,7 +148,7 @@ http://andre.iptvbr.tv:8080/live/lelotv/mjMDHpiYHI/672.m3u8?play|User-Agent=okht
 #EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2016/05/e97f3-discovery2bworld2ben2bvivo.png"group-title="VIP HD", Discovery World HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4145.m3u8?|User-Agent=iPhone
 
-#EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2016/05/e97f3-discovery2bworld2ben2bvivo.png"group-title="VIP SD",Discovery World SD
+#EXTINF:-1 tvg-logo="https://fullcanaleshd.files.wordpress.com/2016/05/e97f3-discovery2bworld2ben2bvivo.png"group-title="VIP",Discovery World SD
 http://andre.iptvbr.tv:8080/live/lelotv/mjMDHpiYHI/673.m3u8?play|User-Agent=okhttp/3.6.0
 
 #EXTINF:-1 tvg-logo="http://goo.gl/aHrprS?"group-title="VIP HD", Disney Channel HD 
@@ -295,7 +295,7 @@ http://duocdn.ddns.net/047/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://goo.gl/2BXhGr?"group-title="VIP HD",HBO Family HD
 http://br1.e-tv.xyz:8081/live/like1706/sOFOuo2bHD/4086.playlist.m3u8?|User-Agent=iPhone
 
-#EXTINF:-1 tvg-logo="http://goo.gl/2BXhGr?"group-title="VIP SD",HBO Family SD
+#EXTINF:-1 tvg-logo="http://goo.gl/2BXhGr?"group-title="VIP",HBO Family SD
 http://duocdn.ddns.net/047/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://goo.gl/ISXYSM?"group-title="VIP HD",HBO Plus HD
