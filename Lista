@@ -64,10 +64,10 @@ http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7890.ts?|User-Agent=iPho
 #EXTINF:-1 tvg-logo="https://mitvstatic.com/channels/cl_boomerang-cartoon_m.png"group-title="VIP", Boomerang SD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4172.ts
 
-#EXTINF:-1 tvg-logo="http://t.likeiptv.com/canalbrasil.png" group-title="Filmes e Séries",Canal Brasil HD
+#EXTINF:-1 tvg-logo="http://t.likeiptv.com/canalbrasil.png" group-title="VIP",Canal Brasil HD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4169.ts
 
-#EXTINF:-1 tvg-logo="http://t.likeiptv.com/canalbrasil.png" group-title="Filmes e Séries",Canal Brasil SD
+#EXTINF:-1 tvg-logo="http://t.likeiptv.com/canalbrasil.png" group-title="VIP",Canal Brasil SD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4170.ts
 
 #EXTINF:-1 tvg-logo="http://goo.gl/oF6osu?"group-title="VIP", Cartoon Network HD
@@ -538,7 +538,7 @@ http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3933.ts
 #EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png"group-title="VIP",Record SD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/5621.m3u8?
 
-#EXTINF:-1 tvg-id="" tvg-name="Record Nordeste HD" tvg-logo="http://t.likeiptv.com/RECORD.png" group-title="Abertos",Record Nordeste HD
+#EXTINF:-1 tvg-id="" tvg-name="Record Nordeste HD" tvg-logo="http://t.likeiptv.com/RECORD.png" group-title="VIP",Record Nordeste HD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7684.ts
 
 #EXTINF:-1 tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png"group-title="VIP",RECORD SP HD
