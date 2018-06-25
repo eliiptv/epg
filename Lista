@@ -3,9 +3,7 @@
 #EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/qnNoA0?" group-title="INFORMACOES",LISTA ELI = Atualizada 25/jun/2018 16:18
 http://www.tv-msn.com/player/player.swf
 
-
 #######################################################################################################################################################################
-
 
 #EXTINF:-1 tvg-id="" tvg-name="A&E Full HD" tvg-logo="http://t.likeiptv.com/a&ehd.png" group-title="Filmes e Séries",A&E Full HD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7892.ts
@@ -15,8 +13,8 @@ http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4192.ts
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4194.ts
 #EXTINF:-1 tvg-id="" tvg-name="AMC Full HD" tvg-logo="http://t.likeiptv.com/amc.png" group-title="Filmes e Séries",AMC Full HD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7898.ts
-#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="http://t.likeiptv.com/amc.png" group-title="Filmes e Séries",AMC HD
-http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4192.ts
+#EXTINF:-1 tvg-id="AMC.igor" tvg-logo="https://goo.gl/TLM39Z?" group-title="Filmes e Séries",AMC
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/10897.ts?|User-Agent=iPhone
 #EXTINF:-1 tvg-id="" tvg-name="AMC SD" tvg-logo="http://t.likeiptv.com/amc.png" group-title="Filmes e Séries",AMC SD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7670.ts
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet Full HD" tvg-logo="http://t.likeiptv.com/animalplanethd.png" group-title="Documentários",Animal Planet Full HD
