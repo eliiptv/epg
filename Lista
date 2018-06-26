@@ -2,7 +2,7 @@
 #EXTM3U
 #PLAYLIST
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://flaticons.net/gd/makefg.php?i=icons/Application/Command-Refresh.png&r=255&g=255&b=255" group-title="INFORMACOES",LISTA ELI = Atualizada 26/jun/2018 14:58
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.icon-icons.com/icons2/10/PNG/256/refresh_arrow_1546.png" group-title="INFORMACOES",LISTA ELI = Atualizada 26/jun/2018 17:58
 http://www.tv-msn.com/player/player.swf
 
 #######################################################################################################################################################################
@@ -25,9 +25,9 @@ http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7883.ts
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4190.ts
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet SD" tvg-logo="http://goo.gl/yXfk9Y?" group-title="Documentários",Animal Planet SD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4191.ts
-#EXTINF:-1 tvg-id="" tvg-name="Arte 1 SD" tvg-logo="http://t.likeiptv.com/arte1.png" group-title="Variedades",Arte 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="Arte 1 SD" tvg-logo="https://goo.gl/BuuxB8?" group-title="Variedades",Arte 1 HD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/10901.ts
-#EXTINF:-1 tvg-id="" tvg-name="Arte 1 SD" tvg-logo="http://t.likeiptv.com/arte1.png" group-title="Variedades",Arte 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="Arte 1 SD" tvg-logo="https://goo.gl/BuuxB8?" group-title="Variedades",Arte 1 SD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4582.ts
 #EXTINF:-1 tvg-id="AXN Full HD" tvg-name="AXN Full HD" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Filmes e Séries",AXN Full HD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7897.ts
@@ -241,7 +241,7 @@ http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/8679.ts
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4118.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fox Premium 2 HD" tvg-logo="https://goo.gl/RUDViH?" group-title="Filmes e Séries",Fox Premium 2 SD
 http://89.163.146.52:25461/live/987fdg78oisaudoaisudoiasudoiasid897928ysfd/kjsdhkj54hkj75h5lkj8hklyhrfitfd87adoiasodiudaopdq8e938749837432uioqwoeiuiqwqweudaafuiftga====/1822.ts
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS Full HD" tvg-logo="http://i.imgur.com/bYUGfOo.pn" group-title="Esportes",Fox Sports Full HD
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS Full HD" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Esportes",Fox Sports Full HD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7703.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD" tvg-logo="http://i.imgur.com/bYUGfOo.png" group-title="Esportes",Fox Sports HD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4113.ts
