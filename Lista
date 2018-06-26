@@ -1,6 +1,8 @@
 #EXTM3U
+#EXTM3U
+#PLAYLIST
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y85wyv6w" group-title="INFORMACOES",LISTA ELI = Atualizada 26/jun/2018 13:58
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://flaticons.net/gd/makefg.php?i=icons/Application/Command-Refresh.png&r=255&g=255&b=255" group-title="INFORMACOES",LISTA ELI = Atualizada 26/jun/2018 14:58
 http://www.tv-msn.com/player/player.swf
 
 #######################################################################################################################################################################
