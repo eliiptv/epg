@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://logosc.ucoz.com/F5.png" group-title="INFORMACOES",LISTA ELI = Atualizada 26/jun/2018 13:58
+#EXTINF:-1 tvg-id="" tvg-logo="encurtador.net/ptGPS" group-title="INFORMACOES",LISTA ELI = Atualizada 26/jun/2018 13:58
 http://www.tv-msn.com/player/player.swf
 
 #######################################################################################################################################################################
@@ -57,9 +57,9 @@ http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4179.ts
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4177.ts
 #EXTINF:-1 tvg-id="" tvg-name="Band News SD" tvg-logo="http://logosc.ucoz.com/Band-News.png" group-title="Notícias",Band News SD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4180.ts
-#EXTINF:-1 tvg-id="" tvg-name="BIS HD" tvg-logo="http://t.likeiptv.com/bis.png" group-title="Música e Entretenimento",BIS HD
+#EXTINF:-1 tvg-id="" tvg-name="BIS HD" tvg-logo="encurtador.net/fghB8" group-title="Música e Entretenimento",BIS HD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4174.ts
-#EXTINF:-1 tvg-id="" tvg-name="BIS SD" tvg-logo="http://t.likeiptv.com/bis.png" group-title="Música e Entretenimento",BIS SD
+#EXTINF:-1 tvg-id="" tvg-name="BIS SD" tvg-logo="encurtador.net/fghB8" group-title="Música e Entretenimento",BIS SD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/10911.ts
 #EXTINF:-1 tvg-id="" tvg-name="Brits   Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Hits_TV_Asia_logo.jpg" group-title="Música e Entretenimento",Brits Hits
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3064.ts
@@ -115,7 +115,7 @@ http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7693.ts
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4156.ts
 #EXTINF:-1 tvg-id="" tvg-name="Curta! SD" tvg-logo="http://t.likeiptv.com/curta.png" group-title="Variedades",Curta! SD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4155.ts
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel Full HD" tvg-logo="http://t.likeiptv.com/discoverychannel.png" group-title="Documentários",Discovery Channel Full HD
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel Full HD" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Documentários",Discovery Channel Full HD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7688.ts
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="http://i.imgur.com/tUTV4Kl.png" group-title="Documentários",Discovery Channel HD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4153.ts
