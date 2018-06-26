@@ -89,7 +89,7 @@ http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7888.ts
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4165.ts
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network SD" tvg-logo="http://t.likeiptv.com/cartoonetwork.png" group-title="Infantil",Cartoon Network SD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4166.ts
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON RETRO SD" tvg-logo="encurtador.net/mqEIY" group-title="Infantil",Cartoon Retro SD
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON RETRO SD" tvg-logo="http://ulango.tv/uploads/channels/3782210/logo_retro%20cartoon.png" group-title="Infantil",Cartoon Retro SD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4597.ts
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax HD" tvg-logo="http://t.likeiptv.com/cinemax1080.png" group-title="Filmes e Séries",Cinemax HD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4162.ts
@@ -163,7 +163,7 @@ http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/10947.ts
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7891.ts
 #EXTINF:-1 tvg-id="" tvg-name="Disney JR HD" tvg-logo="http://t.likeiptv.com/disneyjunior10.png" group-title="Infantil",Disney JR HD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4141.ts
-#EXTINF:-1 tvg-id="" tvg-name="Disney JR SD" tvg-logo="" group-title="Infantil",Disney JR SD
+#EXTINF:-1 tvg-id="" tvg-name="Disney JR SD" tvg-logo="http://t.likeiptv.com/disneyjunior10.png" group-title="Infantil",Disney JR SD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4142.ts
 #EXTINF:-1 tvg-id="" tvg-name="Disney XD SD" tvg-logo="http://t.likeiptv.com/disneyxd.png" group-title="Infantil",Disney XD HD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/10950.ts
