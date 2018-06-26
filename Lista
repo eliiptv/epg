@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://goo.gl/qnNoA0?" group-title="INFORMACOES",LISTA ELI = Atualizada 26/jun/2018 13:18
+#EXTINF:-1 tvg-id="" tvg-logo="encurtador.net/agnu1" group-title="INFORMACOES",LISTA ELI = Atualizada 26/jun/2018 13:18
 http://www.tv-msn.com/player/player.swf
 
 #######################################################################################################################################################################
@@ -27,11 +27,11 @@ http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4191.ts
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/10901.ts
 #EXTINF:-1 tvg-id="" tvg-name="Arte 1 SD" tvg-logo="http://t.likeiptv.com/arte1.png" group-title="Variedades",Arte 1 SD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4582.ts
-#EXTINF:-1 tvg-id="AXN Full HD" tvg-name="AXN Full HD" tvg-logo=""http://i.imgur.com/cAGSnn7.png" group-title="Filmes e Séries",AXN Full HD
+#EXTINF:-1 tvg-id="AXN Full HD" tvg-name="AXN Full HD" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Filmes e Séries",AXN Full HD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7897.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo=""http://i.imgur.com/cAGSnn7.png" group-title="Filmes e Séries",AXN HD
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Filmes e Séries",AXN HD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4185.ts
-#EXTINF:-1 tvg-id="" tvg-name="AXN SD" tvg-logo=""http://i.imgur.com/cAGSnn7.png" group-title="Filmes e Séries",AXN SD
+#EXTINF:-1 tvg-id="" tvg-name="AXN SD" tvg-logo="http://i.imgur.com/cAGSnn7.png" group-title="Filmes e Séries",AXN SD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4186.ts
 #EXTINF:-1 tvg-id="" tvg-name="Agro Brasil HD" tvg-logo="http://t.likeiptv.com/agrobrasil.png" group-title="Abertos",Agro Brasil HD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3099.ts
@@ -57,10 +57,10 @@ http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4179.ts
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4177.ts
 #EXTINF:-1 tvg-id="" tvg-name="Band News SD" tvg-logo="http://logosc.ucoz.com/Band-News.png" group-title="Notícias",Band News SD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4180.ts
-#EXTINF:-1 tvg-id="" tvg-name="BIS HD" tvg-logo="http://t.likeiptv.com/bis.png" group-title="Música e Entretenimento",BIS HD
+#EXTINF:-1 tvg-id="" tvg-name="BIS HD" tvg-logo="https://goo.gl/09Wgmh?" group-title="Música e Entretenimento",BIS HD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4174.ts
-#EXTINF:-1 tvg-id="" tvg-name="BIS SD" tvg-logo="http://t.likeiptv.com/bis.png" group-title="Música e Entretenimento",BIS SD
-http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4175.ts
+#EXTINF:-1 tvg-id="" tvg-name="BIS SD" tvg-logo="https://goo.gl/09Wgmh?" group-title="Música e Entretenimento",BIS SD
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/10911.ts
 #EXTINF:-1 tvg-id="" tvg-name="Brits   Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Hits_TV_Asia_logo.jpg" group-title="Música e Entretenimento",Brits Hits
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3064.ts
 #EXTINF:-1 tvg-id="" tvg-name="Boa Vontade TV SD" tvg-logo="http://t.likeiptv.com/boavontade.png" group-title="Abertos",Boa Vontade TV SD
