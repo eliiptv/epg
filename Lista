@@ -10,11 +10,11 @@ http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7892.ts
 #EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="http://t.likeiptv.com/a&ehd.png" group-title="Filmes e Séries",A&E HD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4192.ts
 #EXTINF:-1 tvg-id="" tvg-name="A&E SD" tvg-logo="http://t.likeiptv.com/a&e.png" group-title="Filmes e Séries",A&E SD
-http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4194.ts
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/10895.ts?
 #EXTINF:-1 tvg-id="" tvg-name="AMC Full HD" tvg-logo="http://t.likeiptv.com/amc.png" group-title="Filmes e Séries",AMC Full HD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7898.ts
-#EXTINF:-1 tvg-id="AMC.igor" tvg-logo="https://goo.gl/TLM39Z?" group-title="Filmes e Séries",AMC
-http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/10897.ts?|User-Agent=iPhone
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/TLM39Z?" group-title="Filmes e Séries",AMC
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/10897.ts?
 #EXTINF:-1 tvg-id="" tvg-name="AMC SD" tvg-logo="http://t.likeiptv.com/amc.png" group-title="Filmes e Séries",AMC SD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/7670.ts
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet Full HD" tvg-logo="http://t.likeiptv.com/animalplanethd.png" group-title="Documentários",Animal Planet Full HD
@@ -214,9 +214,9 @@ http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4122.ts
 #EXTINF:-1 tvg-id="" tvg-name="FOX Life Full Hd" tvg-logo="http://t.likeiptv.com/foxlifehdnovo.png" group-title="Filmes e Séries",Fox Life Full HD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/8677.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fox Life HD" tvg-logo="http://t.likeiptv.com/foxlifehdnovo.png" group-title="Filmes e Séries",Fox Life HD
-http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4119.ts
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/10976.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fox Life SD" tvg-logo="http://t.likeiptv.com/lifenovo.png" group-title="Filmes e Séries",Fox Life SD
-http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4120.ts
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/10975.ts
 #EXTINF:-1 tvg-id="" tvg-name="Fox 1 HD" tvg-logo="" group-title="Filmes e Séries",Fox 1 HD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4579.ts
 #EXTINF:-1 tvg-id="" tvg-name="FOX Premium 1 Full Hd" tvg-logo="https://goo.gl/Z9UCZQ?" group-title="Filmes e Séries",FOX Premium 1 Full HD
@@ -692,7 +692,7 @@ http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3868.ts
 #EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" tvg-logo="" group-title="Filmes e Séries",Warner Channel HD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4617.ts
 #EXTINF:-1 tvg-id="" tvg-name="Warner Channel SD" tvg-logo="" group-title="Filmes e Séries",Warner Channel SD
-http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4618.ts
+http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/11130.ts?|User-Agent=iPhone
 #EXTINF:-1 tvg-id="" tvg-name="Woohoo" tvg-logo="" group-title="Variedades",Woohoo
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3864.ts
 #EXTINF:-1 tvg-logo="http://bravi.tv/wp-content/uploads/2016/12/zoomoo-250x214.png"group-title="VIP",Zoomoo
