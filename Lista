@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="encurtador.net/ptGPS" group-title="INFORMACOES",LISTA ELI = Atualizada 26/jun/2018 13:58
+#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y85wyv6w" group-title="INFORMACOES",LISTA ELI = Atualizada 26/jun/2018 13:58
 http://www.tv-msn.com/player/player.swf
 
 #######################################################################################################################################################################
@@ -57,9 +57,9 @@ http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4179.ts
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4177.ts
 #EXTINF:-1 tvg-id="" tvg-name="Band News SD" tvg-logo="http://logosc.ucoz.com/Band-News.png" group-title="Notícias",Band News SD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4180.ts
-#EXTINF:-1 tvg-id="" tvg-name="BIS HD" tvg-logo="encurtador.net/fghB8" group-title="Música e Entretenimento",BIS HD
+#EXTINF:-1 tvg-id="" tvg-name="BIS HD" tvg-logo="http://i.imgur.com/h2pmOca.png" group-title="Música e Entretenimento",BIS HD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/4174.ts
-#EXTINF:-1 tvg-id="" tvg-name="BIS SD" tvg-logo="encurtador.net/fghB8" group-title="Música e Entretenimento",BIS SD
+#EXTINF:-1 tvg-id="" tvg-name="BIS SD" tvg-logo="http://i.imgur.com/h2pmOca.png" group-title="Música e Entretenimento",BIS SD
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/10911.ts
 #EXTINF:-1 tvg-id="" tvg-name="Brits   Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Hits_TV_Asia_logo.jpg" group-title="Música e Entretenimento",Brits Hits
 http://br1.e-tv.xyz:8081/live/likecopaljh776/WwecWmFDfF/3064.ts
