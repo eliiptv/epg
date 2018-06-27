@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.icon-icons.com/icons2/10/PNG/256/refresh_arrow_1546.png" group-title="INFORMACOES",LISTA ELI = Atualizada 27/jun/2018 11:58
+http://www.tv-msn.com/player/player.swf
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="?" group-title="Canais:Temporarios",?
 http://listaccess.me:8080/live/Jhoetva/.ts
 
