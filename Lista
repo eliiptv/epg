@@ -5,703 +5,390 @@ http://www.tv-msn.com/player/player.swf
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="?" group-title="Canais:Temporarios",?
 http://listaccess.me:8080/live/Jhoetva/.ts
 
-#EXTINF:-1 tvg-id="GloboRj"  tvg-logo="https://goo.gl/TCmcww?" group-title="TV ABERTA SD",GLOBO RJ
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/1563.ts?
 
-#EXTINF:-1 tvg-id="GloboSp"  tvg-logo="https://goo.gl/KEBGYx?" group-title="TV ABERTA SD",GLOBO SP
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/1562.ts?
-
-#EXTINF:-1 tvg-id="Globo"  tvg-logo="https://goo.gl/Wu9grm?Globo-HD.png?" group-title="TV ABERTA SD",GLOBO RBS
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/1572.ts?
-
-#EXTINF:-1 tvg-id="GloboMg"  tvg-logo="https://goo.gl/Re3Vw6?" group-title="TV ABERTA SD",GLOBO MG
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/1564.ts?
-
-#EXTINF:-1 tvg-id="Globo"  tvg-logo="https://goo.gl/928i4C?" group-title="TV ABERTA SD",GLOBO BRASILIA
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/209.ts?
-
-#EXTINF:-1 tvg-id="GloboNor"  tvg-logo="https://goo.gl/a4asGz?" group-title="TV ABERTA SD",GLOBO NORDESTE
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/288.ts?
-
-#EXTINF:-1 tvg-id="Globo"  tvg-logo="https://goo.gl/7Ze9ZE?" group-title="TV ABERTA SD",GLOBO MANAUS
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/1528.ts?
-
-#EXTINF:-1 tvg-id="Globo"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV ABERTA SD",GLOBO BAHIA
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/1526.ts?
-
-#EXTINF:-1 tvg-id="Globo"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV ABERTA SD",GLOBO PARANA
-
-
-#EXTINF:-1 tvg-id="SBT" tvg-logo="http://goo.gl/nVXYOf?SBT-HD.png?" group-title="TV ABERTA SD",SBT HD
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/164.ts?
-
-#EXTINF:-1 tvg-id="Bandeirantes"  tvg-logo="http://goo.gl/SZ94lw?Band-SP.png?" group-title="TV ABERTA SD",BAND
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/327.ts?
-
-#EXTINF:-1 tvg-id="Record"  tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png?" group-title="TV ABERTA SD",RECORD
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/242.ts?
-
-#EXTINF:-1 tvg-id="Rede TV"  tvg-logo="http://goo.gl/A1WBTk?Rede-TV-HD.png?" group-title="TV ABERTA SD",REDE TV
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/200.ts?
-
-#EXTINF:-1 tvg-id="TV Gazeta" tvg-logo="http://goo.gl/e1Zuu6?" group-title="TV ABERTA SD",TV GAZETA
-
-
-#EXTINF:-1 tvg-id="SporTV"  tvg-logo="https://goo.gl/otjgxw?" group-title="ESPORTES SD",SPORTV
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/232.ts?
-
-#EXTINF:-1 tvg-id="ESPN Brasil"  tvg-logo="http://goo.gl/GwBMAl?ESPN-Brasil.png?" group-title="ESPORTES SD",ESPN BRASIL
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/301.ts?
-
-#EXTINF:-1 tvg-id="ESPN Extra"  tvg-logo="https://goo.gl/SLpg1y?" group-title="ESPORTES SD",ESPN EXTRA
-
-
-#EXTINF:-1 tvg-id="Fox Sports"  tvg-logo="http://goo.gl/2GxOT7?Fox-Sports.png?" group-title="ESPORTES SD",FOX SPORTS
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/197.ts?
-
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="http://goo.gl/Pgcyh0?ESPN1.png?" group-title="ESPORTES SD",ESPN
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/300.ts?
-
-#EXTINF:-1 tvg-id="SporTV 2"  tvg-logo="https://goo.gl/czed6A?" group-title="ESPORTES SD",SPORTV 2
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/234.ts?
-
-#EXTINF:-1 tvg-id="SporTV 3"  tvg-logo="https://goo.gl/TZdrPf?" group-title="ESPORTES SD",SPORTV 3
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/233.ts?
-
-#EXTINF:-1 tvg-id="Premiere"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="ESPORTES SD",PREMIERE
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/246.ts?
-
-#EXTINF:-1 tvg-id="Combate"  tvg-logo="http://goo.gl/q2H05k?Combate.png?" group-title="ESPORTES SD",COMBATE
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/314.ts?
-
-#EXTINF:-1 tvg-id="foxSportes2"  tvg-logo="http://goo.gl/aXJTWu?Fox-Sports-2.png?" group-title="ESPORTES SD",FOX SPORTS 2
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/197.ts?
-
-#EXTINF:-1 tvg-id="Band Sports"  tvg-logo="http://goo.gl/291Lwj?Band-Sports.png?" group-title="ESPORTES SD",BAND SPORTS
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/326.ts?
-
-#EXTINF:-1 tvg-id="E Interativo" tvg-logo="https://goo.gl/VvzJLq?Esporte_Interativo.png?" group-title="ESPORTES SD",ESPORTE INTERATIVO
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/299.ts?
-
-#EXTINF:-1 tvg-id="E Interativo 2" tvg-logo="https://goo.gl/vAiaCs?Esporte_Interativo_2.png?" group-title="ESPORTES SD",ESPORTE INTERATIVO 2
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/298.ts?
-
-#EXTINF:-1 tvg-id="ESPN+"  tvg-logo="http://goo.gl/HBo8jM?ESPN+.png?" group-title="ESPORTES SD",ESPN+
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/210.ts?
-
-#EXTINF:-1 tvg-id="PREMIERE 1"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="PREMIERES SD",PREMIERE 1
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/254.ts?
-
-#EXTINF:-1 tvg-id="PREMIERE 2"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="PREMIERES SD",PREMIERE 2
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/253.ts?
-
-#EXTINF:-1 tvg-id="PREMIERE 3"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="PREMIERES SD",PREMIERE 3
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/252.ts?
-
-#EXTINF:-1 tvg-id="PREMIERE 4"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="PREMIERES SD",PREMIERE 4
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/251.ts?
-
-#EXTINF:-1 tvg-id="PREMIERE 5"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="PREMIERES SD",PREMIERE 5
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/250.ts?
-
-#EXTINF:-1 tvg-id="PREMIERE 6"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="PREMIERES SD",PREMIERE 6
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/249.ts?
-
-#EXTINF:-1 tvg-id="PREMIERE 7"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="PREMIERES SD",PREMIERE 7
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/198.ts?
-
-#EXTINF:-1 tvg-id="PREMIERE 8"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="PREMIERES SD",PREMIERE 8
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/248.ts?
-
-#EXTINF:-1 tvg-id="PREMIERE 9"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="PREMIERES SD",PREMIERE 9
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/247.ts?
-
-#EXTINF:-1 tvg-id="TcPipoca"  tvg-logo="http://goo.gl/5IKysn?" group-title="FILMES SD",TELECINE PIPOCA
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/225.ts?
-
-#EXTINF:-1 tvg-id="TcPremium"  tvg-logo="http://goo.gl/XaOWO6?" group-title="FILMES SD",TELECINE PREMIUM
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/224.ts?
-
-#EXTINF:-1 tvg-id="TcAction"  tvg-logo="http://goo.gl/P79aKf?" group-title="FILMES SD",TELECINE ACTION
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/228.ts?
-
-#EXTINF:-1 tvg-id="TcFun"  tvg-logo="http://goo.gl/Dk6F7h?" group-title="FILMES SD",TELECINE FUN
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/226.ts?
-
-#EXTINF:-1 tvg-id="TcTouch"  tvg-logo="http://goo.gl/AfJkib?" group-title="FILMES SD",TELECINE TOUCH
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/223.ts?
-
-#EXTINF:-1 tvg-id="TcCult"  tvg-logo="http://goo.gl/fLmSUL?" group-title="FILMES SD",TELECINE CULT
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/227.ts?
-
-#EXTINF:-1 tvg-id="HBO"  tvg-logo="http://goo.gl/N9ccs5?" group-title="FILMES SD",HBO
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/278.ts?
-
-#EXTINF:-1 tvg-id="HBO 2"  tvg-logo="http://goo.gl/yrDz67?" group-title="FILMES SD",HBO 2
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/282.ts?
-
-#EXTINF:-1 tvg-id="HBO Family"  tvg-logo="http://goo.gl/2BXhGr?" group-title="FILMES SD",HBO FAMILY
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/281.ts?
-
-#EXTINF:-1 tvg-id="HBO Plus"  tvg-logo="http://goo.gl/ISXYSM?" group-title="FILMES SD",HBO PLUS
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/279.ts?
-
-#EXTINF:-1 tvg-id="HBO Plus E"  tvg-logo="https://goo.gl/3ypaFN?" group-title="FILMES SD",HBO PLUS E
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/280.ts?
-
-#EXTINF:-1 tvg-id="HBO SIGNATURE"  tvg-logo="http://goo.gl/pTRcv8?" group-title="FILMES SD",HBO SIGNATURE
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/277.ts?
-
-#EXTINF:-1 tvg-id="Space"  tvg-logo="http://goo.gl/GY0nyM?" group-title="FILMES SD",SPACE
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/235.ts?
-
-#EXTINF:-1 tvg-id="Megapix" tvg-logo="http://goo.gl/qXR9CS?" group-title="FILMES SD",MEGAPIX
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/267.ts?
-
-#EXTINF:-1 tvg-id="PARAMOUNT" tvg-logo="https://goo.gl/iwCiPM?" group-title="FILMES SD",PARAMOUNT CHANNEL
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/256.ts?
-
-#EXTINF:-1 tvg-id="TNT" tvg-logo="http://goo.gl/vUl6oy?" group-title="FILMES SD",TNT
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/203.ts?
-
-#EXTINF:-1 tvg-id="TCM"  tvg-logo="https://goo.gl/MBRjjf?" group-title="FILMES SD",TCM
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/202.ts?
-
-#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://goo.gl/oDAihL?" group-title="FILMES SD",CINEMAX
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/317.ts?
-
-#EXTINF:-1 tvg-id="MAX" tvg-logo="https://goo.gl/db6g8k?" group-title="FILMES SD",MAX
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/269.ts?
-
-#EXTINF:-1 tvg-id="MAX UP" tvg-logo="http://goo.gl/Hbr506?" group-title="FILMES SD",MAX UP
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/268.ts?
-
-#EXTINF:-1 tvg-id="MAX PRIME" tvg-logo="http://goo.gl/JG4dUv?" group-title="FILMES SD",MAX PRIME
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/270.ts?
-
-#EXTINF:-1 tvg-id="MAX PRIME E" tvg-logo="https://goo.gl/LMKSp5?" group-title="FILMES SD",MAX PRIME E
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/271.ts?
-
-#EXTINF:-1 tvg-id="SUniversal" tvg-logo="http://goo.gl/T8ICde?" group-title="FILMES SD",STUDIO
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/231.ts?
-
-#EXTINF:-1 tvg-id="Canal Brasil" tvg-logo="http://goo.gl/zddqpQ?" group-title="FILMES SD",CANAL BRASIL
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/321.ts?
-
-#EXTINF:-1 tvg-id="TNT SERIES" tvg-logo="https://goo.gl/2ZBWuk?" group-title="SERIADOS SD",TNT SERIES
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/201.ts?
-
-#EXTINF:-1 tvg-id="Fox" tvg-logo="http://goo.gl/13gfQq?" group-title="SERIADOS SD",FOX
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/292.ts?
-
-#EXTINF:-1 tvg-id="FOX PREMIUM 1" tvg-logo="https://goo.gl/Z9UCZQ?" group-title="SERIADOS SD",FOX PREMIUM 1
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/444.ts?
-
-#EXTINF:-1 tvg-id="FOX PREMIUM 2" tvg-logo="https://goo.gl/RUDViH?" group-title="SERIADOS SD",FOX PREMIUM 2
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/443.ts?
-
-#EXTINF:-1 tvg-id="FX" tvg-logo="http://goo.gl/RnqXjY?" group-title="SERIADOS SD",FX
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/442.ts?
-
-#EXTINF:-1 tvg-id="TBS" tvg-logo="http://goo.gl/6Y4LUI?" group-title="SERIADOS SD",TBS
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/619.ts?
-
-#EXTINF:-1 tvg-id="UniversalCH" tvg-logo="http://goo.gl/K8V00r?" group-title="SERIADOS SD",UNIVERSAL CHANNEL
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/621.ts?
-
-#EXTINF:-1 tvg-id="Warner" tvg-logo="http://goo.gl/u2Eh6h?" group-title="SERIADOS SD",WARNER
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/207.ts?
-
-#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="http://goo.gl/7GDv0O?" group-title="SERIADOS SD",COMEDY CENTRAL
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/313.ts?
-
-#EXTINF:-1 tvg-id="ID" tvg-logo="https://goo.gl/al1XQO?" group-title="SERIADOS SD",INVESTIGAÇÃO DISCOVERY
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/275.ts?
-
-#EXTINF:0 tvg-id="FOX LIFE" group-title="SERIADOS SD" tvg-logo="https://goo.gl/STGSLK?",FOX LIFE
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/293.ts?
-
-#EXTINF:0 tvg-id="SyFy" group-title="SERIADOS SD" tvg-logo="http://goo.gl/VDyslJ?",SYFY
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/230.ts?
-
-#EXTINF:-1 tvg-id="Sony" tvg-logo="http://goo.gl/omksVK?" group-title="SERIADOS SD",SONY
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/236.ts?
-
-#EXTINF:-1 tvg-id="AXN" tvg-logo="http://goo.gl/U4atFv?" group-title="SERIADOS SD",AXN
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/330.ts?
-
-#EXTINF:-1 tvg-id="AMC" tvg-logo="https://goo.gl/TLM39Z?" group-title="SERIADOS SD",AMC
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/333.ts?
-
-#EXTINF:-1 tvg-id="AeE" tvg-logo="https://goo.gl/9UZzCQ?" group-title="SERIADOS SD",A&E
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/334.ts?
-
-#EXTINF:-1 tvg-id="Lifetime" tvg-logo="https://goo.gl/6wG2dw?" group-title="SERIADOS SD",LIFETIME
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/273.ts?
-
-#EXTINF:-1 tvg-id="bbb"  tvg-logo="http://www.gshowbbb2018.com/wp-content/uploads/2017/04/bigWelcomePic_4-300x169.png?" group-title="VARIEDADES",BBB 18
-
-#EXTINF:-1 tvg-id="Multishow"  tvg-logo="http://goo.gl/7LIjII?" group-title="VARIEDADES SD",MULTISHOW
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/265.ts?
-
-#EXTINF:-1 tvg-id="MTV"  tvg-logo="http://goo.gl/XQfSPS?" group-title="VARIEDADES SD",MTV
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/266.ts?
-
-#EXTINF:-1 tvg-id="MIX TV"  tvg-logo="http://goo.gl/9XI6AQ?" group-title="VARIEDADES SD",MIX TV
-
-
-#EXTINF:-1 tvg-id="GNT"  tvg-logo="http://goo.gl/YyHiwq?" group-title="VARIEDADES SD",GNT
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/284.ts?
-
-#EXTINF:-1 tvg-id="Viva"  tvg-logo="http://goo.gl/TWuTpO?" group-title="VARIEDADES SD",VIVA
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/1539.ts?
-
-#EXTINF:-1 tvg-id="BIS"  tvg-logo="https://goo.gl/09Wgmh?" group-title="VARIEDADES SD",BIS
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/324.ts?
-
-#EXTINF:-1 tvg-id="FishTV"  tvg-logo="http://goo.gl/Lcrqe6?" group-title="VARIEDADES SD",FISH TV
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/295.ts?
-
-#EXTINF:-1 tvg-id="OFF"  tvg-logo="https://goo.gl/B5pwdb?" group-title="VARIEDADES SD",OFF
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/257.ts?
-
-#EXTINF:-1 tvg-id="Discovery Home"  tvg-logo="http://goo.gl/ewCTK1?" group-title="VARIEDADES SD",HOME & HEALTH
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/308.ts?
-
-#EXTINF:-1 tvg-id="FOOD NETWORK"  tvg-logo="https://goo.gl/sJijSQ?" group-title="VARIEDADES SD",FOOD NETWORK
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/294.ts?
-
-#EXTINF:-1 tvg-id="+GLOBOSAT"  tvg-logo="https://goo.gl/cfDftL?" group-title="VARIEDADES SD",+GLOBOSAT
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/272.ts?
-
-#EXTINF:-1 tvg-id="E! Entertainment"  tvg-logo="https://goo.gl/n5bzdX?" group-title="VARIEDADES SD",E! Entertainment
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/297.ts?
-
-#EXTINF:-1 tvg-id="PRIME BOX BRASIL"  tvg-logo="https://goo.gl/zu7UD8?" group-title="VARIEDADES SD",PRIME BOX BRASIL
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/245.ts?
-
-#EXTINF:-1 tvg-id="ARTE 1"  tvg-logo="https://goo.gl/BuuxB8?" group-title="VARIEDADES SD",ARTE 1
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/331.ts?
-
-#EXTINF:-1 tvg-id="NAT GEO KIDS" tvg-logo="https://goo.gl/B59eLy?" group-title="INFANTIL SD",NAT GEO KIDS
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/263.ts?
-
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="http://goo.gl/oF6osu?" group-title="INFANTIL SD",CARTOON NETWORK
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/319.ts?
-
-#EXTINF:-1 tvg-id="Nick" tvg-logo="http://goo.gl/welGCW?" group-title="INFANTIL SD",NICK
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/259.ts?
-
-#EXTINF:-1 tvg-id="Disney XD" tvg-logo="http://goo.gl/aWbwb4?" group-title="INFANTIL SD",DISNEY XD
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/302.ts?
-
-#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="http://goo.gl/aHrprS?" group-title="INFANTIL SD",DISNEY CHANNEL
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/304.ts?
-
-#EXTINF:-1 tvg-id="Disney Jr" tvg-logo="http://goo.gl/HYutK0?" group-title="INFANTIL SD",DISNEY JR
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/303.ts?
-
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="http://goo.gl/eVuVEw?" group-title="INFANTIL SD",DISCOVERY KIDS
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/307.ts?
-
-#EXTINF:-1 tvg-id="Gloob" tvg-logo="http://goo.gl/aghxnu?" group-title="INFANTIL SD",GLOOB
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/285.ts?
-
-#EXTINF:-1 tvg-id="Nick Jr" tvg-logo="http://goo.gl/gZkEi0?" group-title="INFANTIL SD",NICK JR
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/260.ts?
-
-#EXTINF:-1 tvg-id="Bloomberg" tvg-logo="https://goo.gl/kRtYPd?" group-title="INFANTIL SD",BOOMERANG
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/322.ts?
-
-#EXTINF:-1 tvg-id="Tooncast" tvg-logo="http://goo.gl/9ytu52?" group-title="INFANTIL SD",TOONCAST
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/120.ts?
-
-#EXTINF:-1 tvg-id="Animal Planet"" tvg-logo="http://goo.gl/yXfk9Y?"  group-title="DOCUMENTÁRIOS SD",ANIMAL PLANET
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/332.ts?
-
-#EXTINF:-1 tvg-id="Discovery" tvg-logo="http://goo.gl/5ObfPV?"  group-title="DOCUMENTÁRIOS SD",DISCOVERY CHANNEL
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/192.ts?
-
-#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-logo="http://goo.gl/t0czad?"  group-title="DOCUMENTÁRIOS SD",NAT GEO WILD
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/262.ts?
-
-#EXTINF:-1 tvg-id="Discovery Civilization" tvg-logo="http://goo.gl/vZm1PM?"  group-title="DOCUMENTÁRIOS SD",DISCOVERY CIVILIZATION
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/310.ts?
-
-#EXTINF:-1 tvg-id="The History" tvg-logo="http://goo.gl/5rr2ab?" group-title="DOCUMENTÁRIOS SD",THE HISTORY CHANNEL
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/222.ts?
-
-#EXTINF:-1 tvg-id="National Geo" tvg-logo="http://goo.gl/INXrU0?" group-title="DOCUMENTÁRIOS SD",NAT GEO
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/261.ts?
-
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://goo.gl/B8yVJo?"  group-title="DOCUMENTÁRIOS SD",DISCOVERY TURBO
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/305.ts?
-
-#EXTINF:-1 tvg-id="H2" tvg-logo="https://goo.gl/dzX1M2?"  group-title="DOCUMENTÁRIOS SD",H2
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/283.ts?
-
-#EXTINF:0 tvg-id="TLC?" group-title="DOCUMENTÁRIOS SD" tvg-logo="https://goo.gl/46JvTg?",TLC
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/221.ts?
-
-#EXTINF:-1 tvg-id="Liv.ttwrs" tvg-logo="http://goo.gl/N5R6l8?"  group-title="DOCUMENTÁRIOS SD",DISCOVERY ID
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/275.ts?
-
-#EXTINF:-1 tvg-id="Discovery Theater" tvg-logo="http://goo.gl/PQFZHJ?"  group-title="DOCUMENTÁRIOS SD",Discovery HD THEATER
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/190.ts?
-
-#EXTINF:-1 tvg-id="Globo News" tvg-logo="http://goo.gl/QCdPkl?" group-title="JORNALISMO SD",GLOBO NEWS
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/289.ts?
-
-#EXTINF:-1 tvg-id="Band News" tvg-logo="https://goo.gl/SVD8vc?" group-title="JORNALISMO SD",BAND NEWS
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/328.ts?
-
-#EXTINF:-1 tvg-id="Record News" tvg-logo="http://goo.gl/dA26st?" group-title="JORNALISMO SD",RECOR NEWS
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/243.ts?
-
-#EXTINF:-1 tvg-id="GloboRj"  tvg-logo="https://goo.gl/TCmcww?" group-title="TV ABERTA HD",GLOBO RJ
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/181.ts?
-
-#EXTINF:-1 tvg-id="GloboSp"  tvg-logo="https://goo.gl/KEBGYx?" group-title="TV ABERTA HD",GLOBO SP
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/1106.ts?
-
-#EXTINF:-1 tvg-id="GloboMg"  tvg-logo="https://goo.gl/Re3Vw6?" group-title="TV ABERTA HD",GLOBO MG
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/1523.ts?
-
-#EXTINF:-1 tvg-id="Globo"  tvg-logo="https://goo.gl/928i4C?" group-title="TV ABERTA HD",GLOBO BRASILIA
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/441.ts?
-
-#EXTINF:-1 tvg-id="GloboNor"  tvg-logo="https://goo.gl/a4asGz?" group-title="TV ABERTA HD",GLOBO NORDESTE
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/118.ts?
-
-#EXTINF:-1 tvg-id="Globo"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV ABERTA HD",GLOBO CURITIBA
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/1209.ts?
-
-#EXTINF:-1 tvg-id="Globo"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV ABERTA HD",GLOBO BAHIA
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/1526.ts?
-
-#EXTINF:-1 tvg-id="Globo"  tvg-logo="http://goo.gl/qx5sL9?Globo-HD.png?" group-title="TV ABERTA HD",GLOBO PARANA
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/1527.ts?
-
-#EXTINF:-1 tvg-id="SBT" tvg-logo="http://goo.gl/nVXYOf?SBT-HD.png?" group-title="TV ABERTA HD",SBT HD
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/1566.ts?
-
-#EXTINF:-1 tvg-id="Bandeirantes"  tvg-logo="http://goo.gl/SZ94lw?Band-SP.png?" group-title="TV ABERTA HD",BAND
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/115.ts?
-
-#EXTINF:-1 tvg-id="Record"  tvg-logo="http://goo.gl/YQ9Ftm?Record-SP.png?" group-title="TV ABERTA HD",RECORD
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/165.ts?
-
-#EXTINF:-1 tvg-id="SporTV"  tvg-logo="https://goo.gl/otjgxw?" group-title="ESPORTES HD",SPORTV
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/106.ts?
-
-#EXTINF:-1 tvg-id="ESPN Brasil"  tvg-logo="http://goo.gl/GwBMAl?ESPN-Brasil.png?" group-title="ESPORTES HD",ESPN BRASIL
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/80.ts?
-
-#EXTINF:-1 tvg-id="ESPN Extra"  tvg-logo="https://goo.gl/SLpg1y?" group-title="ESPORTES HD",ESPN EXTRA
-
-
-#EXTINF:-1 tvg-id="Fox Sports"  tvg-logo="http://goo.gl/2GxOT7?Fox-Sports.png?" group-title="ESPORTES HD",FOX SPORTS
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/182.ts?
-
-#EXTINF:-1 tvg-id="ESPN" tvg-logo="http://goo.gl/Pgcyh0?ESPN1.png?" group-title="ESPORTES HD",ESPN
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/186.ts?
-
-#EXTINF:-1 tvg-id="SporTV 2"  tvg-logo="https://goo.gl/czed6A?" group-title="ESPORTES HD",SPORTV 2
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/234.ts?
-
-#EXTINF:-1 tvg-id="SporTV 3"  tvg-logo="https://goo.gl/TZdrPf?" group-title="ESPORTES HD",SPORTV 3
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/161.ts?
-
-#EXTINF:-1 tvg-id="Premiere"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="ESPORTES HD",PREMIERE
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/102.ts?
-
-#EXTINF:-1 tvg-id="Combate"  tvg-logo="http://goo.gl/q2H05k?Combate.png?" group-title="ESPORTES HD",COMBATE
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/1557.ts?
-
-#EXTINF:-1 tvg-id="foxSportes2"  tvg-logo="http://goo.gl/aXJTWu?Fox-Sports-2.png?" group-title="ESPORTES HD",FOX SPORTS 2
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/196.ts?
-
-#EXTINF:-1 tvg-id="Band Sports"  tvg-logo="http://goo.gl/291Lwj?Band-Sports.png?" group-title="ESPORTES HD",BAND SPORTS
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/127.ts?
-
-#EXTINF:-1 tvg-id="E Interativo" tvg-logo="https://goo.gl/VvzJLq?" group-title="ESPORTES HD",ESPORTE INTERATIVO
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/103.ts?
-
-#EXTINF:-1 tvg-id="E Interativo 2" tvg-logo="https://goo.gl/vAiaCs?" group-title="ESPORTES HD",ESPORTE INTERATIVO 2
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/187.ts?
-
-#EXTINF:-1 tvg-id="E Interativo BR" tvg-logo="https://goo.gl/EUUx19?Esporte_Interativo_BR.png?" group-title="ESPORTES HD",ESPORTE INTERATIVO BR
-
-
-#EXTINF:-1 tvg-id="ESPN+"  tvg-logo="http://goo.gl/HBo8jM?ESPN+.png?" group-title="ESPORTES HD",ESPN+
-
-
-#EXTINF:-1 tvg-id="PREMIERE 1"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="PREMIERES HD",PREMIERE 1
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/122.ts?
-
-#EXTINF:-1 tvg-id="PREMIERE 2"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="PREMIERES HD",PREMIERE 2
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/424.ts?
-
-#EXTINF:-1 tvg-id="PREMIERE 3"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="PREMIERES HD",PREMIERE 3
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/423.ts?
-
-#EXTINF:-1 tvg-id="PREMIERE 4"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="PREMIERES HD",PREMIERE 4
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/422.ts?
-
-#EXTINF:-1 tvg-id="PREMIERE 5"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="PREMIERES HD",PREMIERE 5
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/166.ts?
-
-#EXTINF:-1 tvg-id="PREMIERE 6"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="PREMIERES HD",PREMIERE 6
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/135.ts?
-
-#EXTINF:-1 tvg-id="PREMIERE 7"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="PREMIERES HD",PREMIERE 7
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/136.ts?
-
-#EXTINF:-1 tvg-id="PREMIERE 8"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="PREMIERES HD",PREMIERE 8
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/417.ts?
-
-#EXTINF:-1 tvg-id="PREMIERE 9"  tvg-logo="http://goo.gl/YpLC7E?premiere.png?" group-title="PREMIERES HD",PREMIERE 9
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/416.ts?
-
-#EXTINF:-1 tvg-id="TcPipoca"  tvg-logo="http://goo.gl/5IKysn?" group-title="FILMES HD",TELECINE PIPOCA
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/109.ts?
-
-#EXTINF:-1 tvg-id="TcPremium"  tvg-logo="http://goo.gl/XaOWO6?" group-title="FILMES HD",TELECINE PREMIUM
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/100.ts?
-
-#EXTINF:-1 tvg-id="TcAction"  tvg-logo="http://goo.gl/P79aKf?" group-title="FILMES HD",TELECINE ACTION
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/96.ts?
-
-#EXTINF:-1 tvg-id="TcFun"  tvg-logo="http://goo.gl/Dk6F7h?" group-title="FILMES HD",TELECINE FUN
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/94.ts?
-
-#EXTINF:-1 tvg-id="TcTouch"  tvg-logo="http://goo.gl/AfJkib?" group-title="FILMES HD",TELECINE TOUCH
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/95.ts?
-
-#EXTINF:-1 tvg-id="TcCult"  tvg-logo="http://goo.gl/fLmSUL?" group-title="FILMES HD",TELECINE CULT
-
-
-#EXTINF:-1 tvg-id="HBO"  tvg-logo="http://goo.gl/N9ccs5?" group-title="FILMES HD",HBO
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/104.ts?
-
-#EXTINF:-1 tvg-id="HBO 2"  tvg-logo="http://goo.gl/yrDz67?" group-title="FILMES HD",HBO 2
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/282.ts?
-
-#EXTINF:-1 tvg-id="HBO Family"  tvg-logo="http://goo.gl/2BXhGr?" group-title="FILMES HD",HBO FAMILY
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/177.ts?
-
-#EXTINF:-1 tvg-id="HBO Plus"  tvg-logo="http://goo.gl/ISXYSM?" group-title="FILMES HD",HBO PLUS
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/176.ts?
-
-#EXTINF:-1 tvg-id="HBO Plus E"  tvg-logo="https://goo.gl/3ypaFN?" group-title="FILMES HD",HBO PLUS E
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/280.ts?
-
-#EXTINF:-1 tvg-id="HBO SIGNATURE"  tvg-logo="http://goo.gl/pTRcv8?" group-title="FILMES HD",HBO SIGNATURE
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/175.ts?
-
-#EXTINF:-1 tvg-id="Space"  tvg-logo="http://goo.gl/GY0nyM?" group-title="FILMES HD",SPACE
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/97.ts?
-
-#EXTINF:-1 tvg-id="Megapix" tvg-logo="http://goo.gl/qXR9CS?" group-title="FILMES HD",MEGAPIX
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/172.ts?
-
-#EXTINF:-1 tvg-id="PARAMOUNT" tvg-logo="https://goo.gl/iwCiPM?" group-title="FILMES HD",PARAMOUNT CHANNEL
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/169.ts?
-
-#EXTINF:-1 tvg-id="TNT" tvg-logo="http://goo.gl/vUl6oy?" group-title="FILMES HD",TNT
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/159.ts?
-
-#EXTINF:-1 tvg-id="TCM"  tvg-logo="https://goo.gl/MBRjjf?" group-title="FILMES HD",TCM
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/202.ts?
-
-#EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://goo.gl/oDAihL?" group-title="FILMES HD",CINEMAX
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/317.ts?
-
-#EXTINF:-1 tvg-id="MAX" tvg-logo="https://goo.gl/db6g8k?" group-title="FILMES HD",MAX
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/145.ts?
-
-#EXTINF:-1 tvg-id="MAX UP" tvg-logo="http://goo.gl/Hbr506?" group-title="FILMES HD",MAX UP
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/143.ts?
-
-#EXTINF:-1 tvg-id="MAX PRIME" tvg-logo="http://goo.gl/JG4dUv?" group-title="FILMES HD",MAX PRIME
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/144.ts?
-
-#EXTINF:-1 tvg-id="SUniversal" tvg-logo="http://goo.gl/T8ICde?" group-title="FILMES HD",STUDIO
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/83.ts?
-
-#EXTINF:-1 tvg-id="Canal Brasil" tvg-logo="http://goo.gl/zddqpQ?" group-title="FILMES HD",CANAL BRASIL
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/154.ts?
-
-#EXTINF:-1 tvg-id="TNT SERIES" tvg-logo="https://goo.gl/2ZBWuk?" group-title="SERIADOS HD",TNT SERIES
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/158.ts?
-
-#EXTINF:-1 tvg-id="Fox" tvg-logo="http://goo.gl/13gfQq?" group-title="SERIADOS HD",FOX
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/98.ts?
-
-#EXTINF:-1 tvg-id="FOX PREMIUM 1" tvg-logo="https://goo.gl/Z9UCZQ?" group-title="SERIADOS HD",FOX PREMIUM 1
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/185.ts?
-
-#EXTINF:-1 tvg-id="FOX PREMIUM 2" tvg-logo="https://goo.gl/RUDViH?" group-title="SERIADOS HD",FOX PREMIUM 2
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/131.ts?
-
-#EXTINF:-1 tvg-id="FX" tvg-logo="http://goo.gl/RnqXjY?" group-title="SERIADOS HD",FX
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/132.ts?
-
-#EXTINF:-1 tvg-id="TBS" tvg-logo="http://goo.gl/6Y4LUI?" group-title="SERIADOS HD",TBS
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/160.ts?
-
-#EXTINF:-1 tvg-id="UniversalCH" tvg-logo="http://goo.gl/K8V00r?" group-title="SERIADOS HD",UNIVERSAL CHANNEL
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/157.ts?
-
-#EXTINF:-1 tvg-id="Warner" tvg-logo="http://goo.gl/u2Eh6h?" group-title="SERIADOS HD",WARNER
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/155.ts?
-
-#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="http://goo.gl/7GDv0O?" group-title="SERIADOS HD",COMEDY CENTRAL
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/1558.ts?
-
-#EXTINF:-1 tvg-id="ID" tvg-logo="https://goo.gl/al1XQO?" group-title="SERIADOS HD",INVESTIGAÇÃO DISCOVERY
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/173.ts?
-
-#EXTINF:0 tvg-id="FOX LIFE" group-title="SERIADOS HD" tvg-logo="https://goo.gl/STGSLK?",FOX LIFE
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/184.ts?
-
-#EXTINF:0 tvg-id="SyFy" group-title="SERIADOS HD" tvg-logo="http://goo.gl/VDyslJ?",SYFY
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/82.ts?
-
-#EXTINF:-1 tvg-id="Sony" tvg-logo="http://goo.gl/omksVK?" group-title="SERIADOS HD",SONY
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/236.ts?
-
-#EXTINF:-1 tvg-id="AXN" tvg-logo="http://goo.gl/U4atFv?" group-title="SERIADOS HD",AXN
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/134.ts?
-
-#EXTINF:-1 tvg-id="AMC" tvg-logo="https://goo.gl/TLM39Z?" group-title="SERIADOS HD",AMC
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/81.ts?
-
-#EXTINF:-1 tvg-id="AeE" tvg-logo="https://goo.gl/9UZzCQ?" group-title="SERIADOS HD",A&E
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/87.ts?
-
-#EXTINF:-1 tvg-id="Lifetime" tvg-logo="https://goo.gl/6wG2dw?" group-title="SERIADOS HD",LIFETIME
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/147.ts?
-
-#EXTINF:-1 tvg-id="bbb"  tvg-logo="http://www.gshowbbb2018.com/wp-content/uploads/2017/04/bigWelcomePic_4-300x169.png?" group-title="VARIEDADES",BBB 18
-
-
-#EXTINF:-1 tvg-id="Multishow"  tvg-logo="http://goo.gl/7LIjII?" group-title="VARIEDADES HD",MULTISHOW
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/90.ts?
-
-#EXTINF:-1 tvg-id="MTV"  tvg-logo="http://goo.gl/XQfSPS?" group-title="VARIEDADES HD",MTV
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/142.ts?
-
-#EXTINF:-1 tvg-id="MIX TV"  tvg-logo="http://goo.gl/9XI6AQ?" group-title="VARIEDADES HD",MIX TV
-
-
-#EXTINF:-1 tvg-id="GNT"  tvg-logo="http://goo.gl/YyHiwq?" group-title="VARIEDADES HD",GNT
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/180.ts?
-
-#EXTINF:-1 tvg-id="Viva"  tvg-logo="http://goo.gl/TWuTpO?" group-title="VARIEDADES HD",VIVA
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/156.ts?
-
-#EXTINF:-1 tvg-id="BIS"  tvg-logo="https://goo.gl/09Wgmh?" group-title="VARIEDADES HD",BIS
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/194.ts?
-
-#EXTINF:-1 tvg-id="FishTV"  tvg-logo="http://goo.gl/Lcrqe6?" group-title="VARIEDADES HD",FISH TV
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/295.ts?
-
-#EXTINF:-1 tvg-id="OFF"  tvg-logo="https://goo.gl/B5pwdb?" group-title="VARIEDADES HD",OFF
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/170.ts?
-
-#EXTINF:-1 tvg-id="Discovery Home"  tvg-logo="http://goo.gl/ewCTK1?" group-title="VARIEDADES HD",HOME & HEALTH
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/126.ts?
-
-#EXTINF:-1 tvg-id="FOOD NETWORK"  tvg-logo="https://goo.gl/sJijSQ?" group-title="VARIEDADES HD",FOOD NETWORK
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/150.ts?
-
-#EXTINF:-1 tvg-id="+GLOBOSAT"  tvg-logo="https://goo.gl/cfDftL?" group-title="VARIEDADES HD",+GLOBOSAT
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/146.ts?
-
-#EXTINF:-1 tvg-id="E! Entertainment"  tvg-logo="https://goo.gl/n5bzdX?" group-title="VARIEDADES HD",E! Entertainment
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/151.ts?
-
-#EXTINF:-1 tvg-id="HIT TV"  tvg-logo="https://goo.gl/Eroxub?" group-title="VARIEDADES HD",HIT TV
-
-
-#EXTINF:-1 tvg-id="PRIME BOX BRASIL"  tvg-logo="https://goo.gl/zu7UD8?" group-title="VARIEDADES HD",PRIME BOX BRASIL
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/245.ts?
-
-#EXTINF:-1 tvg-id="ARTE 1"  tvg-logo="https://goo.gl/BuuxB8?" group-title="VARIEDADES HD",ARTE 1
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/331.ts?
-
-#EXTINF:-1 tvg-id="NAT GEO KIDS" tvg-logo="https://goo.gl/B59eLy?" group-title="INFANTIL HD",NAT GEO KIDS
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/137.ts?
-
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="http://goo.gl/oF6osu?" group-title="INFANTIL HD",CARTOON NETWORK
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/91.ts?
-
-#EXTINF:-1 tvg-id="Nick" tvg-logo="http://goo.gl/welGCW?" group-title="INFANTIL HD",NICK
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/429.ts?
-
-#EXTINF:-1 tvg-id="Disney XD" tvg-logo="http://goo.gl/aWbwb4?" group-title="INFANTIL HD",DISNEY XD
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/302.ts?
-
-#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="http://goo.gl/aHrprS?" group-title="INFANTIL HD",DISNEY CHANNEL
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/152.ts?
-
-#EXTINF:-1 tvg-id="Disney Jr" tvg-logo="http://goo.gl/HYutK0?" group-title="INFANTIL HD",DISNEY JR
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/88.ts?
-
-#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="http://goo.gl/eVuVEw?" group-title="INFANTIL HD",DISCOVERY KIDS
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/107.ts?
-
-#EXTINF:-1 tvg-id="Gloob" tvg-logo="http://goo.gl/aghxnu?" group-title="INFANTIL HD",GLOOB
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/148.ts?
-
-#EXTINF:-1 tvg-id="Nick Jr" tvg-logo="http://goo.gl/gZkEi0?" group-title="INFANTIL HD",NICK JR
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/140.ts?
-
-#EXTINF:-1 tvg-id="Bloomberg" tvg-logo="https://goo.gl/kRtYPd?" group-title="INFANTIL HD",BOOMERANG
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/89.ts?
-
-#EXTINF:-1 tvg-id="Tooncast" tvg-logo="http://goo.gl/9ytu52?" group-title="INFANTIL HD",TOONCAST
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/120.ts?
-
-#EXTINF:-1 tvg-id="Animal Planet"" tvg-logo="http://goo.gl/yXfk9Y?"  group-title="DOCUMENTÁRIOS HD",ANIMAL PLANET
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/99.ts?
-
-#EXTINF:-1 tvg-id="Discovery" tvg-logo="http://goo.gl/5ObfPV?"  group-title="DOCUMENTÁRIOS HD",DISCOVERY CHANNEL
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/192.ts?
-
-#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-logo="http://goo.gl/t0czad?"  group-title="DOCUMENTÁRIOS HD",NAT GEO WILD
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/171.ts?
-
-#EXTINF:-1 tvg-id="Discovery Civilization" tvg-logo="http://goo.gl/vZm1PM?"  group-title="DOCUMENTÁRIOS HD",DISCOVERY CIVILIZATION
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/139.ts?
-
-#EXTINF:-1 tvg-id="The History" tvg-logo="http://goo.gl/5rr2ab?" group-title="DOCUMENTÁRIOS HD",THE HISTORY CHANNEL
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/174.ts?
-
-#EXTINF:-1 tvg-id="National Geo" tvg-logo="http://goo.gl/INXrU0?" group-title="DOCUMENTÁRIOS HD",NAT GEO
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/261.ts?
-
-#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="http://goo.gl/B8yVJo?"  group-title="DOCUMENTÁRIOS HD",DISCOVERY TURBO
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/129.ts?
-
-#EXTINF:-1 tvg-id="H2" tvg-logo="https://goo.gl/dzX1M2?"  group-title="DOCUMENTÁRIOS HD",H2
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/179.ts?
-
-#EXTINF:0 tvg-id="TLC?" group-title="DOCUMENTÁRIOS HD" tvg-logo="https://goo.gl/46JvTg?",TLC
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/130.ts?
-
-#EXTINF:-1 tvg-id="Liv.ttwrs" tvg-logo="http://goo.gl/N5R6l8?"  group-title="DOCUMENTÁRIOS HD",DISCOVERY ID
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/173.ts?
-
-#EXTINF:-1 tvg-id="Discovery Theater" tvg-logo="http://goo.gl/PQFZHJ?"  group-title="DOCUMENTÁRIOS HD",Discovery HD THEATER
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/190.ts?
-
-#EXTINF:-1 tvg-id="Globo News" tvg-logo="http://goo.gl/QCdPkl?" group-title="JORNALISMO HD",GLOBO NEWS
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/1560.ts?
-
-#EXTINF:-1 tvg-id="Band News" tvg-logo="https://goo.gl/SVD8vc?" group-title="JORNALISMO HD",BAND NEWS
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/128.ts?
-
-#EXTINF:-1 tvg-id="Record News" tvg-logo="http://goo.gl/dA26st?" group-title="JORNALISMO HD",RECOR NEWS
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/243.ts?
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ HD" tvg-logo="" group-title="Canais abertos",Globo RJ HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/311.m3u8
+#EXTINF:-1 tvg-id="Globo - São Paulo [Brazil]" tvg-name="Globo" tvg-logo="http://s17.postimg.org/w75u3yg1n/globo2.png" group-title="Canais abertos",Globo
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/223.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record HD" tvg-logo="" group-title="Canais abertos",Record HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/290.m3u8
+#EXTINF:-1 tvg-id="Record [Brazil]" tvg-name="Record" tvg-logo="http://s21.postimg.org/a8js3gflv/record4.png" group-title="Canais abertos",Record
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/191.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rede TV HD" tvg-logo="" group-title="Canais abertos",Rede TV HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/289.m3u8
+#EXTINF:-1 tvg-id="Rede TV [Brazil]" tvg-name="RedeTV!" tvg-logo="http://s30.postimg.org/ha7dxt4bh/redetv3.png" group-title="Canais abertos",RedeTV!
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT HD" tvg-logo="" group-title="Canais abertos",SBT HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/288.m3u8
+#EXTINF:-1 tvg-id="SBT [Brazil]" tvg-name="SBT" tvg-logo="https://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="Canais abertos",SBT
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/189.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Band HD" tvg-logo="" group-title="Canais abertos",Band HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/334.m3u8
+#EXTINF:-1 tvg-id="Band Rede [Brazil]" tvg-name="Band" tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="Canais abertos",Band
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/165.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2017" tvg-logo="http://1news.com.br/images/noticias/ef9aa7818d470f7ddb1a254c6fd4aa0e_700x430.jpg" group-title="Canais abertos",BBB 2017
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/160.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="I sat" tvg-logo="http://predictio.se/wp-content/uploads/2012/09/isat_logo_471x201.png" group-title="Canais abertos",I sat
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/163.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GloboSAT" tvg-logo="http://famososnaweb.com/wp-content/uploads/2015/07/globosat.png" group-title="Canais abertos",GloboSAT
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/162.m3u8
+#EXTINF:-1 tvg-id="Globo News [Brazil]" tvg-name="Globo News" tvg-logo="http://s10.postimg.org/nmpvs4hkl/gnews.png" group-title="Noticiários",Globo News
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/222.m3u8
+#EXTINF:-1 tvg-id="Record News [Brazil]" tvg-name="Record News" tvg-logo="http://s12.postimg.org/o61obsaq1/record_news.png" group-title="Noticiários",Record News
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/192.m3u8
+#EXTINF:-1 tvg-id="Band News [Brazil]" tvg-name="Band News" tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="Noticiários",Band News
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/251.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FUTURA TV UNIVATES" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7f91359ccba726fb29cf7f461c35005e.jpg" group-title="Documentários",FUTURA TV UNIVATES
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/257.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Futura" tvg-logo="http://s24.postimg.org/9hi59nvld/Futura2.png" group-title="Canais abertos",TV Futura
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/225.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GNT HD" tvg-logo="" group-title="",GNT HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/310.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="http://s32.postimg.org/mfp4sxpch/GNT.png" group-title="Documentários",GNT
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/220.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIVA HD" tvg-logo="" group-title="",VIVA HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/274.m3u8
+#EXTINF:-1 tvg-id="Viva [Brazil]" tvg-name="Viva" tvg-logo="https://s19.postimg.org/72w5k6gwz/vivarosho.png" group-title="Canais abertos",Viva
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/169.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox 1 HD" tvg-logo="" group-title="Filmes e Séries",Fox 1 HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/318.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="" group-title="Filmes e Séries",FOX HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/316.m3u8
+#EXTINF:-1 tvg-id="Fox [Brazil]" tvg-name="Fox" tvg-logo="https://s32.postimg.org/7y1thriph/Fox.png" group-title="Filmes e Séries",Fox
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/229.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Action HD" tvg-logo="" group-title="Filmes e Séries",Fox Action HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/317.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Life HD" tvg-logo="" group-title="Filmes e Séries",FOX Life HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/315.m3u8
+#EXTINF:-1 tvg-id="Fox Life [Brazil]" tvg-name="Fox Life" tvg-logo="http://s22.postimg.org/bo4dgvux9/life.png" group-title="Variedades & Musicas",Fox Life
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/228.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="" group-title="Filmes e Séries",AXN HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/335.m3u8
+#EXTINF:-1 tvg-id="AXN [Brazil]" tvg-name="AXN" tvg-logo="http://s17.postimg.org/hv0f9naxn/telecinefun.png" group-title="Filmes e Séries",AXN
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/252.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX HD" tvg-logo="" group-title="Filmes e Séries",FX HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/312.m3u8
+#EXTINF:-1 tvg-id="FX [Brazil]" tvg-name="FX" tvg-logo="http://s27.postimg.org/v2ysovgkf/image.png" group-title="Filmes e Séries",FX
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/224.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount HD" tvg-logo="" group-title="Filmes e Séries",Paramount HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/296.m3u8
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel" tvg-logo="https://s31.postimg.org/f9lq0eei3/paramount.png" group-title="Filmes e Séries",Paramount Channel
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/203.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channels HD" tvg-logo="" group-title="Filmes e Séries",Universal Channels HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/275.m3u8
+#EXTINF:-1 tvg-id="Universal [Brazil]" tvg-name="Universal" tvg-logo="https://s31.postimg.org/6ktxs1ci3/universal.png" group-title="Filmes e Séries",Universal
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/170.m3u8
+#EXTINF:-1 tvg-id="Studio Universal [Brazil]" tvg-name="Studio Universal" tvg-logo="https://s32.postimg.org/uxw1c6411/studiouniversal.png" group-title="Filmes e Séries",Studio Universal
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="" group-title="Filmes e Séries",TNT HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/277.m3u8
+#EXTINF:-1 tvg-id="TNT [Brazil]" tvg-name="TNT" tvg-logo="http://s21.postimg.org/wv3r1264z/tnt.png" group-title="Filmes e Séries",TNT
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Séries HD" tvg-logo="" group-title="Filmes e Séries",TNT Séries HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/276.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Séries" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tnm3u8eriesb.png" group-title="Filmes e Séries",TNT Séries
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TC Premium HD" tvg-logo="" group-title="Filmes e Séries",TC Premium HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/279.m3u8
+#EXTINF:-1 tvg-id="Telecine Premium [Brazil]" tvg-name="Telecine Premium" tvg-logo="http://s17.postimg.org/lig6fpj4r/telecinepremium.png" group-title="Filmes e Séries",Telecine Premium
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/175.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TC Pipoca HD" tvg-logo="" group-title="Filmes e Séries",TC Pipoca HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/280.m3u8
+#EXTINF:-1 tvg-id="Telecine Pipoca [Brazil]" tvg-name="Telecine Pipoca" tvg-logo="http://s17.postimg.org/ty5qx7lzv/telecinepipoca.png" group-title="Filmes e Séries",Telecine Pipoca
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/176.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TC Action HD" tvg-logo="" group-title="Filmes e Séries",TC Action HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/282.m3u8
+#EXTINF:-1 tvg-id="Telecine Action [Brazil]" tvg-name="Telecine Action" tvg-logo="http://s9.postimg.org/vd00n5o4b/telecineaction.png" group-title="Filmes e Séries",Telecine Action
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/179.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TC Touch HD" tvg-logo="" group-title="Filmes e Séries",TC Touch HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/278.m3u8
+#EXTINF:-1 tvg-id="Telecine Touch [Brazil]" tvg-name="Telecine Touch" tvg-logo="http://s17.postimg.org/gva4dxvrv/telecinetouch.png" group-title="Filmes e Séries",Telecine Touch
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/174.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TC Fun HD" tvg-logo="" group-title="Filmes e Séries",TC Fun HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/281.m3u8
+#EXTINF:-1 tvg-id="Telecine Fun [Brazil]" tvg-name="Telecine Fun" tvg-logo="http://s17.postimg.org/hv0f9naxn/telecinefun.png" group-title="Filmes e Séries",Telecine Fun
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/177.m3u8
+#EXTINF:-1 tvg-id="Telecine Cult [Brazil]" tvg-name="Telecine Cult" tvg-logo="http://s7.postimg.org/5g56ygr2f/telecinecult.png" group-title="Documentários",Telecine Cult
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/178.m3u8
+#EXTINF:-1 tvg-id="Tlc" tvg-name="TLC" tvg-logo="http://s7.postimg.org/9xq1acbgn/TLC.png" group-title="Filmes e Séries",TLC
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/172.m3u8
+#EXTINF:-1 tvg-id="TCM - Turner Classic Movies [Brazil]" tvg-name="TCM" tvg-logo="http://multimidiatv.com.br/images/_0003_tcm.png" group-title="Filmes e Séries",TCM
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/180.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sony HD" tvg-logo="" group-title="Filmes e Séries",Canal Sony HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/331.m3u8
+#EXTINF:-1 tvg-id="Sony Entertainment TV [Brazil]" tvg-name="Sony" tvg-logo="https://s31.postimg.org/r52hou6h7/sony2.png" group-title="Filmes e Séries",Sony
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/247.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="" group-title="Filmes e Séries",Space HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/287.m3u8
+#EXTINF:-1 tvg-id="SPACE [Brazil]" tvg-name="Space" tvg-logo="https://s31.postimg.org/uu398livf/space.png" group-title="Filmes e Séries",Space
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/186.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Megapix HD" tvg-logo="" group-title="Filmes e Séries",Megapix HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/301.m3u8
+#EXTINF:-1 tvg-id="Megapix [Brazil]" tvg-name="Megapix" tvg-logo="http://megapix.estaticos.tv.br/img/megapix_og.jpg" group-title="Filmes e Séries",Megapix
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/210.m3u8
+#EXTINF:-1 tvg-id="Cinemax [Brazil]" tvg-name="Cinemax" tvg-logo="http://s24.postimg.org/75vs42fs1/cinemax.png" group-title="Filmes e Séries",Cinemax
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/245.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="H2 HD" tvg-logo="" group-title="",H2 HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/309.m3u8
+#EXTINF:-1 tvg-id="H2" tvg-name="H2" tvg-logo="http://k45.kn3.net/735B15C6D.png" group-title="Documentários",H2
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/219.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="" group-title="Filmes e Séries",HBO HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/306.m3u8
+#EXTINF:-1 tvg-id="HBO [Brazil]" tvg-name="HBO" tvg-logo="http://s18.postimg.org/ytb0mpqf9/hbo.png" group-title="Filmes e Séries",HBO
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/218.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 HD" tvg-logo="" group-title="Filmes e Séries",HBO 2 HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/308.m3u8
+#EXTINF:-1 tvg-id="HBO 2 [Brazil]" tvg-name="HBO 2" tvg-logo="http://s32.postimg.org/ro8fqkzoh/HBO_2.png" group-title="Filmes e Séries",HBO 2
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/214.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus HD" tvg-logo="" group-title="Filmes e Séries",HBO Plus HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/305.m3u8
+#EXTINF:-1 tvg-id="HBO Plus [Brazil]" tvg-name="HBO Plus" tvg-logo="http://s33.postimg.org/r72rs54xr/HBO_Plus.png" group-title="Filmes e Séries",HBO Plus
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/216.m3u8
+#EXTINF:-1 tvg-id="HBO Plus e [Brazil]" tvg-name="HBO Plus e" tvg-logo="" group-title="Filmes e Séries",HBO Plus e
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/343.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="" group-title="Filmes e Séries",HBO Family HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/307.m3u8
+#EXTINF:-1 tvg-id="HBO 2 [Brazil]" tvg-name="HBO Family" tvg-logo="https://s31.postimg.org/lw2etrpff/HBO_Family.png" group-title="Filmes e Séries",HBO Family
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD" tvg-logo="" group-title="Filmes e Séries",HBO Signature HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/304.m3u8
+#EXTINF:-1 tvg-id="Deum3u8che Welle [Brazil]" tvg-name="HBO Signature" tvg-logo="http://s32.postimg.org/yptuwknkx/HBO_Signature.png" group-title="Filmes e Séries",HBO Signature
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/215.m3u8
+#EXTINF:-1 tvg-id="Warner Channel [Brazil]" tvg-name="Warner Channel" tvg-logo="https://s32.postimg.org/3ydi8ai9h/warner2.png" group-title="Filmes e Séries",Warner Channel
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="" group-title="",TBS HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/283.m3u8
+#EXTINF:-1 tvg-id="TBS [Brazil]" tvg-name="TBS" tvg-logo="https://s31.postimg.org/hj4nfr0az/tbs.png" group-title="Filmes e Séries",TBS
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/181.m3u8
+#EXTINF:-1 tvg-id="Max Prime [Brazil]" tvg-name="Max" tvg-logo="https://latenemosclara.files.wordpress.com/2013/03/maxprime.jpg" group-title="Filmes e Séries",Max
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/161.m3u8
+#EXTINF:-1 tvg-id="Max up HD [Brazil]" tvg-name="Max Up" tvg-logo="https://s31.postimg.org/x7orzkx97/max_up.png" group-title="Filmes e Séries",Max Up
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/211.m3u8
+#EXTINF:-1 tvg-id="Max Prime [Brazil]" tvg-name="Max Prime" tvg-logo="http://s9.postimg.org/l51ctd8mz/maxprime.png" group-title="Filmes e Séries",Max Prime
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/212.m3u8
+#EXTINF:-1 tvg-id="Max Prime e [Brazil]" tvg-name="MAX Prime e" tvg-logo="" group-title="Filmes e Séries",MAX Prime e
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/346.m3u8
+#EXTINF:-1 tvg-id="Boomerang [Brazil]" tvg-name="Boomerang" tvg-logo="https://s32.postimg.org/bruec8hdx/boomerang3.png" group-title="Canais infantis",Boomerang
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/248.m3u8
+#EXTINF:-1 tvg-id="Discovery Kids [Brazil]" tvg-name="Discovery Kids" tvg-logo="https://s32.postimg.org/tqw8358qd/discoverykids.png" group-title="Canais infantis",Discovery Kids
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/240.m3u8
+#EXTINF:-1 tvg-id="Disney Channel [Brazil]" tvg-name="Disney Channel" tvg-logo="https://s32.postimg.org/iytuuw9j9/disney_channel.png" group-title="Canais infantis",Disney Channel
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/237.m3u8
+#EXTINF:-1 tvg-id="Disney Junior [Brazil]" tvg-name="Disney Junior" tvg-logo="https://s31.postimg.org/ntzixxfjf/disney_junior.png" group-title="Canais infantis",Disney Junior
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/236.m3u8
+#EXTINF:-1 tvg-id="Disney XD [Brazil]" tvg-name="Disney XD" tvg-logo="http://s28.postimg.org/wglxtxbeh/disneyxd.png" group-title="Canais infantis",Disney XD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/235.m3u8
+#EXTINF:-1 tvg-id="Gloob [Brazil]" tvg-name="Gloob" tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/imagens/gloob/logo-topo-2x.png" group-title="Canais infantis",Gloob
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/221.m3u8
+#EXTINF:-1 tvg-id="Nick Jr. [Brazil]" tvg-name="Nick Jr." tvg-logo="http://s31.postimg.org/6051scm2j/nick_jr.png" group-title="Canais infantis",Nick Jr.
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/206.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon [Brazil]" tvg-name="Nickelodeon" tvg-logo="http://s18.postimg.org/f9sbnd0c5/nick.png" group-title="Canais infantis",Nickelodeon
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/205.m3u8
+#EXTINF:-1 tvg-id="Tooncast [Brazil]" tvg-name="Tooncast" tvg-logo="http://tvonlinegratis1.com/wp-content/uploads/2014/05/tooncast_left_logo1.jpg" group-title="Canais infantis",Tooncast
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/157.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network [Brazil]" tvg-name="Cartoon Network" tvg-logo="https://s32.postimg.org/ih9e2ouvp/cartoon_network.png" group-title="Canais infantis",Cartoon Network
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/246.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History Channel HD" tvg-logo="" group-title="Documentários",History Channel HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/303.m3u8
+#EXTINF:-1 tvg-id="History Channel [Brazil]" tvg-name="History Channel" tvg-logo="http://s32.postimg.org/5qqqgpqzl/History_Channel_2.png" group-title="Documentários",History Channel
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/173.m3u8
+#EXTINF:-1 tvg-id="Comedy Central [Brazil]" tvg-name="Comedy Central" tvg-logo="http://www.brainbowinc.com/website/wp-content/uploads/2015/05/ComedyCentralLogo.jpg" group-title="Variedades & Musicas",Comedy Central
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/269.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NatGeoWild HD" tvg-logo="" group-title="Documentários",NatGeoWild HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/299.m3u8
+#EXTINF:-1 tvg-id="Nat Geo Wild HD [Brazil]" tvg-name="NatGeo Wild" tvg-logo="" group-title="Documentários",NatGeo Wild
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/347.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geography HD" tvg-logo="" group-title="Documentários",National Geography HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/298.m3u8
+#EXTINF:-1 tvg-id="Nat Geo [Brazil]" tvg-name="National Geographic" tvg-logo="http://www.dnet.lv/i/assem3u8/channels/NatGeoWild.jpg" group-title="Documentários",National Geographic
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/207.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="" group-title="Documentários",Animal Planet HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/336.m3u8
+#EXTINF:-1 tvg-id="Animal Planet [Brazil]" tvg-name="Animal Planet" tvg-logo="https://s31.postimg.org/djq4exzdn/animal_planet.png" group-title="Documentários",Animal Planet
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/253.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BIS HD" tvg-logo="" group-title="",BIS HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/332.m3u8
+#EXTINF:-1 tvg-id="A E [Brazil]" tvg-name="A&E" tvg-logo="https://s32.postimg.org/3xpsuoa7p/A_amp_E2.png" group-title="Documentários",A&E
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/254.m3u8
+#EXTINF:-1 tvg-id="SIC International [Brazil]" tvg-name="Sic Internacional" tvg-logo="http://www.atelevisao.com/wp-content/uploads/2011/09/sic-internacional.png" group-title="Variedades & Musicas",Sic Internacional
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/155.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fish TV" tvg-logo="https://s32.postimg.org/xy559rchx/discoveryid.png" group-title="Documentários",Fish TV
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/164.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="" group-title="Documentários",Discovery Channel HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/329.m3u8
+#EXTINF:-1 tvg-id="Discovery Channel [Brazil]" tvg-name="Discovery" tvg-logo="http://s7.postimg.org/ri6fckurf/u6v_J0_KXt_VCjzrzf_LHqyum_P1ue_Goqcv_DIp7_S4zx_GXNF4x_Tiqk.png" group-title="Documentários",Discovery
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/243.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID - Investigação Discovery HD" tvg-logo="" group-title="Documentários",ID - Investigação Discovery HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/302.m3u8
+#EXTINF:-1 tvg-id="Investigation Discovery" tvg-name="Discovery ID" tvg-logo="https://s32.postimg.org/xy559rchx/discoveryid.png" group-title="Documentários",Discovery ID
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/213.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo HD" tvg-logo="" group-title="Documentários",Discovery Turbo HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/326.m3u8
+#EXTINF:-1 tvg-id="Discovery Turbo [Brazil]" tvg-name="Discovery Turbo" tvg-logo="https://s32.postimg.org/6wvxqle9x/turbo.png" group-title="Documentários",Discovery Turbo
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/238.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" tvg-logo="" group-title="Documentários",Discovery Theater HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/327.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="" group-title="Documentários",Discovery World HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/325.m3u8
+#EXTINF:-1 tvg-id="Discovery Science [Brazil]" tvg-name="Discovery Science" tvg-logo="https://s16.postimg.org/fuf7d6h5d/dscience.png" group-title="Documentários",Discovery Science
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/239.m3u8
+#EXTINF:-1 tvg-id="Discovery Civilization [Brazil]" tvg-name="Discovery Civilization" tvg-logo="https://s32.postimg.org/tic0sfa85/civilization.png" group-title="Documentários",Discovery Civilization
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/242.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home & Health HD" tvg-logo="" group-title="Documentários",Discovery Home & Health HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/328.m3u8
+#EXTINF:-1 tvg-id="Discovery Home Health [Brazil]" tvg-name="Discovery Home & Health" tvg-logo="//s31.postimg.org/d2r4nmuq3/discoveryhome.png" group-title="Documentários",Discovery Home & Health
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/241.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OFF HD" tvg-logo="" group-title="Esportes",OFF HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/297.m3u8
+#EXTINF:-1 tvg-id="Play tv" tvg-name="Play TV" tvg-logo="" group-title="Variedades & Musicas",Play TV
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/351.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Off" tvg-logo="http://vista.art.br/wp-content/uploads/2011/12/logo-OFF.jpg" group-title="Esportes",Off
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Band Sporm3u8 HD" tvg-logo="" group-title="Esportes",Band Sporm3u8 HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/333.m3u8
+#EXTINF:-1 tvg-id="Band Esportes [Brazil]" tvg-name="Band Sporm3u8" tvg-logo="http://s9.postimg.org/55q56z7rj/bandsporm3u8.png" group-title="Esportes",Band Sporm3u8
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/250.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN  HD" tvg-logo="" group-title="Esportes",ESPN  HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/322.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="https://s31.postimg.org/jnhiwkp97/ESPN.png" group-title="Esportes",ESPN
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/231.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="" group-title="Esportes",ESPN HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/320.m3u8
+#EXTINF:-1 tvg-id="ESPN+ [Brazil]" tvg-name="ESPN Plus" tvg-logo="https://s31.postimg.org/cgvbok0t7/ESPNPlus.png" group-title="Esportes",ESPN Plus
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil HD" tvg-logo="" group-title="Esportes",ESPN Brasil HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/321.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil" tvg-logo="https://s19.postimg.org/bzkyqmgpv/ESPN_Brasil.png" group-title="Esportes",ESPN Brasil
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/230.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Esporte Interativo HD" tvg-logo="" group-title="Esportes",Esporte Interativo HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/319.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sport HD" tvg-logo="" group-title="Esportes",Fox Sport HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/314.m3u8
+#EXTINF:-1 tvg-id="Fox Sporm3u8 [Brazil]" tvg-name="Fox Sporm3u8" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/Fox_Sporm3u8_Logo.png" group-title="Esportes",Fox Sporm3u8
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/227.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX Sporm3u8 2 HD" tvg-logo="" group-title="Esportes",FOX Sporm3u8 2 HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/313.m3u8
+#EXTINF:-1 tvg-id="Fox Sporm3u8 2 [Brazil]" tvg-name="Fox Sporm3u8 2" tvg-logo="http://assem3u8.enterplay.com.br/images/Channels/Original/fox_sporm3u82.png" group-title="Esportes",Fox Sporm3u8 2
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/226.m3u8
+#EXTINF:-1 tvg-id="E! Entertainment Television [Brazil]" tvg-name="E!" tvg-logo="https://s32.postimg.org/ioprt4kyt/canal_E.png" group-title="Documentários",E!
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/234.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ei Maxx HD" tvg-logo="" group-title="Esportes",Ei Maxx HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/323.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ei Maxx" tvg-logo="http://s18.postimg.org/ymzvzw2xh/eiplus2.png" group-title="Esportes",Ei Maxx
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/233.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ei Maxx 2 HD" tvg-logo="" group-title="Esportes",Ei Maxx 2 HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/324.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ei Maxx 2" tvg-logo="http://s18.postimg.org/ymzvzw2xh/eiplus2.png" group-title="Esportes",Ei Maxx 2
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/232.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV HD" tvg-logo="" group-title="Esportes",Sport TV HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/284.m3u8
+#EXTINF:-1 tvg-id="SporTV [Brazil]" tvg-name="SporTV" tvg-logo="http://s17.postimg.org/d28s9ckuj/Spor_TV.png" group-title="Esportes",SporTV
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/185.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SporTV Alternativo" tvg-logo="" group-title="Esportes",SporTV Alternativo
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/358.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2 HD" tvg-logo="" group-title="Esportes",Sport TV 2 HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/286.m3u8
+#EXTINF:-1 tvg-id="SporTV 2 [Brazil]" tvg-name="SporTV 2" tvg-logo="http://s13.postimg.org/cj3f31t2r/Spor_TV2.png" group-title="Esportes",SporTV 2
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SporTV 2 Alternativo" tvg-logo="" group-title="Esportes",SporTV 2 Alternativo
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/357.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3 HD" tvg-logo="" group-title="Esportes",Sport TV 3 HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/285.m3u8
+#EXTINF:-1 tvg-id="SporTV 3 [Brazil]" tvg-name="SporTV 3" tvg-logo="http://s29.postimg.org/6gznfk6tv/Spor_TV3.png" group-title="Esportes",SporTV 3
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 1 HD" tvg-logo="" group-title="Esportes",Premiere 1 HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/295.m3u8
+#EXTINF:-1 tvg-id="PremiereFC [Brazil]" tvg-name="Premiere Clubes" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere Clubes
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/193.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="" group-title="Esportes",Premiere 2 HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/294.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 2
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/201.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="" group-title="Esportes",Premiere 3 HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/293.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 3
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD" tvg-logo="" group-title="Esportes",Premiere 4 HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/292.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 4
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/199.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 HD" tvg-logo="" group-title="Esportes",Premiere 5 HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/291.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 5
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/198.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 6
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/197.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 7
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/196.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 8
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/195.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 9" tvg-logo="http://s29.postimg.org/ekm15dgtv/premiere_fc.png" group-title="Esportes",Premiere 9
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/194.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Combate HD" tvg-logo="" group-title="Esportes",Combate HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/330.m3u8
+#EXTINF:-1 tvg-id="Combate [Brazil]" tvg-name="Combate" tvg-logo="https://s32.postimg.org/7yy5aszit/combate2.png" group-title="Esportes",Combate
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/244.m3u8
+#EXTINF:-1 tvg-id="TruTV [Brazil]" tvg-name="TruTV" tvg-logo="http://aovivonatv.com/fotos/e754de2087b0913fad9daed9c0f4c4b5.jpg" group-title="Variedades & Musicas",TruTV
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/268.m3u8
+#EXTINF:-1 tvg-id="SyFy [Brazil]" tvg-name="Syfy" tvg-logo="http://www.syfy.com/sites/syfy/files/tve_auth2/Syfylogo.png" group-title="Variedades & Musicas",Syfy
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/159.m3u8
+#EXTINF:-1 tvg-id="WooHoo [Brazil]" tvg-name="Woohoo" tvg-logo="http://clarotv.claro.com.br/image/Get/3117" group-title="Variedades & Musicas",Woohoo
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/167.m3u8
+#EXTINF:-1 tvg-id="Bis HD [Brazil]" tvg-name="Bis" tvg-logo="https://s19.postimg.org/6q1jmdo2r/bis.png" group-title="Variedades & Musicas",Bis
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/249.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Multishow HD" tvg-logo="" group-title="",Multishow HD
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/300.m3u8
+#EXTINF:-1 tvg-id="Multishow [Brazil]" tvg-name="Multishow" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/multishow.png" group-title="Variedades & Musicas",Multishow
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/208.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music Box Brasil" tvg-logo="https://i.ytimg.com/vi/wrXgD7nNwqY/hqdefault.jpg" group-title="Variedades & Musicas",Music Box Brasil
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/270.m3u8
+#EXTINF:-1 tvg-id="Arte 1 [Brazil]" tvg-name="Arte 1" tvg-logo="" group-title="Variedades & Musicas",Arte 1
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/337.m3u8
+#EXTINF:-1 tvg-id="Canal Brasil [Brazil]" tvg-name="Canal Brasil" tvg-logo="" group-title="Variedades & Musicas",Canal Brasil
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/338.m3u8
+#EXTINF:-1 tvg-id="Canal Rural [Brazil]" tvg-name="Canal Rural" tvg-logo="" group-title="Variedades & Musicas",Canal Rural
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/339.m3u8
+#EXTINF:-1 tvg-id="Canção Nova [Brazil]" tvg-name="Canção Nova" tvg-logo="" group-title="Canais religiosos",Canção Nova
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/340.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Curta!" tvg-logo="" group-title="Documentários",Curta!
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/341.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="" group-title="Documentários",Food Network
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/342.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ideal TV" tvg-logo="" group-title="Canais religiosos",Ideal TV
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/344.m3u8
+#EXTINF:-1 tvg-id="Lifetime [Brazil]" tvg-name="Lifetime" tvg-logo="" group-title="Filmes e Séries",Lifetime
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/345.m3u8
+#EXTINF:-1 tvg-id="MTV Brasil [Brazil]" tvg-name="MTV" tvg-logo="http://s24.postimg.org/9czz4sgdt/MTV.png" group-title="Variedades & Musicas",MTV
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/209.m3u8
+#EXTINF:-1 tvg-id="NBR [Brazil]" tvg-name="NBR" tvg-logo="" group-title="Noticiários",NBR
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/348.m3u8
+#EXTINF:-1 tvg-id="NHK World [Brazil]" tvg-name="NHK" tvg-logo="" group-title="Variedades & Musicas",NHK
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/349.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Novo Tempo" tvg-logo="" group-title="Canais religiosos",Novo Tempo
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/350.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RBI" tvg-logo="" group-title="Canais religiosos",RBI
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/352.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV Porto Alegre" tvg-logo="" group-title="Canais abertos",RBS TV Porto Alegre
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/353.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rede Brasil" tvg-logo="" group-title="Canais abertos",Rede Brasil
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/354.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rede Vida" tvg-logo="" group-title="Canais abertos",Rede Vida
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/356.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RIT" tvg-logo="" group-title="Canais religiosos",RIT
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/355.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Brasil" tvg-logo="" group-title="",TV Brasil
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/362.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Ra tim bum" tvg-logo="" group-title="Variedades & Musicas",TV Ra tim bum
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/360.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVE" tvg-logo="" group-title="Canais abertos",TVE
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/361.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Megahim3u8" tvg-logo="" group-title="Variedades & Musicas",VH1 Megahim3u8
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/359.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOSPEL TV" tvg-logo="http://www.dicasdiarias.com/wp-content/uploads/2016/01/assistir-tv-gospel-ao-vivo.jpg" group-title="Canais religiosos",GOSPEL TV
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/258.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Igreja Online TV" tvg-logo="https://i.ytimg.com/i/2Ubjz3ovdYrbZ98LJPd03g/mq1.jpg?v=b3759f" group-title="Canais religiosos",Igreja Online TV
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/260.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Aparecida" tvg-logo="http://www.a12.com/files/media/originals/tv_aparecida.jpg" group-title="Canais religiosos",TV Aparecida
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/256.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ALTAR CENTRAL" tvg-logo="http://noticiascatolicas.com.br/wp-content/uploads/2013/04/Missa_de_abertura.jpg" group-title="Canais religiosos",ALTAR CENTRAL
+http://www.iptvip.com:25461/live/ZVrqfBjK3F/gD3xBRZfnU/259.m3u8
