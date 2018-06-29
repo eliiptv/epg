@@ -555,7 +555,7 @@ http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/180.m3u8?|User-Agent=iPhone
 #EXTINF:-1 tvg-id="Viva"  tvg-logo="http://goo.gl/TWuTpO?" group-title="VARIEDADES",VIVA
 http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/156.m3u8?|User-Agent=iPhone
 #EXTINF:-1 tvg-id="BIS"  tvg-logo="https://goo.gl/09Wgmh?" group-title="VARIEDADES",BIS
-http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/194.m3u8?|User-Agent=iPhone
+http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/194.ts?|User-Agent=iPhone
 #EXTINF:-1 tvg-id="FishTV"  tvg-logo="http://goo.gl/Lcrqe6?" group-title="VARIEDADES",FISH TV
 http://cdn.iptvbr.tv:8080/live/GoBrazil/4aFaF9LMWq/295.m3u8?|User-Agent=iPhone
 #EXTINF:-1 tvg-id="OFF"  tvg-logo="https://goo.gl/B5pwdb?" group-title="VARIEDADES",OFF
