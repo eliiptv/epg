@@ -15,7 +15,7 @@ http://www.tv-msn.com/player/player.swf
 
 #######################################################################################################################################################################
 
-#EXTINF:-1 tvg-id="" tvg-name="A&E Full HD" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Filmes e Séries",A&E Full HD
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E Full HD" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Filmes e Séries",A&E Full HD
 http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/7892.ts
 #EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="http://i.imgur.com/7NKeRuh.png" group-title="Filmes e Séries",A&E HD
 http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/10895.ts?
@@ -23,17 +23,17 @@ http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/10895.ts?
 http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4194.ts?
 #EXTINF:-1 tvg-id="" tvg-name="AMC Full HD" tvg-logo="https://goo.gl/TLM39Z?" group-title="Filmes e Séries",AMC Full HD
 http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/7898.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/TLM39Z?" group-title="Filmes e Séries",AMC HD
+#EXTINF:-1 tvg-id="AMC" tvg-logo="https://goo.gl/TLM39Z?" group-title="Filmes e Séries",AMC HD
 http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/10897.ts?
-#EXTINF:-1 tvg-id="" tvg-name="AMC SD" tvg-logo="https://goo.gl/TLM39Z?" group-title="Filmes e Séries",AMC SD
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC SD" tvg-logo="https://goo.gl/TLM39Z?" group-title="Filmes e Séries",AMC SD
 http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/7670.ts
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet Full HD" tvg-logo="http://goo.gl/yXfk9Y?" group-title="Documentários",Animal Planet Full HD
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet Full HD" tvg-logo="http://goo.gl/yXfk9Y?" group-title="Documentários",Animal Planet Full HD
 http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/7883.ts
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="http://goo.gl/yXfk9Y?" group-title="Documentários",Animal Planet HD
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet HD" tvg-logo="http://goo.gl/yXfk9Y?" group-title="Documentários",Animal Planet HD
 http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4190.ts
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet SD" tvg-logo="http://goo.gl/yXfk9Y?" group-title="Documentários",Animal Planet SD
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet SD" tvg-logo="http://goo.gl/yXfk9Y?" group-title="Documentários",Animal Planet SD
 http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4191.ts
-#EXTINF:-1 tvg-id="" tvg-name="Arte 1 SD" tvg-logo="https://goo.gl/BuuxB8?" group-title="Variedades",Arte 1 HD
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1 SD" tvg-logo="https://goo.gl/BuuxB8?" group-title="Variedades",Arte 1 HD
 http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/10901.ts
 #EXTINF:-1 tvg-id="" tvg-name="Arte 1 SD" tvg-logo="https://goo.gl/BuuxB8?" group-title="Variedades",Arte 1 SD
 http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4582.ts
