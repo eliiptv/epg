@@ -15,523 +15,503 @@ http://www.tv-msn.com/player/player.swf
 
 #######################################################################################################################################################################
 
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="BBB [breve]" tvg-logo="https://pbs.twimg.com/profile_images/819721302734995457/kt04_0Ge.jpg" group-title="ENTRETERIMENTO",BBB [breve]
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/7452.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/7452.m3u8?
 #EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/1741.jpg" group-title="ENTRETERIMENTO",Arte 1
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6965.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6965.m3u8?
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="CANAIS FILMES | SERIES",AMC
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/7448.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/7448.m3u8?
 #EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="CANAIS FILMES | SERIES",AMC HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/7435.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/7435.m3u8?
 #EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E" tvg-logo="https://portal4.files.wordpress.com/2014/09/a-e_logo_2_.jpg" group-title="CANAIS FILMES | SERIES",A&E
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4404.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4404.m3u8?
 #EXTINF:-1 tvg-id="ABC NEWS HD" tvg-name="ABC NEWS" tvg-logo="https://yt3.ggpht.com/-vFNoLd1HnDs/AAAAAAAAAAI/AAAAAAAAAAA/Yt468AF7XKE/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CANAIS ABERTO",ABC NEWS
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/7424.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/7424.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Agro Canal" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/ac/Logotipo_do_Agro_Canal_2017.jpg" group-title="CANAIS ABERTO",Agro Canal
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/5983.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/5983.m3u8?
 #EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://tvbtn.files.wordpress.com/2013/10/animal-planet-logo.png" group-title="ENTRETERIMENTO",Animal Planet
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4403.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4403.m3u8?
 #EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" tvg-logo="https://tvbtn.files.wordpress.com/2013/10/animal-planet-logo.png" group-title="ENTRETERIMENTO",Animal Planet HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6142.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6142.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Anime Tv Infantil" tvg-logo="https://listaiptvbrasil.com/logo/animetv.png" group-title="CANAIS INFANTIL",Anime Tv Infantil
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6813.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6813.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Anime TV" tvg-logo="https://listaiptvbrasil.com/logo/animetv.png" group-title="CANAIS INFANTIL",Anime TV
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6181.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6181.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="All Sport" tvg-logo="https://i0.wp.com/www.simpletvbrasil.tv/cliente/logo/4366c67d4d4be3381abe034e7c15b80e.png" group-title="CANAIS DE SPORT",All Sport
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6812.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6812.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="All Sports? HD" tvg-logo="https://i0.wp.com/www.simpletvbrasil.tv/cliente/logo/4366c67d4d4be3381abe034e7c15b80e.png" group-title="CANAIS DE SPORT",All Sports? HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/5971.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/5971.m3u8?
 #EXTINF:-1 tvg-id="Aparecida" tvg-name="Aparecida" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/1897.jpg" group-title="RELIGIOSOS",Aparecida
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4438.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4438.m3u8?
 #EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN" tvg-logo="https://www.seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg" group-title="CANAIS FILMES | SERIES",AXN
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4402.ts?|User-Agent: VLC/2.2.2 LibVLC/2.2.17
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4402.m3u8?
 #EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="https://www.seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg" group-title="CANAIS FILMES | SERIES",AXN HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6140.m3u8?|User-Agent: VLC/2.2.2 LibVLC/2.2.17
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6140.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Arirang TV" tvg-logo="https://0.viki.io/carousel/-uploads/content_owners/256co/arirang_jpg.jpg" group-title="ENTRETERIMENTO",Arirang TV
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4407.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4407.m3u8?
 #EXTINF:-1 tvg-id="Band" tvg-name="Band" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/2872.jpg" group-title="CANAIS ABERTO",Band
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4400.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4400.m3u8?
 #EXTINF:-1 tvg-id="Band HD" tvg-name="Band HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/2872.jpg" group-title="CANAIS ABERTO",Band HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6882.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6882.m3u8?
 #EXTINF:-1 tvg-id="Band Sports?" tvg-name="Band Sports?" tvg-logo="https://1.bp.blogspot.com/-6DTrkGU75Ns/WMrgXWSi0LI/AAAAAAAAEY8/DoA-LA1P1J0XFSDMMrgO52R8oGLATb14ACLcB/s1600/123.jpg" group-title="CANAIS DE SPORT",Band Sports?
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4398.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4398.m3u8?
 #EXTINF:-1 tvg-id="Band Sports? HD" tvg-name="Band Sports? HD" tvg-logo="https://1.bp.blogspot.com/-6DTrkGU75Ns/WMrgXWSi0LI/AAAAAAAAEY8/DoA-LA1P1J0XFSDMMrgO52R8oGLATb14ACLcB/s1600/123.jpg" group-title="CANAIS DE SPORT",Band Sports? HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6138.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6138.m3u8?
 #EXTINF:-1 tvg-id="Band News [Brazil]" tvg-name="Band News" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/1521.jpg" group-title="ENTRETERIMENTO",Band News
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4399.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4399.m3u8?
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/1833.jpg" group-title="ENTRETERIMENTO",BIS
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6964.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6964.m3u8?
 #EXTINF:-1 tvg-id="BIS HD" tvg-name="BIS HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/1833.jpg" group-title="ENTRETERIMENTO",BIS HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6881.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6881.m3u8?
 #EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/3223.jpg" group-title="CANAIS INFANTIL",Boomerang
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4396.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4396.m3u8?
 #EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="https://www.montagecabletv.com/sites/default/files/baby_tv_logo.jpg" group-title="CANAIS INFANTIL",Baby TV
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4401.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4401.m3u8?
 #EXTINF:-1 tvg-id="BBC HD [Brazil]" tvg-name="BBC NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/1200px-BBC_World_News_red.svg.png" group-title="ENTRETERIMENTO",BBC NEWS
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6167.ts?
-#EXTINF:-1 tvg-id="" tvg-name="BRAZZERS TV " tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/022017/untitled-3_25.jpg" group-title="CANAIS ADULTO",BRAZZERS TV 
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6202.ts?
-#EXTINF:-1 tvg-id="" tvg-name="Canal Adulto" tvg-logo="http://img.olx.com.br/images/61/617714029776145.jpg" group-title="CANAIS ADULTO",Canal Adulto
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6193.ts?
-#EXTINF:-1 tvg-id="" tvg-name="Canal Adulto 2" tvg-logo="http://img.olx.com.br/images/61/617714029776145.jpg" group-title="CANAIS ADULTO",Canal Adulto 2
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6197.ts?
-#EXTINF:-1 tvg-id="" tvg-name="Canal Adulto 3" tvg-logo="http://img.olx.com.br/images/61/617714029776145.jpg" group-title="CANAIS ADULTO",Canal Adulto 3
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6198.ts?
 #EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/4169.jpg" group-title="ENTRETERIMENTO",Canal Brasil
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6963.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6963.m3u8?
 #EXTINF:-1 tvg-id="Canal Rural" tvg-name="Canal Rural" tvg-logo="" group-title="CANAIS ABERTO",Canal Rural
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/7449.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/7449.m3u8?
 #EXTINF:-1 tvg-id="Canal Sony" tvg-name="Canal Sony" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/Sonyla.jpg" group-title="CANAIS FILMES | SERIES",Canal Sony
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4395.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4395.m3u8?
 #EXTINF:-1 tvg-id="Canal Sony HD" tvg-name="Canal Sony HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/2849.jpg" group-title="CANAIS FILMES | SERIES",Canal Sony HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6961.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6961.m3u8?
 #EXTINF:-1 tvg-id="Cancao Nova" tvg-name="Cancao Nova" tvg-logo="https://img.cancaonova.com/cnimages/canais/uploads/sites/6/2015/10/formacao_cancao-nova-2.jpg" group-title="RELIGIOSOS",Cancao Nova
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6173.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6173.m3u8?
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/1014.jpg" group-title="CANAIS INFANTIL",Cartoon Network
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4394.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4394.m3u8?
 #EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="Cartoon Network HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/4406.jpg" group-title="CANAIS INFANTIL",Cartoon Network HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/7434.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/7434.m3u8?
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/3926.jpg" group-title="CANAIS FILMES | SERIES",Cinemax
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4393.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4393.m3u8?
 #EXTINF:-1 tvg-id="Combate" tvg-name="Combate" tvg-logo="http://s.glbimg.com/es/ge/static/live/combate/img/logo_combate_facebook.jpg" group-title="CANAIS DE SPORT",Combate
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4392.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4392.m3u8?
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate HD" tvg-logo="http://s.glbimg.com/es/ge/static/live/combate/img/logo_combate_facebook.jpg" group-title="CANAIS DE SPORT",Combate HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6172.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6172.m3u8?
 #EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/1070.jpg" group-title="CANAIS FILMES | SERIES",Comedy Central
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4391.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4391.m3u8?
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2010/06/16/25DSC_logoHD.jpg" group-title="ENTRETERIMENTO",Discovery Channel
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4390.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4390.m3u8?
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel HD" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2010/06/16/25DSC_logoHD.jpg" group-title="ENTRETERIMENTO",Discovery Channel HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6132.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6132.m3u8?
 #EXTINF:-1 tvg-id="Discovery H&H" tvg-name="Discovery H&H" tvg-logo="https://mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="ENTRETERIMENTO",Discovery H&H
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4389.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4389.m3u8?
 #EXTINF:-1 tvg-id="Discovery Home & Health HD" tvg-name="Discovery Home & Health HD" tvg-logo="https://mitvstatic.com/channels/b0d27efc-174d-41f6-851b-e125fba0dce7_m.jpg" group-title="ENTRETERIMENTO",Discovery Home & Health HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6131.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6131.m3u8?
 #EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/discovery_kids.png" group-title="CANAIS INFANTIL",Discovery Kids
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4388.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4388.m3u8?
 #EXTINF:-1 tvg-id="Discovery HD Theater [Brazil]" tvg-name="Discovery Theater HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/3441.jpg" group-title="ENTRETERIMENTO",Discovery Theater HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6130.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6130.m3u8?
 #EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/3526.jpg" group-title="ENTRETERIMENTO",Discovery Turbo
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4386.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4386.m3u8?
 #EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-name="Discovery Turbo HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/3526.jpg" group-title="ENTRETERIMENTO",Discovery Turbo HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6877.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6877.m3u8?
 #EXTINF:-1 tvg-id="Discovery world HD" tvg-name="Discovery World HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/4580.jpg" group-title="ENTRETERIMENTO",Discovery World HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6128.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6128.m3u8?
 #EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/3056.jpg" group-title="CANAIS INFANTIL",Disney Channel
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4385.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4385.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="DUPLEX MUSIC" tvg-logo="https://pbs.twimg.com/profile_images/654402659194130436/JYhGjAh6_400x400.jpg" group-title="ENTRETERIMENTO",DUPLEX MUSIC
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6817.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6817.m3u8?
 #EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="http://images.mi.tv/channels/14b29e39-3f39-4865-9764-226061f5c2c5_m.jpg" group-title="CANAIS INFANTIL",Disney Junior
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4384.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4384.m3u8?
 #EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/4059.jpg" group-title="CANAIS INFANTIL",Disney XD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4383.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4383.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="http://www.germany.info/contentblob/1979332/Hauptbereichsbild/5366412/deuts?chewelle.jpg" group-title="ENTRETERIMENTO",DW
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4425.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4425.m3u8?
 #EXTINF:-1 tvg-id="E! Entertainment Television" tvg-name="E! Entertainment Television" tvg-logo="https://genterosarevista.files.wordpress.com/2011/05/e_entertainment_tv.jpg" group-title="CANAIS DE SPORT",E! Entertainment Television
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4382.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4382.m3u8?
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/346.jpg" group-title="CANAIS DE SPORT",ESPN
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4381.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4381.m3u8?
 #EXTINF:-1 tvg-id="ESPN  HD" tvg-name="ESPN  HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/346.jpg" group-title="CANAIS DE SPORT",ESPN  HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6127.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6127.m3u8?
 #EXTINF:-1 tvg-id="ESPN +" tvg-name="ESPN + HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/1395.jpg" group-title="CANAIS DE SPORT",ESPN + HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6143.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6143.m3u8?
 #EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN Brasil" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/349.jpg" group-title="CANAIS DE SPORT",ESPN Brasil
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4380.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4380.m3u8?
 #EXTINF:-1 tvg-id="ESPN Brasil HD" tvg-name="ESPN Brasil HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/349.jpg" group-title="CANAIS DE SPORT",ESPN Brasil HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6126.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6126.m3u8?
 #EXTINF:-1 tvg-id="Esporte Interativo" tvg-name="Esporte Interativo" tvg-logo="http://www.grupointelligenza.com.br/wp-content/uploads/2015/12/EsporteInterativo.jpg" group-title="CANAIS DE SPORT",Esporte Interativo
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6960.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6960.m3u8?
 #EXTINF:-1 tvg-id="Esporte Interativo HD" tvg-name="Esporte Interativo HD" tvg-logo="http://3.bp.blogspot.com/-6Db0stHzd90/WS8RXKtVUJI/AAAAAAAAGrU/ZSavROM2RC8FcupZAqKowNpTco8hVQUAACK4B/s1600/Logotipo_do_Esporte_Interativo.png" group-title="CANAIS DE SPORT",Esporte Interativo HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6123.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6123.m3u8?
 #EXTINF:-1 tvg-id="Esporte Interativo 2" tvg-name="Esporte Interativo 2" tvg-logo="http://3.bp.blogspot.com/-6Db0stHzd90/WS8RXKtVUJI/AAAAAAAAGrU/ZSavROM2RC8FcupZAqKowNpTco8hVQUAACK4B/s1600/Logotipo_do_Esporte_Interativo.png" group-title="CANAIS DE SPORT",Esporte Interativo 2
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4378.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4378.m3u8?
 #EXTINF:-1 tvg-id="Esporte Interativo 2" tvg-name="Esporte Interativo 2 HD" tvg-logo="http://3.bp.blogspot.com/-6Db0stHzd90/WS8RXKtVUJI/AAAAAAAAGrU/ZSavROM2RC8FcupZAqKowNpTco8hVQUAACK4B/s1600/Logotipo_do_Esporte_Interativo.png" group-title="CANAIS DE SPORT",Esporte Interativo 2 HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6125.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6125.m3u8?
 #EXTINF:-1 tvg-id="Esporte Interativo BR HD" tvg-name="Esporte Interativo BR HD" tvg-logo="http://3.bp.blogspot.com/-6Db0stHzd90/WS8RXKtVUJI/AAAAAAAAGrU/ZSavROM2RC8FcupZAqKowNpTco8hVQUAACK4B/s1600/Logotipo_do_Esporte_Interativo.png" group-title="CANAIS DE SPORT",Esporte Interativo BR HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6124.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6124.m3u8?
 #EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/4748.jpg" group-title="ENTRETERIMENTO",Food Network
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6959.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6959.m3u8?
 #EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/3026.jpg" group-title="CANAIS FILMES | SERIES",FOX
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4375.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4375.m3u8?
 #EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/3026.jpg" group-title="CANAIS FILMES | SERIES",FOX HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6122.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6122.m3u8?
 #EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life" tvg-logo="http://sitedosgeeks.com/wp-content/uploads/2017/09/fox-life.jpg" group-title="CANAIS FILMES | SERIES",Fox Life
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4374.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4374.m3u8?
 #EXTINF:-1 tvg-id="FOX Life HD" tvg-name="FOX Life HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/2789.jpg" group-title="CANAIS FILMES | SERIES",FOX Life HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6876.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6876.m3u8?
 #EXTINF:-1 tvg-id="FOX Premium 1 HD" tvg-name="FOX Premium 1 HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/4945.jpg" group-title="CANAIS FILMES | SERIES",FOX Premium 1 HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6120.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6120.m3u8?
 #EXTINF:-1 tvg-id="FOX Premium 2 HD" tvg-name="FOX Premium 2 HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/4948.jpg" group-title="CANAIS FILMES | SERIES",FOX Premium 2 HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6119.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6119.m3u8?
 #EXTINF:-1 tvg-id="Fox Sports?" tvg-name="Fox Sports?" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/3401.jpg" group-title="CANAIS DE SPORT",Fox Sports?
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4373.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4373.m3u8?
 #EXTINF:-1 tvg-id="Fox Sport HD" tvg-name="Fox Sport HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/3404.jpg" group-title="CANAIS DE SPORT",Fox Sport HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6118.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6118.m3u8?
 #EXTINF:-1 tvg-id="Fox Sports? 2" tvg-name="Fox Sports? 2" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/3407.jpg" group-title="CANAIS DE SPORT",Fox Sports? 2
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4372.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4372.m3u8?
 #EXTINF:-1 tvg-id="FOX Sports? 2 HD" tvg-name="FOX Sports? 2 HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/3551.jpg" group-title="CANAIS DE SPORT",FOX Sports? 2 HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6117.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6117.m3u8?
 #EXTINF:-1 tvg-id="FX HD" tvg-name="FX HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/310.jpg" group-title="CANAIS FILMES | SERIES",FX HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6116.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6116.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Filmes Online 24Hrs" tvg-logo="http://images.crestock.com/4860000-4869999/4864316-xs.jpg" group-title="CANAIS FILMES | SERIES",Filmes Online 24Hrs
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/5980.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/5980.m3u8?
 #EXTINF:-1 tvg-id="Fish TV" tvg-name="Fish TV" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/4332.jpg" group-title="ENTRETERIMENTO",Fish TV
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4377.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4377.m3u8?
 #EXTINF:-1 tvg-id="Futura" tvg-name="Futura" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/25/Futura_logo.png" group-title="CANAIS ABERTO",Futura
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6182.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6182.m3u8?
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/310.jpg" group-title="CANAIS FILMES | SERIES",FX
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4371.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4371.m3u8?
 #EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/3735.jpg" group-title="ENTRETERIMENTO",Globo News
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4432.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4432.m3u8?
 #EXTINF:-1 tvg-id="GLOBO NEWS HD" tvg-name="Globo News HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/3735.jpg" group-title="ENTRETERIMENTO",Globo News HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/7442.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/7442.m3u8?
 #EXTINF:-1 tvg-id="GLOBO PARANA HD" tvg-name="Globo Parana" tvg-logo="https://geekpublicitario.com.br/wp-content/uploads/2015/04/novo-logo-globo-2015-blog-geek-publicitario.png" group-title="CANAIS ABERTO",Globo Parana
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/7443.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/7443.m3u8?
 #EXTINF:-1 tvg-id="Globo RJ" tvg-name="Globo RJ" tvg-logo="https://geekpublicitario.com.br/wp-content/uploads/2015/04/novo-logo-globo-2015-blog-geek-publicitario.png" group-title="CANAIS ABERTO",Globo RJ
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/7445.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/7445.m3u8?
 #EXTINF:-1 tvg-id="Globo RJ HD" tvg-name="Globo RJ HD" tvg-logo="https://geekpublicitario.com.br/wp-content/uploads/2015/04/novo-logo-globo-2015-blog-geek-publicitario.png" group-title="CANAIS ABERTO",Globo RJ HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6113.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6113.m3u8?
 #EXTINF:-1 tvg-id="Globo RPC Curitiba" tvg-name="Globo RPC Curitiba" tvg-logo="https://geekpublicitario.com.br/wp-content/uploads/2015/04/novo-logo-globo-2015-blog-geek-publicitario.png" group-title="CANAIS ABERTO",Globo RPC Curitiba
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/7444.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/7444.m3u8?
 #EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP" tvg-logo="https://geekpublicitario.com.br/wp-content/uploads/2015/04/novo-logo-globo-2015-blog-geek-publicitario.png" group-title="CANAIS ABERTO",Globo SP
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4431.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4431.m3u8?
 #EXTINF:-1 tvg-id="GLOBO SP HD" tvg-name="Globo SP HD" tvg-logo="https://geekpublicitario.com.br/wp-content/uploads/2015/04/novo-logo-globo-2015-blog-geek-publicitario.png" group-title="CANAIS ABERTO",Globo SP HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/7446.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/7446.m3u8?
 #EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="http://blog.udf.edu.br/wp-content/uploads/2012/06/1gloob.jpg" group-title="CANAIS INFANTIL",Gloob
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4369.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4369.m3u8?
 #EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/3744.jpg" group-title="ENTRETERIMENTO",GNT
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4368.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4368.m3u8?
 #EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/3747.jpg" group-title="ENTRETERIMENTO",GNT HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6956.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6956.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="GOSPEL MOVIES TELEVISION" tvg-logo="https://i0.wp.com/s29.postimg.org/6vtad0auv/Gospel_Movie_Television.jpg" group-title="RELIGIOSOS",GOSPEL MOVIES TELEVISION
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6212.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6212.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Gospel Music Television" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/904a43f3bc41d6bf7ed198f05715eef7.png" group-title="RELIGIOSOS",Gospel Music Television
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/7450.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/7450.m3u8?
 #EXTINF:-1 tvg-id="H2" tvg-name="H2" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/3193.jpg" group-title="ENTRETERIMENTO",H2
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4367.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4367.m3u8?
 #EXTINF:-1 tvg-id="H2 HD" tvg-name="H2 HD" tvg-logo="http://www.exorbeo.com/wp-content/uploads/2015/08/canal-h2-hd-na-net.png" group-title="ENTRETERIMENTO",H2 HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6111.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6111.m3u8?
 #EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/928.jpg" group-title="CANAIS FILMES | SERIES",HBO
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4366.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4366.m3u8?
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/928.jpg" group-title="CANAIS FILMES | SERIES",HBO HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6108.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6108.m3u8?
 #EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/2088.jpg" group-title="CANAIS FILMES | SERIES",HBO 2
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4365.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4365.m3u8?
 #EXTINF:-1 tvg-id="HBO 2 HD" tvg-name="HBO 2 HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/2088.jpg" group-title="CANAIS FILMES | SERIES",HBO 2 HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6110.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6110.m3u8?
 #EXTINF:-1 tvg-id="HBO Family [Brazil]" tvg-name="HBO Family" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/254.jpg" group-title="CANAIS FILMES | SERIES",HBO Family
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4364.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4364.m3u8?
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/254.jpg" group-title="CANAIS FILMES | SERIES",HBO Family HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6109.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6109.m3u8?
 #EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO Plus" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/242.jpg" group-title="CANAIS FILMES | SERIES",HBO Plus
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4363.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4363.m3u8?
 #EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO Plus HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/242.jpg" group-title="CANAIS FILMES | SERIES",HBO Plus HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6106.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6106.m3u8?
 #EXTINF:-1 tvg-id="HBO Plus e" tvg-name="HBO Plus e" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/248.jpg" group-title="CANAIS FILMES | SERIES",HBO Plus e
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6871.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6871.m3u8?
 #EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/2085.jpg" group-title="CANAIS FILMES | SERIES",HBO Signature
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4361.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4361.m3u8?
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/2085.jpg" group-title="CANAIS FILMES | SERIES",HBO Signature HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6105.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6105.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Heart TV" tvg-logo="https://media.info/i/lf/0/1405339420/1530.png" group-title="ENTRETERIMENTO",Heart TV
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6179.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6179.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Hear Tv HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/Heart_Extra.png" group-title="ENTRETERIMENTO",Hear Tv HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4439.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4439.m3u8?
 #EXTINF:-1 tvg-id="History Channel HD" tvg-name="History Channel HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/4360.jpg" group-title="ENTRETERIMENTO",History Channel HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6104.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6104.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Horse Brasil Channel HD" tvg-logo="http://www.anuncioz.com.br/img/anuncios/0c21234137447a367ed8a11ae60d322b.png" group-title="CANAIS DE SPORT",Horse Brasil Channel HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/5976.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/5976.m3u8?
 #EXTINF:-1 tvg-id="I-SAT*" tvg-name="I-SAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/I_sat.jpg" group-title="ENTRETERIMENTO",I-SAT
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6955.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6955.m3u8?
 #EXTINF:-1 tvg-id="ID - Investigacao Discovery" tvg-name="ID - Investigacao Discovery" tvg-logo="https://i.pinimg.com/originals/af/44/ca/af44cae998ec4704e2d1347ec59a36c2.jpg" group-title="ENTRETERIMENTO",ID - Investigacao Discovery
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4360.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4360.m3u8?
 #EXTINF:-1 tvg-id="ID - Investigacao Discovery" tvg-name="ID - Investigação Discovery HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/1372.jpg" group-title="ENTRETERIMENTO",ID - Investigação Discovery HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6869.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6869.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="IURD TV - RELIGIOSOS" tvg-logo="https://i0.wp.com/s26.postimg.org/5sfi2c2ax/iurd-tv.png" group-title="RELIGIOSOS",IURD TV - RELIGIOSOS
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6210.ts?
-#EXTINF:-1 tvg-id="" tvg-name="Jasmin TV" tvg-logo="http://www.xn--strungen-o4a.info/img/logos/livejasmin.png" group-title="CANAIS ADULTO",Jasmin TV
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6201.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6210.m3u8?
 #EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/3005.jpg" group-title="ENTRETERIMENTO",Lifetime
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6954.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6954.m3u8?
 #EXTINF:-1 tvg-id="Mais Globosat" tvg-name="Mais Globosat" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/4479.jpg" group-title="CANAIS ABERTO",Mais Globosat
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6953.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6953.m3u8?
 #EXTINF:-1 tvg-id="MAX" tvg-name="MAX" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/630.jpg" group-title="CANAIS FILMES | SERIES",MAX
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4358.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4358.m3u8?
 #EXTINF:-1 tvg-id="MAX Prime" tvg-name="MAX Prime" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/1063.jpg" group-title="CANAIS FILMES | SERIES",MAX Prime
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4357.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4357.m3u8?
 #EXTINF:-1 tvg-id="MAX Prime e" tvg-name="MAX Prime e" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/1066.jpg" group-title="CANAIS FILMES | SERIES",MAX Prime e
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6952.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6952.m3u8?
 #EXTINF:-1 tvg-id="MAX UP" tvg-name="MAX UP" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/3366.jpg" group-title="CANAIS FILMES | SERIES",MAX UP
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4355.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4355.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="MC MUSIC CHOICE" tvg-logo="https://i.ytimg.com/vi/lNDmOHqX8Ew/maxresdefault.jpg" group-title="ENTRETERIMENTO",MC MUSIC CHOICE
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6215.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6215.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="ME MUSIC" tvg-logo="https://lmdldb.files.wordpress.com/2010/05/musicme-logo.png" group-title="ENTRETERIMENTO",ME MUSIC
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6216.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6216.m3u8?
 #EXTINF:-1 tvg-id="MegaPix" tvg-name="MegaPix" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/3824.jpg" group-title="CANAIS FILMES | SERIES",MegaPix
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4354.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4354.m3u8?
 #EXTINF:-1 tvg-id="Megapix HD" tvg-name="Megapix HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/3824.jpg" group-title="CANAIS FILMES | SERIES",Megapix HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6101.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6101.m3u8?
 #EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/2454.jpg" group-title="ENTRETERIMENTO",MTV
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4353.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4353.m3u8?
 #EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/3726.jpg" group-title="ENTRETERIMENTO",Multishow
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4352.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4352.m3u8?
 #EXTINF:-1 tvg-id="Multishow HD" tvg-name="Multishow HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/3726.jpg" group-title="ENTRETERIMENTO",Multishow HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6867.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6867.m3u8?
 #EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="Music Box Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Music_Box_Brazil.jpg" group-title="ENTRETERIMENTO",Music Box Brazil
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6951.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6951.m3u8?
 #EXTINF:-1 tvg-id="NatGeo Kids" tvg-name="NatGeo Kids" tvg-logo="https://3.bp.blogspot.com/-y-d0fTjACJI/WbsumfRXw3I/AAAAAAAA-8k/biLnclDIaAE5T-UNcNq_Ns7qnSH2lIDKACPcBGAYYCw/s1600/nat%2Bgeo%2Bkids-ouniversodatv.png" group-title="CANAIS INFANTIL",NatGeo Kids
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4350.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4350.m3u8?
 #EXTINF:-1 tvg-id="NatGeo Wild" tvg-name="NatGeo Wild" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/930.jpg" group-title="ENTRETERIMENTO",NatGeo Wild
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4349.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4349.m3u8?
 #EXTINF:-1 tvg-id="NatGeoWild HD" tvg-name="NatGeoWild HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/930.jpg" group-title="ENTRETERIMENTO",NatGeoWild HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6099.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6099.m3u8?
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="http://www.nationalgeographic.com/content/dam/ngdotcom/rights?-exempt/misc/National-Geographic-Logo.ngsversion.1474040243902.adapt.1900.1.jpg" group-title="ENTRETERIMENTO",National Geographic
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4348.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4348.m3u8?
 #EXTINF:-1 tvg-id="National Geography HD*" tvg-name="National Geography HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/159.jpg" group-title="ENTRETERIMENTO",National Geography HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6098.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6098.m3u8?
 #EXTINF:-1 tvg-id="NBR" tvg-name="NBR" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/173.jpg" group-title="CANAIS ABERTO",NBR
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6950.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6950.m3u8?
 #EXTINF:-1 tvg-id="NHK" tvg-name="NHK" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/737.jpg" group-title="ENTRETERIMENTO",NHK
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6949.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6949.m3u8?
 #EXTINF:-1 tvg-id="NHK" tvg-name="NHK HD" tvg-logo="https://listaiptvbrasil.com/logo/nhk.jpg" group-title="ENTRETERIMENTO",NHK HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4347.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4347.m3u8?
 #EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/150.jpg" group-title="CANAIS INFANTIL",Nick Jr
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4346.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4346.m3u8?
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/627.jpg" group-title="CANAIS INFANTIL",Nickelodeon
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4345.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4345.m3u8?
 #EXTINF:-1 tvg-id="NovoTempo" tvg-name="Novo Tempo" tvg-logo="http://www.sempretops.com/wp-content/uploads/TV-Novo-Tempo-Ao-Vivo.jpg" group-title="CANAIS ABERTO",Novo Tempo
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6948.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6948.m3u8?
 #EXTINF:-1 tvg-id="NovoTempo" tvg-name="Novo Tempo HD" tvg-logo="http://www.sempretops.com/wp-content/uploads/TV-Novo-Tempo-Ao-Vivo.jpg" group-title="RELIGIOSOS",Novo Tempo HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6208.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6208.m3u8?
 #EXTINF:-1 tvg-id="NovoTempo" tvg-name="NovoTempo" tvg-logo="http://www.sempretops.com/wp-content/uploads/TV-Novo-Tempo-Ao-Vivo.jpg" group-title="CANAIS ABERTO",NovoTempo
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/7441.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/7441.m3u8?
 #EXTINF:-1 tvg-id="OFF" tvg-name="OFF" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/3738.jpg" group-title="ENTRETERIMENTO",OFF
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4344.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4344.m3u8?
 #EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/3738.jpg" group-title="ENTRETERIMENTO",OFF HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6947.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6947.m3u8?
 #EXTINF:-1 tvg-id="Paramount" tvg-name="Paramount" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/3386.jpg" group-title="CANAIS FILMES | SERIES",Paramount
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6946.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6946.m3u8?
 #EXTINF:-1 tvg-id="Paramount HD" tvg-name="Paramount HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/3386.jpg" group-title="CANAIS FILMES | SERIES",Paramount HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6945.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6945.m3u8?
 #EXTINF:-1 tvg-id="Play TV" tvg-name="Play TV" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/1551.jpg" group-title="ENTRETERIMENTO",Play TV
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6944.ts?
-#EXTINF:-1 tvg-id="Playboy TV" tvg-name="Playboy TV" tvg-logo="http://www.awesomegraphics.co.uk/WebRoot/BT2/Shops/Store2_002E_Shop1475/46A0/F629/3DE2/93E4/758F/AC10/3D2A/EC50/PLAYBOY_0020_X5_ml.jpg" group-title="CANAIS ADULTO",Playboy TV
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4342.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6944.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="PORTAL GOSPEL - RELIGIOSOS" tvg-logo="https://i0.wp.com/www.gospeltv.ca/media/photos/channels/1/1KTIr6F7_527x281_8814a166ace7ce0eeb78e08e23ad1abe.png" group-title="RELIGIOSOS",PORTAL GOSPEL - RELIGIOSOS
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6207.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6207.m3u8?
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://1.bp.blogspot.com/-uJPqxG4XGdo/WUB-LlcpvRI/AAAAAAAA7YE/etpUn8rjXIUEdasecDSDsIgtdKrXp2ANQCPcBGAYYCw/s640/premeire.png" group-title="CANAIS DE SPORT",Premiere Clubes
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4333.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4333.m3u8?
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes HD" tvg-logo="https://1.bp.blogspot.com/-uJPqxG4XGdo/WUB-LlcpvRI/AAAAAAAA7YE/etpUn8rjXIUEdasecDSDsIgtdKrXp2ANQCPcBGAYYCw/s640/premeire.png" group-title="CANAIS DE SPORT",Premiere Clubes HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6089.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6089.m3u8?
 #EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2" tvg-logo="https://1.bp.blogspot.com/-uJPqxG4XGdo/WUB-LlcpvRI/AAAAAAAA7YE/etpUn8rjXIUEdasecDSDsIgtdKrXp2ANQCPcBGAYYCw/s640/premeire.png" group-title="CANAIS DE SPORT",Premiere 2
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4341.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4341.m3u8?
 #EXTINF:-1 tvg-id="Premiere 2 HD" tvg-name="Premiere 2 HD" tvg-logo="https://1.bp.blogspot.com/-uJPqxG4XGdo/WUB-LlcpvRI/AAAAAAAA7YE/etpUn8rjXIUEdasecDSDsIgtdKrXp2ANQCPcBGAYYCw/s640/premeire.png" group-title="CANAIS DE SPORT",Premiere 2 HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6093.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6093.m3u8?
 #EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3" tvg-logo="https://1.bp.blogspot.com/-uJPqxG4XGdo/WUB-LlcpvRI/AAAAAAAA7YE/etpUn8rjXIUEdasecDSDsIgtdKrXp2ANQCPcBGAYYCw/s640/premeire.png" group-title="CANAIS DE SPORT",Premiere 3
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4340.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4340.m3u8?
 #EXTINF:-1 tvg-id="Premiere 3 HD" tvg-name="Premiere 3 HD" tvg-logo="https://1.bp.blogspot.com/-uJPqxG4XGdo/WUB-LlcpvRI/AAAAAAAA7YE/etpUn8rjXIUEdasecDSDsIgtdKrXp2ANQCPcBGAYYCw/s640/premeire.png" group-title="CANAIS DE SPORT",Premiere 3 HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6092.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6092.m3u8?
 #EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4" tvg-logo="https://1.bp.blogspot.com/-uJPqxG4XGdo/WUB-LlcpvRI/AAAAAAAA7YE/etpUn8rjXIUEdasecDSDsIgtdKrXp2ANQCPcBGAYYCw/s640/premeire.png" group-title="CANAIS DE SPORT",Premiere 4
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4339.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4339.m3u8?
 #EXTINF:-1 tvg-id="Premiere 4 HD" tvg-name="Premiere 4 HD" tvg-logo="https://1.bp.blogspot.com/-uJPqxG4XGdo/WUB-LlcpvRI/AAAAAAAA7YE/etpUn8rjXIUEdasecDSDsIgtdKrXp2ANQCPcBGAYYCw/s640/premeire.png" group-title="CANAIS DE SPORT",Premiere 4 HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6091.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6091.m3u8?
 #EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5" tvg-logo="https://1.bp.blogspot.com/-uJPqxG4XGdo/WUB-LlcpvRI/AAAAAAAA7YE/etpUn8rjXIUEdasecDSDsIgtdKrXp2ANQCPcBGAYYCw/s640/premeire.png" group-title="CANAIS DE SPORT",Premiere 5
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4338.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4338.m3u8?
 #EXTINF:-1 tvg-id="Premiere 5 HD" tvg-name="Premiere 5 HD" tvg-logo="https://1.bp.blogspot.com/-uJPqxG4XGdo/WUB-LlcpvRI/AAAAAAAA7YE/etpUn8rjXIUEdasecDSDsIgtdKrXp2ANQCPcBGAYYCw/s640/premeire.png" group-title="CANAIS DE SPORT",Premiere 5 HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6090.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6090.m3u8?
 #EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6" tvg-logo="https://1.bp.blogspot.com/-uJPqxG4XGdo/WUB-LlcpvRI/AAAAAAAA7YE/etpUn8rjXIUEdasecDSDsIgtdKrXp2ANQCPcBGAYYCw/s640/premeire.png" group-title="CANAIS DE SPORT",Premiere 6
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4337.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4337.m3u8?
 #EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7" tvg-logo="https://1.bp.blogspot.com/-uJPqxG4XGdo/WUB-LlcpvRI/AAAAAAAA7YE/etpUn8rjXIUEdasecDSDsIgtdKrXp2ANQCPcBGAYYCw/s640/premeire.png" group-title="CANAIS DE SPORT",Premiere 7
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4336.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4336.m3u8?
 #EXTINF:-1 tvg-id="Premiere 8" tvg-name="Premiere 8" tvg-logo="https://1.bp.blogspot.com/-uJPqxG4XGdo/WUB-LlcpvRI/AAAAAAAA7YE/etpUn8rjXIUEdasecDSDsIgtdKrXp2ANQCPcBGAYYCw/s640/premeire.png" group-title="CANAIS DE SPORT",Premiere 8
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4335.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4335.m3u8?
 #EXTINF:-1 tvg-id="Premiere 9" tvg-name="Premiere 9" tvg-logo="https://1.bp.blogspot.com/-uJPqxG4XGdo/WUB-LlcpvRI/AAAAAAAA7YE/etpUn8rjXIUEdasecDSDsIgtdKrXp2ANQCPcBGAYYCw/s640/premeire.png" group-title="CANAIS DE SPORT",Premiere 9
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4334.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4334.m3u8?
 #EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="Prime Box Brazil" tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/--XpXiZygZUo/T15PAhGHpzI/AAAAAAAAES0/BrlMXgjLQb8/s1600/boxbrazil%2Bgvt%2Btv.jpg" group-title="ENTRETERIMENTO",Prime Box Brazil
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4332.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4332.m3u8?
 #EXTINF:-1 tvg-id="RBI" tvg-name="RBI" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/3231.jpg" group-title="RELIGIOSOS",RBI
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6943.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6943.m3u8?
 #EXTINF:-1 tvg-id="Globo RBS Porto Alegre" tvg-name="RBS TV Porto Alegre" tvg-logo="https://pbs.twimg.com/media/C2PpSQhXgAA4pYD.jpg" group-title="CANAIS ABERTO",RBS TV Porto Alegre
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6942.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6942.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV" tvg-logo="http://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="CANAIS DE SPORT",Real Madrid TV
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6183.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6183.m3u8?
 #EXTINF:-1 tvg-id="RECORDTV" tvg-name="Recod RN" tvg-logo="http://blog.wedologos.com.br/wp-content/uploads/2012/02/logo-rede-record-1316892247.jpg" group-title="CANAIS ABERTO",Recod RN
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6809.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6809.m3u8?
 #EXTINF:-1 tvg-id="RECORDTV" tvg-name="Record" tvg-logo="http://blog.wedologos.com.br/wp-content/uploads/2012/02/logo-rede-record-1316892247.jpg" group-title="CANAIS ABERTO",Record
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4423.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4423.m3u8?
 #EXTINF:-1 tvg-id="Record HD" tvg-name="Record HD" tvg-logo="http://blog.wedologos.com.br/wp-content/uploads/2012/02/logo-rede-record-1316892247.jpg" group-title="CANAIS ABERTO",Record HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6860.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6860.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="RECORD MT" tvg-logo="http://blog.wedologos.com.br/wp-content/uploads/2012/02/logo-rede-record-1316892247.jpg" group-title="CANAIS ABERTO",RECORD MT
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/7422.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/7422.m3u8?
 #EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/4908.jpg" group-title="CANAIS ABERTO",Record News
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6941.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6941.m3u8?
 #EXTINF:-1 tvg-id="Rede Brasil" tvg-name="Rede Brasil" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/1909.jpg" group-title="CANAIS ABERTO",Rede Brasil
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4421.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4421.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="REDE GENESIS" tvg-logo="http://saranossaterra.com.br/content/uploads/2013/11/genesis.jpg" group-title="RELIGIOSOS",REDE GENESIS
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/7419.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/7419.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Rede Mundial" tvg-logo="http://files.tvdigitalgratis.webnode.com.br/200001086-7c7687d706/rede_mundial.jpg" group-title="RELIGIOSOS",Rede Mundial
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6810.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6810.m3u8?
 #EXTINF:-1 tvg-id="REDE SUPER" tvg-name="Rede Super" tvg-logo="http://webradio.ibrmhi.com.br/media/news/15/rede%20super.jpg" group-title="RELIGIOSOS",Rede Super
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6154.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6154.m3u8?
 #EXTINF:-1 tvg-id="Rede TV [Brazil]" tvg-name="Rede TV" tvg-logo="http://vertv.net/wp-content/uploads/2016/02/xx-35.jpg" group-title="CANAIS ABERTO",Rede TV
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4420.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4420.m3u8?
 #EXTINF:-1 tvg-id="Rede TV HD" tvg-name="Rede Tv *" tvg-logo="http://vertv.net/wp-content/uploads/2016/02/xx-35.jpg" group-title="CANAIS ABERTO",Rede Tv *
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6807.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6807.m3u8?
 #EXTINF:-1 tvg-id="Rede TV HD" tvg-name="Rede TV HD" tvg-logo="http://vertv.net/wp-content/uploads/2016/02/xx-35.jpg" group-title="CANAIS ABERTO",Rede TV HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6940.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6940.m3u8?
 #EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/1912.jpg" group-title="RELIGIOSOS",Rede Vida
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6939.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6939.m3u8?
 #EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/1912.jpg" group-title="CANAIS ABERTO",Rede Vida HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4419.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4419.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Retrô Cartoon" tvg-logo="https://i.imgur.com/x33MwPN.png" group-title="CANAIS INFANTIL",Retrô Cartoon
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/5977.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/5977.m3u8?
 #EXTINF:-1 tvg-id="RIT" tvg-name="RIT" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/1915.jpg" group-title="CANAIS ABERTO",RIT
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6938.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6938.m3u8?
 #EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/4271.jpg" group-title="CANAIS DE SPORT",SporTV
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4327.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4327.m3u8?
 #EXTINF:-1 tvg-id="Sport TV HD" tvg-name="Sport TV HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/3920.jpg" group-title="CANAIS DE SPORT",Sport TV HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6082.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6082.m3u8?
 #EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/4274.jpg" group-title="CANAIS DE SPORT",SporTV 2
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4326.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4326.m3u8?
 #EXTINF:-1 tvg-id="Sport TV 2 HD" tvg-name="Sport TV 2 HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/3920.jpg" group-title="CANAIS DE SPORT",Sport TV 2 HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6084.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6084.m3u8?
 #EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/1023.jpg" group-title="CANAIS DE SPORT",SporTV 3
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4325.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4325.m3u8?
 #EXTINF:-1 tvg-id="Sport TV 3 HD" tvg-name="Sport TV 3 HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/3920.jpg" group-title="CANAIS DE SPORT",Sport TV 3 HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6083.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6083.m3u8?
 #EXTINF:-1 tvg-id="SIC Internacional" tvg-name="SIC Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/SIC_Internacional.png" group-title="CANAIS ABERTO",SIC Internacional
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6937.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6937.m3u8?
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="http://www.otvfoco.com.br/wp-content/uploads/2016/06/sbt-11.jpg" group-title="CANAIS ABERTO",SBT
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4331.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4331.m3u8?
 #EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD" tvg-logo="http://www.otvfoco.com.br/wp-content/uploads/2016/06/sbt-11.jpg" group-title="CANAIS ABERTO",SBT HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6889.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6889.m3u8?
 #EXTINF:-1 tvg-id="SBT HD [2]" tvg-name="SBT HD Alternativo" tvg-logo="http://www.otvfoco.com.br/wp-content/uploads/2016/06/sbt-11.jpg" group-title="CANAIS ABERTO",SBT HD Alternativo
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/7453.ts?
-#EXTINF:-1 tvg-id="Sexy Hot" tvg-name="Sexy Hot" tvg-logo="http://propmark.com.br/static/upload/legacy/thumbs/sexyhot300.png" group-title="CANAIS ADULTO",Sexy Hot
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4329.ts?
-#EXTINF:-1 tvg-id="Sextreme" tvg-name="Sextreme" tvg-logo="http://guiademarcas.globosat.com.br/arq/sex_fundo_claro.jpg" group-title="CANAIS ADULTO",Sextreme
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4330.ts?
-#EXTINF:-1 tvg-id="" tvg-name="SEXZONE" tvg-logo="https://1.bp.blogspot.com/-aNqL3UpEn1o/WNqDgYVL1II/AAAAAAAABKU/taIMYOBccYUTzteqG2sKLgisFKIEvxIOQCLcB/s200/sex-zone.jpg" group-title="CANAIS ADULTO",SEXZONE
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6835.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/7453.m3u8?
 #EXTINF:-1 tvg-id="Shoptime [Brazil]" tvg-name="Shoptime" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/4541.jpg" group-title="ENTRETERIMENTO",Shoptime
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6180.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6180.m3u8?
 #EXTINF:-1 tvg-id="Space" tvg-name="Space" tvg-logo="https://i1.wp.com/www.elblogdeyes.com/wp-content/uploads/2016/06/space.jpg" group-title="CANAIS FILMES | SERIES",Space
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4328.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4328.m3u8?
 #EXTINF:-1 tvg-id="Space HD" tvg-name="Space HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/4660.jpg" group-title="CANAIS FILMES | SERIES",Space HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6085.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6085.m3u8?
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://vignette1.wikia.nocookie.net/logopedia/images/f/f7/Studio_Universal_2010.png" group-title="CANAIS FILMES | SERIES",Studio Universal
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4324.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4324.m3u8?
 #EXTINF:-1 tvg-id="Syfy" tvg-name="Syfy" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/111.jpg" group-title="CANAIS FILMES | SERIES",Syfy
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4323.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4323.m3u8?
 #EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/Tbs-new-logo.png/revision/latest?cb=20151116213628" group-title="CANAIS FILMES | SERIES",TBS
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4322.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4322.m3u8?
 #EXTINF:-1 tvg-id="TBS" tvg-name="TBS HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/Tbs-new-logo.png/revision/latest?cb=20151116213628" group-title="CANAIS FILMES | SERIES",TBS HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6081.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6081.m3u8?
 #EXTINF:-1 tvg-id="The History Channel" tvg-name="The History Channel" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/4363.jpg" group-title="ENTRETERIMENTO",The History Channel
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4314.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4314.m3u8?
 #EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT Series" tvg-logo="https://seeklogo.com/images/T/tnt-serie-logo-D8C611F146-seeklogo.com.gif" group-title="CANAIS FILMES | SERIES",TNT Series
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4311.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4311.m3u8?
 #EXTINF:-1 tvg-id="TNT Séries HD" tvg-name="TNT Séries HD" tvg-logo="http://www.exorbeo.com/wp-content/uploads/2015/04/tnt-series-hd-na-net.jpg" group-title="CANAIS FILMES | SERIES",TNT Séries HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6073.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6073.m3u8?
 #EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/509.jpg" group-title="CANAIS FILMES | SERIES",Telecine Cult
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4319.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4319.m3u8?
 #EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/512.jpg" group-title="CANAIS FILMES | SERIES",Telecine Fun
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4318.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4318.m3u8?
 #EXTINF:-1 tvg-id="Telecine Fun HD" tvg-name="Telecine Fun HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/512.jpg" group-title="CANAIS FILMES | SERIES",Telecine Fun HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6079.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6079.m3u8?
 #EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/429.jpg" group-title="CANAIS FILMES | SERIES",Telecine Premium
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4316.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4316.m3u8?
 #EXTINF:-1 tvg-id="Telecine Premium HD" tvg-name="Telecine Premium HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/429.jpg" group-title="CANAIS FILMES | SERIES",Telecine Premium HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6077.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6077.m3u8?
 #EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/515.jpg" group-title="CANAIS FILMES | SERIES",Telecine Touch
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4315.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4315.m3u8?
 #EXTINF:-1 tvg-id="Telecine Touch HD" tvg-name="Telecine Touch HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/515.jpg" group-title="CANAIS FILMES | SERIES",Telecine Touch HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6076.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6076.m3u8?
 #EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/447.jpg" group-title="CANAIS FILMES | SERIES",Telecine Action
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4320.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4320.m3u8?
 #EXTINF:-1 tvg-id="Telecine Action HD" tvg-name="Telecine Action HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/447.jpg" group-title="CANAIS FILMES | SERIES",Telecine Action HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6080.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6080.m3u8?
 #EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/453.jpg" group-title="CANAIS FILMES | SERIES",Telecine Pipoca
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4317.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4317.m3u8?
 #EXTINF:-1 tvg-id="Telecine Pipoca HD" tvg-name="Telecine Pipoca HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/453.jpg" group-title="CANAIS FILMES | SERIES",Telecine Pipoca HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6078.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6078.m3u8?
 #EXTINF:-1 tvg-id="Terra Viva" tvg-name="Terra Viva" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/518.jpg" group-title="ENTRETERIMENTO",Terra Viva
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6936.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6936.m3u8?
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/4676.jpg" group-title="CANAIS INFANTIL",Tooncast
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4310.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4310.m3u8?
 #EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV Brasil" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112010/untitled-1_197.png" group-title="CANAIS ABERTO",TV Brasil
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4442.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4442.m3u8?
 #EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV Brasil HD" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/112010/untitled-1_197.png" group-title="CANAIS ABERTO",TV Brasil HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/5970.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/5970.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="TV CN AGITOS" tvg-logo="https://ulango.tv/uploads/channels/3780668/logo_tv%20cn%20agitos.png" group-title="ENTRETERIMENTO",TV CN AGITOS
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6822.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6822.m3u8?
 #EXTINF:-1 tvg-id="TV Escola [Brazil]" tvg-name="TV Escola" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Tvescolalogo2014.jpg" group-title="CANAIS ABERTO",TV Escola
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/5975.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/5975.m3u8?
 #EXTINF:-1 tvg-id="TV Tem Sorocaba" tvg-name="TV Tem Sorocaba" tvg-logo="http://s2.glbimg.com/Leo7Nylu8TwSKxAI-g2UdaGOxV4=/s.glbimg.com/og/rg/f/original/2015/10/23/editado_jo_1.jpg" group-title="CANAIS ABERTO",TV Tem Sorocaba
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6931.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6931.m3u8?
 #EXTINF:-1 tvg-id="TruTV" tvg-name="TruTV" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/4825.jpg" group-title="ENTRETERIMENTO",TruTV
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6935.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6935.m3u8?
 #EXTINF:-1 tvg-id="TV Anhanguera Goiânia" tvg-name="TV Anhanguera Goiânia" tvg-logo="https://pbs.twimg.com/profile_images/2762366975/e90c863094a3652d81b32e8e37146a89_400x400.jpeg" group-title="CANAIS ABERTO",TV Anhanguera Goiânia
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6934.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6934.m3u8?
 #EXTINF:-1 tvg-id="TV Cultura [Brazil]" tvg-name="TV Cultura" tvg-logo="http://tvcultura.com.br/_img/tvcultura/programas_abertura_TV.jpg" group-title="CANAIS ABERTO",TV Cultura
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4412.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4412.m3u8?
 #EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV Cultura Paraíba HD" tvg-logo="http://tvcultura.com.br/_img/tvcultura/programas_abertura_TV.jpg" group-title="CANAIS ABERTO",TV Cultura Paraíba HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/5838.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/5838.m3u8?
 #EXTINF:-1 tvg-id="TV Ra tim bum" tvg-name="TV Ra tim bum" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/2852.jpg" group-title="CANAIS INFANTIL",TV Ra tim bum
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6933.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6933.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="TV Record Cuiabá" tvg-logo="http://blog.wedologos.com.br/wp-content/uploads/2012/02/logo-rede-record-1316892247.jpg" group-title="CANAIS ABERTO",TV Record Cuiabá
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6808.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6808.m3u8?
 #EXTINF:-1 tvg-id="TV Tem Bauru" tvg-name="TV Tem Bauru" tvg-logo="http://s2.glbimg.com/Leo7Nylu8TwSKxAI-g2UdaGOxV4=/s.glbimg.com/og/rg/f/original/2015/10/23/editado_jo_1.jpg" group-title="ENTRETERIMENTO",TV Tem Bauru
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6932.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6932.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="TV Verdes Mares" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8e/Logotipo_da_TV_Verdes_Mares.png" group-title="CANAIS ABERTO",TV Verdes Mares
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6967.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6967.m3u8?
 #EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://www.newslinereport.com/online/nota_tcm-estrena-nueva-imagen_350x263.jpg" group-title="CANAIS FILMES | SERIES",TCM
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4321.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4321.m3u8?
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/1518.jpg" group-title="CANAIS FILMES | SERIES",TLC
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4313.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4313.m3u8?
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://www.spinoff.com.br/wp-content/uploads/tnt.jpg" group-title="CANAIS FILMES | SERIES",TNT
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4312.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4312.m3u8?
 #EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/4816.jpg" group-title="CANAIS FILMES | SERIES",TNT HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6074.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6074.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="TV Aperipê" tvg-logo="http://www.freeetv.com/images/01_logo/tv_aperipe.jpg" group-title="CANAIS ABERTO",TV Aperipê
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/5972.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/5972.m3u8?
 #EXTINF:-1 tvg-id="TV Justiça [Brazil]" tvg-name="TV Camera" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/60/Digital61.jpg/180px-Digital61.jpg" group-title="CANAIS ABERTO",TV Camera
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4414.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4414.m3u8?
 #EXTINF:-1 tvg-id="TV Diário" tvg-name="TV Diário" tvg-logo="http://images.uncyc.org/pt/3/30/TV_Diario_Logo.gif" group-title="CANAIS ABERTO",TV Diário
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4411.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4411.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR" tvg-logo="https://famososnaweb.com/wp-content/uploads/2015/01/tv-evangelizar-1.jpg" group-title="RELIGIOSOS",TV EVANGELIZAR
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6206.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6206.m3u8?
 #EXTINF:-1 tvg-id="TV GAZETA HD" tvg-name="TV Gazeta HD" tvg-logo="https://yt3.ggpht.com/-o8vblJtHJ50/AAAAAAAAAAI/AAAAAAAAAAA/x5441Z_Yjsg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CANAIS ABERTO",TV Gazeta HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/5973.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/5973.m3u8?
 #EXTINF:-1 tvg-id="TV5 Monde [Brazil]" tvg-name="TV5 Monde" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/740.jpg" group-title="ENTRETERIMENTO",TV5 Monde
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6178.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6178.m3u8?
 #EXTINF:-1 tvg-id="TVE" tvg-name="TVE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/320px-Logo_TVE-Internacional.svg.png" group-title="ENTRETERIMENTO",TVE
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6930.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6930.m3u8?
 #EXTINF:-1 tvg-id="TVE Bahia" tvg-name="TVE Bahia" tvg-logo="http://www.irdeb.ba.gov.br/evolucaohiphop/wp-content/uploads/2014/01/tve.jpg" group-title="CANAIS ABERTO",TVE Bahia
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6966.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6966.m3u8?
 #EXTINF:-1 tvg-id="TVE" tvg-name="TVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_TVE-Internacional.svg/320px-Logo_TVE-Internacional.svg.png" group-title="CANAIS ABERTO",TVE HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4440.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4440.m3u8?
 #EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/3729.jpg" group-title="CANAIS FILMES | SERIES",Universal Channel
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4308.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4308.m3u8?
 #EXTINF:-1 tvg-id="Universal Channels HD" tvg-name="Universal Channels HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/3729.jpg" group-title="CANAIS FILMES | SERIES",Universal Channels HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/5987.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/5987.m3u8?
 #EXTINF:-1 tvg-id="VH1 Megahits?" tvg-name="VH1 Megahits?" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/4197.jpg" group-title="ENTRETERIMENTO",VH1 Megahits?
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6929.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6929.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Virgin TV" tvg-logo="http://media-assets?-04.thedrum.com/cache/images/thedrum-prod/public-drum_creative_review-138200-main_images-vm-2014_0--default--300.jpg" group-title="ENTRETERIMENTO",Virgin TV
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4441.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4441.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="VOX MUSIC TV" tvg-logo="http://oklivetv.com/wp-content/uploads/media/dcb17d5e3f798745b33081ce849c4549.jpeg" group-title="ENTRETERIMENTO",VOX MUSIC TV
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6213.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6213.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="Verdes Mares" tvg-logo="http://www.pixempire.com/images/preview/old-radio-vintage-icon.jpg" group-title="RADIOS",Verdes Mares
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/5831.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/5831.m3u8?
 #EXTINF:-1 tvg-id="Viva" tvg-name="Viva" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/4156.jpg" group-title="ENTRETERIMENTO",Viva
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6928.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6928.m3u8?
 #EXTINF:-1 tvg-id="VIVA HD" tvg-name="VIVA HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/3717.jpg" group-title="ENTRETERIMENTO",VIVA HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6848.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6848.m3u8?
 #EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/529.jpg" group-title="CANAIS FILMES | SERIES",Warner Channel
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4307.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4307.m3u8?
 #EXTINF:-1 tvg-id="Warner Channel HD" tvg-name="Warner Channel HD" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/529.jpg" group-title="CANAIS FILMES | SERIES",Warner Channel HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6072.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6072.m3u8?
 #EXTINF:-1 tvg-id="Woohoo" tvg-name="Woohoo" tvg-logo="http://www.clarohdtvpromocao.com.br/assets?/images/canais/3117.jpg" group-title="CANAIS FILMES | SERIES",Woohoo
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4306.ts?
+http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4306.m3u8?
 
