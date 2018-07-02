@@ -22,7 +22,7 @@ http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/6965.m3u8?
 #EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="CANAIS FILMES | SERIES",AMC
 http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/7448.m3u8?
 #EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1200px-AMC_logo_2016.svg.png" group-title="CANAIS FILMES | SERIES",AMC HD
-http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/7435.m3u8?
+http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&callbackparam=&url=http%3A%2F%2Fpainel.ebanonet.com.br%3A25461%2Flive%2Fleudoaguiadanoite2%2F123456%2F7691.ts&swf=None&auth=&simpledownloader=False
 #EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E" tvg-logo="https://portal4.files.wordpress.com/2014/09/a-e_logo_2_.jpg" group-title="CANAIS FILMES | SERIES",A&E
 http://painel.ebanonet.com.br:25461/live/leudoaguiadanoite2/123456/4404.m3u8?
 #EXTINF:-1 tvg-id="ABC NEWS HD" tvg-name="ABC NEWS" tvg-logo="https://yt3.ggpht.com/-vFNoLd1HnDs/AAAAAAAAAAI/AAAAAAAAAAA/Yt468AF7XKE/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="CANAIS ABERTO",ABC NEWS
