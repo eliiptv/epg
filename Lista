@@ -12,385 +12,280 @@ http://listaccess.me:8080/live/Jhoetva/.ts
 
 
 
-#EXTM3U
-
-#PLAYLISD: plD-logo="https://imgur.com/HuUXI15.jpg" plD-name="D" plD-description="CANAIS" plD-cover="https://imgur.com/HuUXI15.jpg" plD-author="Dyego (Billscar's)" plD-email="Se não for no DOficial@e.falso"
-###########################################################################################################################################################################
-#EXTINF:-1 Dg-logo="https://imgur.com/HuUXI15.jpg" group-title="_INFO" ,Sua Nova Forma De Ver D!!
-http://0.0.0.0
-#EXTINF:-1 Dg-logo="http://www.repullo.com.br/blogmagic/wp-content/uploads/2012/11/upgrade-big.jpg" group-title="_INFO" ,Sempre Atualizando..:28/06 - 11:02!!
-http://0.0.0.0
-#EXTINF:-1 Dg-logo="https://imgur.com/0o0INYL.jpg" group-title="_INFO" ,NÃO DEIXE A LISTA MORRER - DOE - AG.:0115 / Cc.:18286-9 !!!
-http://0.0.0.0
-#EXTINF:-1 Dg-logo="https://cdn2.iconfinder.com/data/icons/toolbar-signs-4/512/repeat_refresh_arrow_media-512.png" group-title="_INFO" ,Links Temporarios - Usem IPD EXTREME!!!
-http://0.0.0.0
-#EXTINF:-1 Dg-logo="http://images.e-konomista.pt/articles/850_400_male-hand-holding-D-remote-control_1509116888.jpg" group-title="_INFO" ,Lista Completa Sem Travas -37-9874-7838
-http://0.0.0.0
-#EXTINF:-1 Dg-logo="http://oi65.tinypic.com/1zvq1rn.jpg" group-title="_INFO" ,Precisando de BOX - Katia Rainha dos Box - (11)97190-1106
-http://0.0.0.0
-
-
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD", WEBD
-http://stmv5.srvstm.com/fastcdbine/fastfbcine/playlibst.m3u8?D?D.ts?D
-#EXTINF:-1 Dg-logo="https://images2.imgbox.com/9b/a5/VqgGwqoD_o.png"  group-title=" WEBD",FAST CINE
-http://stmv5.srvstm.com/fastcine/fastcine/playlist.m3u8?D?D.ts
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",AGRO ARASIL
-http://177.54.152.243:1935/agrobrasilD/agrobrasilD/live.m3u8?D?D.ts?D
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",AMAZON SAT
-http://slrp.sambavideos.sambatech.com:80/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/live.m3u8?D?D.ts?D
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",CANAL DO BOI
-http://live.sba1.com:80/hls-live/livecb/_definst_/liveevent/livestream.m3u8?D?D.ts?D
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",CANAL RICOS
-http://painel.Ddigitalhd.org:1935/canalricos548/canalricos548/live.m3u8?D?D.ts?D
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",D CARIRI
-http://streaming50.sitehosting.com.br:1935/caririD/caririD/live.m3u8?D?D.ts?D
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",CONEXAO BR
-http://live.sba1.com:80/hls-live/livecx/_definst_/liveevent/livestream.m3u8?D?D.ts?D
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",HORSE BRASIL
-http://video.worldcdn.net:80/490636978/horsebrasil1.m3u8?D?D.ts?D
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",REDE BRASIL
-http://rbc.directradios.com:1935/rbc/rbc_720p/live.m3u8?D?D.ts?D
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",D DIARIO
-http://slrp.sambavideos.sambatech.com:80/liveevent/Ddiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/live.m3u8?D?D.ts?D
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",D ESCOLA
-http://slrp.sambavideos.sambatech.com:80/liveevent/acerpDEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/live.m3u8?D?D.ts?D
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",D GAZETA
-http://api.new.livestream.com/accounts/5381476/events/2395418/live.m3u8?D?D.ts?D
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",D GERAL 
-http://fms1.tacitus.com.br:1935/Dgeral/Dgeral/playlist.m3u8?D?D.ts?D
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",SOBRENATURAL D
-http://213.13.26.11:1935/live/sobrenaturalD/livestream.m3u8?D?D.ts
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",SBT
-http://Dsd2.zoeweb.D:1935/Dsd2/smil:Dsd2.smil/playlist.m3u8?D?D.ts?D
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",RECORD ES-VITORIA
-http://Dvitoria2.viacast.D/livepl/Dvitoria_2_original.m3u8?D?D.ts?D
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",REDED
-http://evpp.mm.uol.com.br:1935/redeD1/redeD1/live.m3u8?D?D.ts?D
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",REDE NEWS
-http://srv3.zoeweb.D:1935/z474-live/aovivo/livestream.m3u8?D?D.ts?D
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",D CAMARA
-http://stream2.camara.gov.br:80/D1/manifest.m3u8?D?D.ts?D
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",RECORNEWS
-http://stmv4.euroti.com.br:1935/recordnewses/recordnewses/live.m3u8?D?D.ts?D
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",ALJAZEERA
-http://aljazeera-eng-apple-live.adaptive.level3.net:80/apple/aljazeera/hq-english/1200kStream.m3u8?D?D.ts?D
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",CBN
-http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/index_900_av-p.m3u8?D?D.ts?D
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",CBN NEWS
-http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/index_900_av-p.m3u8?D?D.ts?D
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",DW
-http://dwstream3-lh.akamaihd.net:80/i/dwstream3_live@124409/index_1_av-p.m3u8?D?D.ts?D
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",PLAY D
-http://stmv1.euroti.com.br:1935/rafael5986/rafael5986/live.m3u8?D?D.ts?D
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",DJ Hits
-http://www.djing.com/D/04.m3u8?D?D.ts?D
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",MusicTop
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?D?D.ts?D
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",NOSSA D
-http://stmv1.srvstm.com:1935/Dcadm/Dcadm/live.m3u8?D?D.ts?D
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",HEART D
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8?D?D.ts?D
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",ALL SPORTS
-http://D01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8?D?D.ts?D
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",AD Sports 1
-http://adD.ercdn.net/adsport1/adsport1_720p.m3u8?D?D.ts?D
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",AD Sports 2 
-http://adD.ercdn.net/adsport2/adsport2_720p.m3u8?D?D.ts?D
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",CLASSIQUE D
-http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8?D?D.ts?D
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",CINE+
-http://189.86.89.116:80/hls-live/livecm/_definst_/liveevent/livestream.m3u8?D?D.ts?D
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",CINE CLARO
-https://593d7fe3c9b0d.streamlock.net/Dcariocanet/Dcariocanet/chunklist_w485056137.m3u8?D?D.ts?D
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",GOSPEL CARTOONS
-http://stmv1.euroti.com.br:1935/gospelcartoon/gospelcartoon/live.m3u8?D?D.ts?D
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",Esporte Interativo 2
-http://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801261189b415d108f9603c/publish/media_800.m3u8?D?D.ts?4Sw0qFvuMUvimTHbIJv9gcveMYTOYz_bKVVO7bMP12fziTcdH3bVUQiBy6qdBafXTO5t&dnt=true&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",Esporte Interativo hd
-http://vrzn-ei-ee.cdn.mdstrm.com/live-stream-secure/5801261189b415d108f9603c/publish/media_800.m3u8?D?D.ts?4Sw0qFvuMUvimTHbIJv9gcveMYTOYz_bKVVO7bMP12fziTcdH3bVUQiBy6qdBafXTO5t&dnt=true&es=vrzn-ei-ee.cdn.mdstrm.com&proto=https
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",D ESCOLA
-http://slrp.sambavideos.sambatech.com/liveevent/acerpDEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8?D?D.ts
-#EXTINF:-1 Dg-logo="https://imgur.com/x4CgpuC.jpg"  group-title=" WEBD",D BRASIL
-http://ebcDbrasil-live.hls.adaptive.level3.net/hls-live/ebcremuxlive-ebcDbrasil/_definst_/live.m3u8?D?D.ts
-
-
-
-
-
-#EXTINF:-1 Dg-id="" Dg-name="A&E SD" Dg-logo="http://t.likeipD.com/a&e.png" group-title="Filmes e Séries",A&E SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4194.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="AMC SD" Dg-logo="http://t.likeipD.com/amc.png" group-title="Filmes e Séries",AMC SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/7670.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Animal Planet SD" Dg-logo="http://t.likeipD.com/animalplanet.png" group-title="Documentários",Animal Planet SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4191.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Arte 1 SD" Dg-logo="http://t.likeipD.com/arte1.png" group-title="Variedades",Arte 1 SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4582.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="AXN SD" Dg-logo="http://t.likeipD.com/axnhd.png" group-title="Filmes e Séries",AXN SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4186.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Baby D SD" Dg-logo="http://t.likeipD.com/baby.png" group-title="Infantil",Baby D SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4184.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Band News SD" Dg-logo="http://t.likeipD.com/BANDNEWS.png" group-title="Notícias",Band News SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4180.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Band SD" Dg-logo="http://t.likeipD.com/BAND.png" group-title="Abertos",Band SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/7631.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Band Sports SD" Dg-logo="http://t.likeipD.com/bandsport.png" group-title="Esportes",Band Sports SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4179.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="BIS SD" Dg-logo="http://t.likeipD.com/bis.png" group-title="Música e Entretenimento",BIS SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4175.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Boomerang SD" Dg-logo="http://t.likeipD.com/Boomerang.png" group-title="Infantil",Boomerang SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4172.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Canal Brasil SD" Dg-logo="http://t.likeipD.com/canalbrasil.png" group-title="Filmes e Séries",Canal Brasil SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4170.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Canal Rural SD" Dg-logo="http://t.likeipD.com/canalrural.png" group-title="Abertos",Canal Rural SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4168.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Cartoon Network SD" Dg-logo="http://t.likeipD.com/cartoonetwork.png" group-title="Infantil",Cartoon Network SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4166.m3u8
+#EXTINF:-1 Dg-id="" Dg-name="A&E SD" Dg-logo="http://t.liKEIPTV.com/a&e.png" group-title="Filmes e Séries",A&E SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4194.ts
+#EXTINF:-1 Dg-id="" Dg-name="AMC SD" Dg-logo="http://t.liKEIPTV.com/amc.png" group-title="Filmes e Séries",AMC SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/7670.ts
+#EXTINF:-1 Dg-id="" Dg-name="Animal Planet SD" Dg-logo="http://t.liKEIPTV.com/animalplanet.png" group-title="Documentários",Animal Planet SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4191.ts
+#EXTINF:-1 Dg-id="" Dg-name="Arte 1 SD" Dg-logo="http://t.liKEIPTV.com/arte1.png" group-title="Variedades",Arte 1 SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4582.ts
+#EXTINF:-1 Dg-id="" Dg-name="AXN SD" Dg-logo="http://t.liKEIPTV.com/axnhd.png" group-title="Filmes e Séries",AXN SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4186.ts
+#EXTINF:-1 Dg-id="" Dg-name="Baby D SD" Dg-logo="http://t.liKEIPTV.com/baby.png" group-title="Infantil",Baby D SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4184.ts
+#EXTINF:-1 Dg-id="" Dg-name="Band News SD" Dg-logo="http://t.liKEIPTV.com/BANDNEWS.png" group-title="Notícias",Band News SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4180.ts
+#EXTINF:-1 Dg-id="" Dg-name="Band SD" Dg-logo="http://t.liKEIPTV.com/BAND.png" group-title="Abertos",Band SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/7631.ts
+#EXTINF:-1 Dg-id="" Dg-name="Band Sports SD" Dg-logo="http://t.liKEIPTV.com/bandsport.png" group-title="Esportes",Band Sports SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4179.ts
+#EXTINF:-1 Dg-id="" Dg-name="BIS SD" Dg-logo="http://t.liKEIPTV.com/bis.png" group-title="Música e Entretenimento",BIS SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4175.ts
+#EXTINF:-1 Dg-id="" Dg-name="Boomerang SD" Dg-logo="http://t.liKEIPTV.com/Boomerang.png" group-title="Infantil",Boomerang SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4172.ts
+#EXTINF:-1 Dg-id="" Dg-name="Canal Brasil SD" Dg-logo="http://t.liKEIPTV.com/canalbrasil.png" group-title="Filmes e Séries",Canal Brasil SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4170.ts
+#EXTINF:-1 Dg-id="" Dg-name="Canal Rural SD" Dg-logo="http://t.liKEIPTV.com/canalrural.png" group-title="Abertos",Canal Rural SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4168.ts
+#EXTINF:-1 Dg-id="" Dg-name="Cartoon Network SD" Dg-logo="http://t.liKEIPTV.com/cartoonetwork.png" group-title="Infantil",Cartoon Network SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4166.ts
 #EXTINF:-1 Dg-id="" Dg-name="CARTOON RETRO SD" Dg-logo="" group-title="Infantil",CARTOON RETRO SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4597.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Cinemax SD" Dg-logo="http://t.likeipD.com/cinemax1080.png" group-title="Filmes e Séries",Cinemax SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4163.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="CNN International SD" Dg-logo="http://t.likeipD.com/cnnint.png" group-title="Internacional",CNN International SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/3140.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4597.ts
+#EXTINF:-1 Dg-id="" Dg-name="Cinemax SD" Dg-logo="http://t.liKEIPTV.com/cinemax1080.png" group-title="Filmes e Séries",Cinemax SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4163.ts
+#EXTINF:-1 Dg-id="" Dg-name="CNN International SD" Dg-logo="http://t.liKEIPTV.com/cnnint.png" group-title="Internacional",CNN International SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3140.ts
 #EXTINF:-1 Dg-id="" Dg-name="CNT SD" Dg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/5/5d/20120102034436!Logo_CNT.png" group-title="USA",CNT SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4160.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Combate SD" Dg-logo="http://t.likeipD.com/combate.png" group-title="Esportes",Combate SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/7632.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4160.ts
+#EXTINF:-1 Dg-id="" Dg-name="Combate SD" Dg-logo="http://t.liKEIPTV.com/combate.png" group-title="Esportes",Combate SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/7632.ts
 #EXTINF:-1 Dg-id="" Dg-name="Comedy Central SD" Dg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Comedy_Central_2011_Logo.svg/1200px-Comedy_Central_2011_Logo.svg.png" group-title="Filmes e Séries",Comedy Central SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/7629.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Cultura SD" Dg-logo="http://t.likeipD.com/culturaoriginal.png" group-title="Abertos",Cultura SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4156.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Curta! SD" Dg-logo="http://t.likeipD.com/curta.png" group-title="Variedades",Curta! SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4155.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Discovery Channel SD" Dg-logo="http://t.likeipD.com/discoverychannel.png" group-title="Documentários",Discovery Channel SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4154.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/7629.ts
+#EXTINF:-1 Dg-id="" Dg-name="Cultura SD" Dg-logo="http://t.liKEIPTV.com/culturaoriginal.png" group-title="Abertos",Cultura SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4156.ts
+#EXTINF:-1 Dg-id="" Dg-name="Curta! SD" Dg-logo="http://t.liKEIPTV.com/curta.png" group-title="Variedades",Curta! SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4155.ts
+#EXTINF:-1 Dg-id="" Dg-name="Discovery Channel SD" Dg-logo="http://t.liKEIPTV.com/discoverychannel.png" group-title="Documentários",Discovery Channel SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4154.ts
 #EXTINF:-1 Dg-id="" Dg-name="Discovery Civilization SD" Dg-logo="https://cdn.freebiesupply.com/logos/large/2x/discovery-civilization-channel-logo-png-transparent.png" group-title="Documentários",Discovery Civilization SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4600.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4600.ts
 #EXTINF:-1 Dg-id="" Dg-name="Discovery Home & Health SD" Dg-logo="http://images.mi.D/channels/br_discovery-home-health-hd_m.png" group-title="Variedades",Discovery Home & Health SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4152.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Discovery Kids SD" Dg-logo="http://t.likeipD.com/discoverykids.png" group-title="Infantil",Discovery Kids SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4150.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Discovery Science SD" Dg-logo="http://t.likeipD.com/discoverryscience.png" group-title="Filmes e Séries",Discovery Science SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/7633.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Discovery Turbo SD" Dg-logo="http://t.likeipD.com/discoverryturbo.png" group-title="Documentários",Discovery Turbo SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4147.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Disney Channel SD" Dg-logo="http://t.likeipD.com/disney%20channel.png" group-title="Infantil",Disney Channel SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4144.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Disney JR SD" Dg-logo="http://t.likeipD.com/disneyjunior10.png" group-title="Infantil",Disney JR SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4142.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Disney XD SD" Dg-logo="http://t.likeipD.com/disneyxd.png" group-title="Infantil",Disney XD SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4140.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4152.ts
+#EXTINF:-1 Dg-id="" Dg-name="Discovery Kids SD" Dg-logo="http://t.liKEIPTV.com/discoverykids.png" group-title="Infantil",Discovery Kids SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4150.ts
+#EXTINF:-1 Dg-id="" Dg-name="Discovery Science SD" Dg-logo="http://t.liKEIPTV.com/discoverryscience.png" group-title="Filmes e Séries",Discovery Science SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/7633.ts
+#EXTINF:-1 Dg-id="" Dg-name="Discovery Turbo SD" Dg-logo="http://t.liKEIPTV.com/discoverryturbo.png" group-title="Documentários",Discovery Turbo SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4147.ts
+#EXTINF:-1 Dg-id="" Dg-name="Disney Channel SD" Dg-logo="http://t.liKEIPTV.com/disney%20channel.png" group-title="Infantil",Disney Channel SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4144.ts
+#EXTINF:-1 Dg-id="" Dg-name="Disney JR SD" Dg-logo="http://t.liKEIPTV.com/disneyjunior10.png" group-title="Infantil",Disney JR SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4142.ts
+#EXTINF:-1 Dg-id="" Dg-name="Disney XD SD" Dg-logo="http://t.liKEIPTV.com/disneyxd.png" group-title="Infantil",Disney XD SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4140.ts
 #EXTINF:-1 Dg-id="" Dg-name="ESPN Brasil SD" Dg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-2.png" group-title="Esportes",ESPN Brasil SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4131.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4131.ts
 #EXTINF:-1 Dg-id="" Dg-name="ESPN SD" Dg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-2.png" group-title="Esportes",ESPN SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4132.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4132.ts
 #EXTINF:-1 Dg-id="" Dg-name="Esporte Interativo SD" Dg-logo="http://revenda.kudaplay.D/tema/canais_logo/HD_ESPORTE_INTERATIVO.png" group-title="Esportes",Esporte Interativo SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4127.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="EI Maxx 2 SD" Dg-logo="http://t.likeipD.com/eimax.png" group-title="Esportes",EI Maxx 2 SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4135.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4127.ts
+#EXTINF:-1 Dg-id="" Dg-name="EI Maxx 2 SD" Dg-logo="http://t.liKEIPTV.com/eimax.png" group-title="Esportes",EI Maxx 2 SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4135.ts
 #EXTINF:-1 Dg-id="" Dg-name="E! SD" Dg-logo="" group-title="Variedades",E! SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4138.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="EI Maxx SD" Dg-logo="http://t.likeipD.com/eimax.png" group-title="Esportes",EI Maxx SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4136.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4138.ts
+#EXTINF:-1 Dg-id="" Dg-name="EI Maxx SD" Dg-logo="http://t.liKEIPTV.com/eimax.png" group-title="Esportes",EI Maxx SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4136.ts
 #EXTINF:-1 Dg-id="" Dg-name="FISH D SD" Dg-logo="" group-title="Variedades",FISH D SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4125.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4125.ts
 #EXTINF:-1 Dg-id="" Dg-name="FOOD NETWORK SD" Dg-logo="" group-title="Variedades",FOOD NETWORK SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4124.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Fox Life SD" Dg-logo="http://t.likeipD.com/lifenovo.png" group-title="Filmes e Séries",Fox Life SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4120.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Fox SD" Dg-logo="http://t.likeipD.com/fox.png" group-title="Filmes e Séries",Fox SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4122.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Futura SD" Dg-logo="http://t.likeipD.com/futura.png" group-title="Abertos",Futura SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4112.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="FX SD" Dg-logo="http://t.likeipD.com/fx.png" group-title="Filmes e Séries",FX SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4111.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Globo News SD" Dg-logo="http://t.likeipD.com/GLOBONEWS.png" group-title="Notícias",Globo News SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4104.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Globo Nordeste SD" Dg-logo="http://t.likeipD.com/GLOBO.png" group-title="Abertos",Globo Nordeste SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4103.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Globo Rio SD" Dg-logo="http://t.likeipD.com/GLOBO.png" group-title="Abertos",Globo Rio SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4101.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Globo SP SD" Dg-logo="http://t.likeipD.com/GLOBO.png" group-title="Abertos",Globo SP SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4098.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4124.ts
+#EXTINF:-1 Dg-id="" Dg-name="Fox Life SD" Dg-logo="http://t.liKEIPTV.com/lifenovo.png" group-title="Filmes e Séries",Fox Life SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4120.ts
+#EXTINF:-1 Dg-id="" Dg-name="Fox SD" Dg-logo="http://t.liKEIPTV.com/fox.png" group-title="Filmes e Séries",Fox SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4122.ts
+#EXTINF:-1 Dg-id="" Dg-name="Futura SD" Dg-logo="http://t.liKEIPTV.com/futura.png" group-title="Abertos",Futura SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4112.ts
+#EXTINF:-1 Dg-id="" Dg-name="FX SD" Dg-logo="http://t.liKEIPTV.com/fx.png" group-title="Filmes e Séries",FX SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4111.ts
+#EXTINF:-1 Dg-id="" Dg-name="Globo News SD" Dg-logo="http://t.liKEIPTV.com/GLOBONEWS.png" group-title="Notícias",Globo News SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4104.ts
+#EXTINF:-1 Dg-id="" Dg-name="Globo Nordeste SD" Dg-logo="http://t.liKEIPTV.com/GLOBO.png" group-title="Abertos",Globo Nordeste SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4103.ts
+#EXTINF:-1 Dg-id="" Dg-name="Globo Rio SD" Dg-logo="http://t.liKEIPTV.com/GLOBO.png" group-title="Abertos",Globo Rio SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4101.ts
+#EXTINF:-1 Dg-id="" Dg-name="Globo SP SD" Dg-logo="http://t.liKEIPTV.com/GLOBO.png" group-title="Abertos",Globo SP SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4098.ts
 #EXTINF:-1 Dg-id="" Dg-name="Gloob SD" Dg-logo="http://revenda.kudaplay.D/tema/canais_logo/HD_GLOOB.png" group-title="Infantil",Gloob SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4095.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4095.ts
 #EXTINF:-1 Dg-id="" Dg-name="GNT SD" Dg-logo="" group-title="Variedades",GNT SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4093.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="H2 SD" Dg-logo="http://t.likeipD.com/h2.PNG" group-title="Documentários",H2 SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4091.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="HBO 2 SD" Dg-logo="http://t.likeipD.com/hbo2.png" group-title="Filmes e Séries",HBO 2 SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4089.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="HBO Family SD" Dg-logo="http://t.likeipD.com/hbofamilia.png" group-title="Filmes e Séries",HBO Family SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4087.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="HBO Plus E SD" Dg-logo="http://t.likeipD.com/HBOPLUS.png" group-title="Filmes e Séries",HBO Plus E SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4083.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="HBO Plus SD" Dg-logo="http://t.likeipD.com/HBOPLUS.png" group-title="Filmes e Séries",HBO Plus SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4084.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="HBO SD" Dg-logo="http://t.likeipD.com/hbo.png" group-title="Filmes e Séries",HBO SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4090.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="HBO Signature SD" Dg-logo="http://t.likeipD.com/hbosignature1.png" group-title="Filmes e Séries",HBO Signature SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4081.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="I SAT SD" Dg-logo="http://t.likeipD.com/isat.png" group-title="Filmes e Séries",I SAT SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4072.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="ID SD" Dg-logo="http://t.likeipD.com/idhd1.png" group-title="Documentários",ID SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4075.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Igreja Universal SD" Dg-logo="http://t.likeipD.com/igrejauniversal.png" group-title="Abertos",Igreja Universal SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4073.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Lifetime SD" Dg-logo="http://t.likeipD.com/lifetime.png" group-title="Filmes e Séries",Lifetime SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4070.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4093.ts
+#EXTINF:-1 Dg-id="" Dg-name="H2 SD" Dg-logo="http://t.liKEIPTV.com/h2.PNG" group-title="Documentários",H2 SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4091.ts
+#EXTINF:-1 Dg-id="" Dg-name="HBO 2 SD" Dg-logo="http://t.liKEIPTV.com/hbo2.png" group-title="Filmes e Séries",HBO 2 SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4089.ts
+#EXTINF:-1 Dg-id="" Dg-name="HBO Family SD" Dg-logo="http://t.liKEIPTV.com/hbofamilia.png" group-title="Filmes e Séries",HBO Family SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4087.ts
+#EXTINF:-1 Dg-id="" Dg-name="HBO Plus E SD" Dg-logo="http://t.liKEIPTV.com/HBOPLUS.png" group-title="Filmes e Séries",HBO Plus E SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4083.ts
+#EXTINF:-1 Dg-id="" Dg-name="HBO Plus SD" Dg-logo="http://t.liKEIPTV.com/HBOPLUS.png" group-title="Filmes e Séries",HBO Plus SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4084.ts
+#EXTINF:-1 Dg-id="" Dg-name="HBO SD" Dg-logo="http://t.liKEIPTV.com/hbo.png" group-title="Filmes e Séries",HBO SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4090.ts
+#EXTINF:-1 Dg-id="" Dg-name="HBO Signature SD" Dg-logo="http://t.liKEIPTV.com/hbosignature1.png" group-title="Filmes e Séries",HBO Signature SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4081.ts
+#EXTINF:-1 Dg-id="" Dg-name="I SAT SD" Dg-logo="http://t.liKEIPTV.com/isat.png" group-title="Filmes e Séries",I SAT SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4072.ts
+#EXTINF:-1 Dg-id="" Dg-name="ID SD" Dg-logo="http://t.liKEIPTV.com/idhd1.png" group-title="Documentários",ID SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4075.ts
+#EXTINF:-1 Dg-id="" Dg-name="Igreja Universal SD" Dg-logo="http://t.liKEIPTV.com/igrejauniversal.png" group-title="Abertos",Igreja Universal SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4073.ts
+#EXTINF:-1 Dg-id="" Dg-name="Lifetime SD" Dg-logo="http://t.liKEIPTV.com/lifetime.png" group-title="Filmes e Séries",Lifetime SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4070.ts
 #EXTINF:-1 Dg-id="" Dg-name="Mais Globosat SD" Dg-logo="" group-title="Variedades",Mais Globosat SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4068.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Max Prime E SD" Dg-logo="http://t.likeipD.com/maxprime1.jpg" group-title="Filmes e Séries",Max Prime E SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4063.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Max Prime SD" Dg-logo="http://t.likeipD.com/maxprime1.jpg" group-title="Filmes e Séries",Max Prime SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4064.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="MAX SD" Dg-logo="http://t.likeipD.com/max.png" group-title="Filmes e Séries",MAX SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4066.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Max UP SD" Dg-logo="http://t.likeipD.com/maxup1.png" group-title="Filmes e Séries",Max UP SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4061.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Megapix SD" Dg-logo="http://t.likeipD.com/megap.png" group-title="Filmes e Séries",Megapix SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4059.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4068.ts
+#EXTINF:-1 Dg-id="" Dg-name="Max Prime E SD" Dg-logo="http://t.liKEIPTV.com/maxprime1.jpg" group-title="Filmes e Séries",Max Prime E SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4063.ts
+#EXTINF:-1 Dg-id="" Dg-name="Max Prime SD" Dg-logo="http://t.liKEIPTV.com/maxprime1.jpg" group-title="Filmes e Séries",Max Prime SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4064.ts
+#EXTINF:-1 Dg-id="" Dg-name="MAX SD" Dg-logo="http://t.liKEIPTV.com/max.png" group-title="Filmes e Séries",MAX SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4066.ts
+#EXTINF:-1 Dg-id="" Dg-name="Max UP SD" Dg-logo="http://t.liKEIPTV.com/maxup1.png" group-title="Filmes e Séries",Max UP SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4061.ts
+#EXTINF:-1 Dg-id="" Dg-name="Megapix SD" Dg-logo="http://t.liKEIPTV.com/megap.png" group-title="Filmes e Séries",Megapix SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4059.ts
 #EXTINF:-1 Dg-id="" Dg-name="MD SD" Dg-logo="http://www.netcombo.com.br/imagens/logo/mD-456_95x39.png" group-title="Música e Entretenimento",MD SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4057.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4057.ts
 #EXTINF:-1 Dg-id="" Dg-name="Multishow SD" Dg-logo="http://revenda.kudaplay.D/tema/canais_logo/SD_MULTISHOW.png" group-title="Música e Entretenimento",Multishow SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4055.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4055.ts
 #EXTINF:-1 Dg-id="" Dg-name="Music Box Brazil SD" Dg-logo="" group-title="Música e Entretenimento",Music Box Brazil SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4607.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4607.ts
 #EXTINF:-1 Dg-id="" Dg-name="NatGeo Kids SD" Dg-logo="" group-title="Infantil",NatGeo Kids SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4052.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="NatGeo Wild SD" Dg-logo="http://t.likeipD.com/natgeowild1.png" group-title="Documentários",NatGeo Wild SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4050.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="National Geographic SD" Dg-logo="http://t.likeipD.com/nacionalgeo.png" group-title="Documentários",National Geographic SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4048.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4052.ts
+#EXTINF:-1 Dg-id="" Dg-name="NatGeo Wild SD" Dg-logo="http://t.liKEIPTV.com/natgeowild1.png" group-title="Documentários",NatGeo Wild SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4050.ts
+#EXTINF:-1 Dg-id="" Dg-name="National Geographic SD" Dg-logo="http://t.liKEIPTV.com/nacionalgeo.png" group-title="Documentários",National Geographic SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4048.ts
 #EXTINF:-1 Dg-id="" Dg-name="Nick Jr. SD" Dg-logo="" group-title="Infantil",Nick Jr. SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4043.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4043.ts
 #EXTINF:-1 Dg-id="" Dg-name="Nickelodeon SD" Dg-logo="" group-title="Infantil",Nickelodeon SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4041.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Novo Tempo SD" Dg-logo="http://t.likeipD.com/novotempo.png" group-title="Abertos",Novo Tempo SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4040.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Off SD" Dg-logo="http://t.likeipD.com/canaloff.png" group-title="Variedades",Off SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4038.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Paramount SD" Dg-logo="http://t.likeipD.com/paramouth.png" group-title="Filmes e Séries",Paramount SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4036.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4041.ts
+#EXTINF:-1 Dg-id="" Dg-name="Novo Tempo SD" Dg-logo="http://t.liKEIPTV.com/novotempo.png" group-title="Abertos",Novo Tempo SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4040.ts
+#EXTINF:-1 Dg-id="" Dg-name="Off SD" Dg-logo="http://t.liKEIPTV.com/canaloff.png" group-title="Variedades",Off SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4038.ts
+#EXTINF:-1 Dg-id="" Dg-name="Paramount SD" Dg-logo="http://t.liKEIPTV.com/paramouth.png" group-title="Filmes e Séries",Paramount SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4036.ts
 #EXTINF:-1 Dg-id="" Dg-name="Play D SD" Dg-logo="" group-title="Música e Entretenimento",Play D SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4034.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Premiere 1 SD" Dg-logo="http://t.likeipD.com/premiere.png" group-title="Esportes",Premiere 1 SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4616.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Premiere 2 SD" Dg-logo="http://t.likeipD.com/premiere.png" group-title="Esportes",Premiere 2 SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4032.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Premiere 3 SD" Dg-logo="http://t.likeipD.com/premiere.png" group-title="Esportes",Premiere 3 SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4031.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Premiere 4 SD" Dg-logo="http://t.likeipD.com/premiere.png" group-title="Esportes",Premiere 4 SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4029.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Premiere 5 SD" Dg-logo="http://t.likeipD.com/premiere.png" group-title="Esportes",Premiere 5 SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4027.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Premiere 6 SD" Dg-logo="http://t.likeipD.com/premiere.png" group-title="Esportes",Premiere 6 SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4025.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Premiere 8 SD" Dg-logo="http://t.likeipD.com/premiere.png" group-title="Esportes",Premiere 8 SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4022.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Premiere 9 SD" Dg-logo="http://t.likeipD.com/premiere.png" group-title="Esportes",Premiere 9 SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4021.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Premiere Clubes SD" Dg-logo="http://t.likeipD.com/premiere.png" group-title="Esportes",Premiere Clubes SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4020.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4034.ts
+#EXTINF:-1 Dg-id="" Dg-name="Premiere 1 SD" Dg-logo="http://t.liKEIPTV.com/premiere.png" group-title="Esportes",Premiere 1 SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4616.ts
+#EXTINF:-1 Dg-id="" Dg-name="Premiere 2 SD" Dg-logo="http://t.liKEIPTV.com/premiere.png" group-title="Esportes",Premiere 2 SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4032.ts
+#EXTINF:-1 Dg-id="" Dg-name="Premiere 3 SD" Dg-logo="http://t.liKEIPTV.com/premiere.png" group-title="Esportes",Premiere 3 SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4031.ts
+#EXTINF:-1 Dg-id="" Dg-name="Premiere 4 SD" Dg-logo="http://t.liKEIPTV.com/premiere.png" group-title="Esportes",Premiere 4 SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4029.ts
+#EXTINF:-1 Dg-id="" Dg-name="Premiere 5 SD" Dg-logo="http://t.liKEIPTV.com/premiere.png" group-title="Esportes",Premiere 5 SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4027.ts
+#EXTINF:-1 Dg-id="" Dg-name="Premiere 6 SD" Dg-logo="http://t.liKEIPTV.com/premiere.png" group-title="Esportes",Premiere 6 SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4025.ts
+#EXTINF:-1 Dg-id="" Dg-name="Premiere 8 SD" Dg-logo="http://t.liKEIPTV.com/premiere.png" group-title="Esportes",Premiere 8 SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4022.ts
+#EXTINF:-1 Dg-id="" Dg-name="Premiere 9 SD" Dg-logo="http://t.liKEIPTV.com/premiere.png" group-title="Esportes",Premiere 9 SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4021.ts
+#EXTINF:-1 Dg-id="" Dg-name="Premiere Clubes SD" Dg-logo="http://t.liKEIPTV.com/premiere.png" group-title="Esportes",Premiere Clubes SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4020.ts
 #EXTINF:-1 Dg-id="" Dg-name="Prime Box Brazil SD" Dg-logo="http://revenda.kudaplay.D/tema/canais_logo/SD_PRIMEBOX_BRASIL.png" group-title="Música e Entretenimento",Prime Box Brazil SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4606.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Primebox Brasil SD" Dg-logo="http://t.likeipD.com/primebox.png" group-title="Filmes e Séries",Primebox Brasil SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4018.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Record News SD" Dg-logo="http://t.likeipD.com/recordnewshd.png" group-title="Abertos",Record News SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/3935.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="RECORD D SD" Dg-logo="http://t.likeipD.com/RECORD.png" group-title="Abertos",RECORD D SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/5621.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4606.ts
+#EXTINF:-1 Dg-id="" Dg-name="Primebox Brasil SD" Dg-logo="http://t.liKEIPTV.com/primebox.png" group-title="Filmes e Séries",Primebox Brasil SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4018.ts
+#EXTINF:-1 Dg-id="" Dg-name="Record News SD" Dg-logo="http://t.liKEIPTV.com/recordnewshd.png" group-title="Abertos",Record News SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3935.ts
+#EXTINF:-1 Dg-id="" Dg-name="RECORD D SD" Dg-logo="http://t.liKEIPTV.com/RECORD.png" group-title="Abertos",RECORD D SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/5621.ts
 #EXTINF:-1 Dg-id="" Dg-name="Rede Brasil SD" Dg-logo="http://revenda.kudaplay.D/tema/canais_logo/SD_REDE_BRASIL.png" group-title="Abertos",Rede Brasil SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4623.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Rede Vida SD" Dg-logo="http://t.likeipD.com/redevida.png" group-title="Abertos",Rede Vida SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/3930.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4623.ts
+#EXTINF:-1 Dg-id="" Dg-name="Rede Vida SD" Dg-logo="http://t.liKEIPTV.com/redevida.png" group-title="Abertos",Rede Vida SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3930.ts
 #EXTINF:-1 Dg-id="" Dg-name="HIT D HD" Dg-logo="" group-title="Música e Entretenimento",HIT D HD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/3927.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3927.ts
 #EXTINF:-1 Dg-id="" Dg-name="Sextreme SD" Dg-logo="" group-title="Adultos",Sextreme SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/3922.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3922.ts
 #EXTINF:-1 Dg-id="" Dg-name="Sexy hot SD" Dg-logo="" group-title="Adultos",Sexy hot SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/3921.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Sony SD" Dg-logo="http://t.likeipD.com/canalsonynovo.png" group-title="Filmes e Séries",Sony SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/3918.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Space SD" Dg-logo="http://t.likeipD.com/space.png" group-title="Filmes e Séries",Space SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/3916.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="SporD 2 SD" Dg-logo="http://t.likeipD.com/sporDoriginal.png" group-title="Esportes",SporD 2 SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/3913.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="SporD 3 SD" Dg-logo="http://t.likeipD.com/sporDoriginal.png" group-title="Esportes",SporD 3 SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/3911.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="SporD SD" Dg-logo="http://t.likeipD.com/sporDoriginal.png" group-title="Esportes",SporD SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/3914.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Studio Universal SD" Dg-logo="http://t.likeipD.com/studio.png" group-title="Filmes e Séries",Studio Universal SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/3908.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="SYFY SD" Dg-logo="http://t.likeipD.com/sy.png" group-title="Filmes e Séries",SYFY SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/3906.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="TBS SD" Dg-logo="http://t.likeipD.com/tbs.png" group-title="Filmes e Séries",TBS SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/3904.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3921.ts
+#EXTINF:-1 Dg-id="" Dg-name="Sony SD" Dg-logo="http://t.liKEIPTV.com/canalsonynovo.png" group-title="Filmes e Séries",Sony SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3918.ts
+#EXTINF:-1 Dg-id="" Dg-name="Space SD" Dg-logo="http://t.liKEIPTV.com/space.png" group-title="Filmes e Séries",Space SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3916.ts
+#EXTINF:-1 Dg-id="" Dg-name="SporD 2 SD" Dg-logo="http://t.liKEIPTV.com/sporDoriginal.png" group-title="Esportes",SporD 2 SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3913.ts
+#EXTINF:-1 Dg-id="" Dg-name="SporD 3 SD" Dg-logo="http://t.liKEIPTV.com/sporDoriginal.png" group-title="Esportes",SporD 3 SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3911.ts
+#EXTINF:-1 Dg-id="" Dg-name="SporD SD" Dg-logo="http://t.liKEIPTV.com/sporDoriginal.png" group-title="Esportes",SporD SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3914.ts
+#EXTINF:-1 Dg-id="" Dg-name="Studio Universal SD" Dg-logo="http://t.liKEIPTV.com/studio.png" group-title="Filmes e Séries",Studio Universal SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3908.ts
+#EXTINF:-1 Dg-id="" Dg-name="SYFY SD" Dg-logo="http://t.liKEIPTV.com/sy.png" group-title="Filmes e Séries",SYFY SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3906.ts
+#EXTINF:-1 Dg-id="" Dg-name="TBS SD" Dg-logo="http://t.liKEIPTV.com/tbs.png" group-title="Filmes e Séries",TBS SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3904.ts
 #EXTINF:-1 Dg-id="" Dg-name="Telecine Action SD" Dg-logo="http://cliente.kudaplay.D/tema/canais_logo/HD_TC_ACTION.png" group-title="Filmes e Séries",Telecine Action SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/3901.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3901.ts
 #EXTINF:-1 Dg-id="" Dg-name="Telecine Cult SD" Dg-logo="http://revenda.kudaplay.D/tema/canais_logo/SD_TC_CULT.png" group-title="Filmes e Séries",Telecine Cult SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/3899.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3899.ts
 #EXTINF:-1 Dg-id="" Dg-name="Telecine Fun SD" Dg-logo="http://revenda.kudaplay.D/tema/canais_logo/SD_TC_FUN.png" group-title="Filmes e Séries",Telecine Fun SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/3897.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3897.ts
 #EXTINF:-1 Dg-id="" Dg-name="Telecine Pipoca SD" Dg-logo="http://revenda.kudaplay.D/tema/canais_logo/SD_TC_PIPOCA.png" group-title="Filmes e Séries",Telecine Pipoca SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/3895.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3895.ts
 #EXTINF:-1 Dg-id="" Dg-name="Telecine Premium SD" Dg-logo="http://www.Dmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="Filmes e Séries",Telecine Premium SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/3893.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3893.ts
 #EXTINF:-1 Dg-id="" Dg-name="Telecine Touch SD" Dg-logo="http://revenda.kudaplay.D/tema/canais_logo/SD_TC_TOUCH.png" group-title="Filmes e Séries",Telecine Touch SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/3891.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="The History Channel SD" Dg-logo="http://t.likeipD.com/hnovo.png" group-title="Documentários",The History Channel SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4079.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3891.ts
+#EXTINF:-1 Dg-id="" Dg-name="The History Channel SD" Dg-logo="http://t.liKEIPTV.com/hnovo.png" group-title="Documentários",The History Channel SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4079.ts
 #EXTINF:-1 Dg-id="TLC SD" Dg-name="TLC SD" Dg-logo="" group-title="Variedades",TLC SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/3889.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3889.ts
 #EXTINF:-1 Dg-id="" Dg-name="TruD SD" Dg-logo="" group-title="Variedades",TruD SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/3881.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="D Brasil SD" Dg-logo="http://t.likeipD.com/Dbrasil.png" group-title="Abertos",D Brasil SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/3878.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="D Canção Nova SD" Dg-logo="http://t.likeipD.com/CANCANOVA.png" group-title="Abertos",D Canção Nova SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4167.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3881.ts
+#EXTINF:-1 Dg-id="" Dg-name="D Brasil SD" Dg-logo="http://t.liKEIPTV.com/Dbrasil.png" group-title="Abertos",D Brasil SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3878.ts
+#EXTINF:-1 Dg-id="" Dg-name="D Canção Nova SD" Dg-logo="http://t.liKEIPTV.com/CANCANOVA.png" group-title="Abertos",D Canção Nova SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4167.ts
 #EXTINF:-1 Dg-id="" Dg-name="D Diário Fortaleza SD" Dg-logo="" group-title="Abertos",D Diário Fortaleza SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/6885.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/6885.ts
 #EXTINF:-1 Dg-id="" Dg-name="Universal Channel SD" Dg-logo="" group-title="Filmes e Séries",Universal Channel SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/3872.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="D Vitória (Record ES) SD" Dg-logo="http://t.likeipD.com/RECORD.png" group-title="Abertos",D Vitória (Record ES) SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/6891.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3872.ts
+#EXTINF:-1 Dg-id="" Dg-name="D Vitória (Record ES) SD" Dg-logo="http://t.liKEIPTV.com/RECORD.png" group-title="Abertos",D Vitória (Record ES) SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/6891.ts
 #EXTINF:-1 Dg-id="" Dg-name="PLAYBOY SD" Dg-logo="" group-title="Adultos",PLAYBOY SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/5623.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="IURD D SD" Dg-logo="http://t.likeipD.com/iurd.png" group-title="Religiosos",IURD D SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/3105.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="D Evangelizar SD" Dg-logo="http://t.likeipD.com/Devangelizar.png" group-title="Religiosos",D Evangelizar SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/3107.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="D Terceiro Anjo SD" Dg-logo="http://t.likeipD.com/terceiroanjo.png" group-title="Religiosos",D Terceiro Anjo SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/3102.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/5623.ts
+#EXTINF:-1 Dg-id="" Dg-name="IURD D SD" Dg-logo="http://t.liKEIPTV.com/iurd.png" group-title="Religiosos",IURD D SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3105.ts
+#EXTINF:-1 Dg-id="" Dg-name="D Evangelizar SD" Dg-logo="http://t.liKEIPTV.com/Devangelizar.png" group-title="Religiosos",D Evangelizar SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3107.ts
+#EXTINF:-1 Dg-id="" Dg-name="D Terceiro Anjo SD" Dg-logo="http://t.liKEIPTV.com/terceiroanjo.png" group-title="Religiosos",D Terceiro Anjo SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3102.ts
 #EXTINF:-1 Dg-id="" Dg-name="ESPN + SD" Dg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-2.png" group-title="Esportes",ESPN + SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/5620.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Globo Brasilia SD" Dg-logo="http://t.likeipD.com/GLOBO.png" group-title="Abertos",Globo Brasilia SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/7605.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/5620.ts
+#EXTINF:-1 Dg-id="" Dg-name="Globo Brasilia SD" Dg-logo="http://t.liKEIPTV.com/GLOBO.png" group-title="Abertos",Globo Brasilia SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/7605.ts
 #EXTINF:-1 Dg-id="" Dg-name="VH1 Mega Hits SD" Dg-logo="http://revenda.kudaplay.D/tema/canais_logo/HD_VH1.png" group-title="Música e Entretenimento",VH1 Mega Hits SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4611.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4611.ts
 #EXTINF:-1 Dg-id="" Dg-name="Warner Channel SD" Dg-logo="" group-title="Filmes e Séries",Warner Channel SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4618.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="D Século 21 SD" Dg-logo="http://t.likeipD.com/Dseculo.png" group-title="Religiosos",D Século 21 SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/6922.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="D Rio Largo (Maceió) SD" Dg-logo="http://t.likeipD.com/riolargo.png" group-title="Abertos",D Rio Largo (Maceió) SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/6932.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4618.ts
+#EXTINF:-1 Dg-id="" Dg-name="D Século 21 SD" Dg-logo="http://t.liKEIPTV.com/Dseculo.png" group-title="Religiosos",D Século 21 SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/6922.ts
+#EXTINF:-1 Dg-id="" Dg-name="D Rio Largo (Maceió) SD" Dg-logo="http://t.liKEIPTV.com/riolargo.png" group-title="Abertos",D Rio Largo (Maceió) SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/6932.ts
 #EXTINF:-1 Dg-id="" Dg-name="D Ra-tim-bum SD" Dg-logo="" group-title="Infantil",D Ra-tim-bum SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4595.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="TNT SD" Dg-logo="http://t.likeipD.com/tnt.png" group-title="Filmes e Séries",TNT SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/3887.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="TCM SD" Dg-logo="http://t.likeipD.com/tcm.png" group-title="Filmes e Séries",TCM SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/3902.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="TNT Series SD" Dg-logo="http://t.likeipD.com/tntseries.png" group-title="Filmes e Séries",TNT Series SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/3885.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Rede D SD" Dg-logo="http://t.likeipD.com/redeD10.png" group-title="Abertos",Rede D SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4627.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4595.ts
+#EXTINF:-1 Dg-id="" Dg-name="TNT SD" Dg-logo="http://t.liKEIPTV.com/tnt.png" group-title="Filmes e Séries",TNT SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3887.ts
+#EXTINF:-1 Dg-id="" Dg-name="TCM SD" Dg-logo="http://t.liKEIPTV.com/tcm.png" group-title="Filmes e Séries",TCM SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3902.ts
+#EXTINF:-1 Dg-id="" Dg-name="TNT Series SD" Dg-logo="http://t.liKEIPTV.com/tntseries.png" group-title="Filmes e Séries",TNT Series SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/3885.ts
+#EXTINF:-1 Dg-id="" Dg-name="Rede D SD" Dg-logo="http://t.liKEIPTV.com/redeD10.png" group-title="Abertos",Rede D SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4627.ts
 #EXTINF:-1 Dg-id="" Dg-name="RBS D Porto Alegre SD" Dg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c3/RBS_D.png" group-title="Abertos",RBS D Porto Alegre SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4631.m3u8
-#EXTINF:-1 Dg-id="" Dg-name="Premiere 7 SD" Dg-logo="http://t.likeipD.com/premiere.png" group-title="Esportes",Premiere 7 SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4614.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4631.ts
+#EXTINF:-1 Dg-id="" Dg-name="Premiere 7 SD" Dg-logo="http://t.liKEIPTV.com/premiere.png" group-title="Esportes",Premiere 7 SD
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4614.ts
 #EXTINF:-1 Dg-id="" Dg-name="Fox Sports SD" Dg-logo="http://www.bastidoresdaD.com.br/wp-content/uploads/2014/03/Fox.png" group-title="Esportes",Fox Sports SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4116.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4116.ts
 #EXTINF:-1 Dg-id="" Dg-name="Fox Sports 2 SD" Dg-logo="http://www.bastidoresdaD.com.br/wp-content/uploads/2014/03/Fox.png" group-title="Esportes",Fox Sports 2 SD
-http://br1.e-tv.xyz:8081/live/LIKEIPDAPP/hsm0KMnCQZ/4115.m3u8
+http://br1.e-tv.xyz:8081/live/LIKEIPTVAPP/hsm0KMnCQZ/4115.ts
 
 #EXTINF:-1 Dg-logo="" group-title="CANAIS HD", A&E HD
 http://1npu757r34m1n9.fantastictv.tk:8880/live/z8gPqPRsS8/ma5g8DGxqu/454.ts
